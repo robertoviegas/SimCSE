@@ -1,0 +1,24 @@
+# Use a imagem base do TensorFlow com suporte a GPU
+FROM ubuntu:24.10
+
+WORKDIR /app
+
+RUN apt-get update
+RUN apt install python3-pip ipython3 -y
+RUN apt-get install software-properties-common -y
+RUN add-apt-repository ppa:deadsnakes/ppa
+# RUN apt-get update
+RUN apt-get install -y python3.8
+RUN apt install python3-venv -y
+RUN apt-get install python3.8 
+# RUN python3 -m venv mestrado
+CMD ["source mestrado/bin/activate"]
+
+
+# # # Copie o arquivo de requisitos e instale as dependências do Python
+COPY requirements.txt /app/
+RUN pip install -r requirements.txt
+RUN pip install tf-keras
+
+# Copie o restante da sua aplicação
+COPY . .
