@@ -42,7 +42,11 @@ MODEL_CONFIG_CLASSES = list(MODEL_FOR_MASKED_LM_MAPPING.keys())
 MODEL_TYPES = tuple(conf.model_type for conf in MODEL_CONFIG_CLASSES)
 
 import warnings
-warnings.simplefilter(action='ignore', category=FutureWarning)
+# warnings.simplefilter(action='ignore', category=FutureWarning)
+warnings.filterwarnings("ignore")
+
+# Se quiser definir globalmente:
+logging.getLogger().setLevel(logging.WARNING)
 
 @dataclass
 class ModelArguments:
@@ -275,7 +279,7 @@ def main():
     logging.basicConfig(
         format="%(asctime)s - %(levelname)s - %(name)s -   %(message)s",
         datefmt="%m/%d/%Y %H:%M:%S",
-        level=logging.INFO if is_main_process(training_args.local_rank) else logging.WARN,
+        level=logging.WARNING if is_main_process(training_args.local_rank) else logging.WARN,
     )
 
     # Log on each process the small summary:

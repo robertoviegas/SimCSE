@@ -24,26 +24,65 @@ from senteval.sick import SICKEval
 
 
 class STSEval(object):
+    # def loadFile(self, fpath):
+    #     self.data = {}
+    #     self.samples = []
+
+    #     for dataset in self.datasets:
+    #         sent1, sent2 = zip(*[l.split("\t") for l in
+    #                            io.open(fpath + '/STS.input.%s.txt' % dataset,
+    #                                    encoding='utf8').read().splitlines()])
+    #         raw_scores = np.array([x for x in
+    #                                io.open(fpath + '/STS.gs.%s.txt' % dataset,
+    #                                        encoding='utf8')
+    #                                .read().splitlines()])
+    #         not_empty_idx = raw_scores != ''
+
+    #         gs_scores = [float(x) for x in raw_scores[not_empty_idx]]
+    #         print(not_empty_idx)
+    #         print(sent1)
+    #         sent1 = np.array([s.split() for s in sent1])[not_empty_idx]
+    #         sent2 = np.array([s.split() for s in sent2])[not_empty_idx]
+    #         # sort data by length to minimize padding in batcher
+    #         sorted_data = sorted(zip(sent1, sent2, gs_scores),
+    #                              key=lambda z: (len(z[0]), len(z[1]), z[2]))
+    #         sent1, sent2, gs_scores = map(list, zip(*sorted_data))
+
+    #         self.data[dataset] = (sent1, sent2, gs_scores)
+    #         self.samples += sent1 + sent2
+
     def loadFile(self, fpath):
         self.data = {}
         self.samples = []
 
         for dataset in self.datasets:
+            # Lê os pares de sentenças
             sent1, sent2 = zip(*[l.split("\t") for l in
-                               io.open(fpath + '/STS.input.%s.txt' % dataset,
-                                       encoding='utf8').read().splitlines()])
+                                io.open(f"{fpath}/STS.input.{dataset}.txt", encoding='utf8')
+                                .read().splitlines()])
+
+            # Lê os scores brutos
             raw_scores = np.array([x for x in
-                                   io.open(fpath + '/STS.gs.%s.txt' % dataset,
-                                           encoding='utf8')
-                                   .read().splitlines()])
+                                io.open(f"{fpath}/STS.gs.{dataset}.txt", encoding='utf8')
+                                .read().splitlines()])
+
+            # Filtra índices não vazios
             not_empty_idx = raw_scores != ''
 
+            # Filtra e converte os scores para float
             gs_scores = [float(x) for x in raw_scores[not_empty_idx]]
-            sent1 = np.array([s.split() for s in sent1])[not_empty_idx]
-            sent2 = np.array([s.split() for s in sent2])[not_empty_idx]
-            # sort data by length to minimize padding in batcher
+
+            # Tokeniza as sentenças
+            tokenized_sent1 = [s.split() for s in sent1]
+            tokenized_sent2 = [s.split() for s in sent2]
+
+            # Aplica o filtro de índices válidos nas listas tokenizadas
+            sent1 = [s for s, keep in zip(tokenized_sent1, not_empty_idx) if keep]
+            sent2 = [s for s, keep in zip(tokenized_sent2, not_empty_idx) if keep]
+
+            # Ordena os dados por tamanho para otimizar padding posterior
             sorted_data = sorted(zip(sent1, sent2, gs_scores),
-                                 key=lambda z: (len(z[0]), len(z[1]), z[2]))
+                                key=lambda z: (len(z[0]), len(z[1]), z[2]))
             sent1, sent2, gs_scores = map(list, zip(*sorted_data))
 
             self.data[dataset] = (sent1, sent2, gs_scores)

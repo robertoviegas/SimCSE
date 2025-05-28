@@ -1,0 +1,12 @@
+{
+  "name": "Meu Ambiente Docker",
+  "context": "..",
+  "dockerFile": "../Dockerfile",
+  "workspaceFolder": "/app",
+  "runArgs": ["--gpus=all", "--shm-size=2g"],
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "extensions": ["ms-python.python", "ms-toolsai.jupyter"],
+  "mounts": ["source=${localWorkspaceFolder},target=/app,type=bind"]
+}

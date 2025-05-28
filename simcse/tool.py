@@ -13,7 +13,7 @@ from typing import List, Dict, Tuple, Type, Union
 logging.basicConfig(format='%(asctime)s - %(levelname)s - %(name)s -   %(message)s', datefmt='%m/%d/%Y %H:%M:%S',
                     level=logging.INFO)
 logger = logging.getLogger(__name__)
-
+logging.getLogger().setLevel(logging.WARNING)
 class SimCSE(object):
     """
     A class for embedding sentences, calculating similarities, and retriving sentences by SimCSE.
