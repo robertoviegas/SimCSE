@@ -4,6 +4,7 @@ FROM tensorflow/tensorflow:2.13.0-gpu
 # Install system dependencies, including curl and build-essential for Rust
 RUN apt-get update && apt-get install -y \
     curl \
+    git \
     build-essential \
     && rm -rf /var/lib/apt/lists/*
 
