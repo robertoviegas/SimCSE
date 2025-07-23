@@ -140,5 +140,4 @@ runs
 runs/*
 *.csv
 /mlruns
-*.txt
 /textos_wikipedia
