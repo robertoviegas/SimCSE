@@ -130,7 +130,9 @@ dmypy.json
 .pyre/
 .DS_Store
 .vscode
-data
+data/csv
+data/text
+*.lock
 result
 .venv-cu11
 wandb
@@ -138,6 +140,8 @@ wandb
 runs
 *.xlsx
 runs/*
-*.csv
+# *.csv
 /mlruns
 /textos_wikipedia
+data/portuguese_wiki1m_real/pt_wiki1m_for_simcse_real.txt
+*.xml
