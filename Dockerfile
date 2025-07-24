@@ -1,5 +1,8 @@
 # Use a base image, for example, TensorFlow with GPU support
-FROM tensorflow/tensorflow:2.13.0-gpu
+# FROM tensorflow/tensorflow:2.13.0-gpu
+
+#para execuatar na dgx
+FROM tensorflow/tensorflow:2.10.1-gpu
 
 # Install system dependencies, including curl and build-essential for Rust
 RUN apt-get update && apt-get install -y \
