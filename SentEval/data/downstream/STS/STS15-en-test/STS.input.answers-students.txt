@@ -1,0 +1,1500 @@
+"O estado elétrico no terminal combina com a bateria" "Estado elétrico"	O terminal 1 está conectado ao terminal da bateria negativo
+Há uma lacuna entre o terminal positivo 6	Não há lacuna entre o terminal 6 e o ​​terminal positivo
+estava copiado no circuito fechado	A lâmpada A ainda está contida em um caminho fechado com a bateria.
+Quando uma lâmpada sai, ela cria uma lacuna no caminho.	Cada lâmpada está em seu próprio caminho
+As lâmpadas queimadas não têm tensão em um dos terminais lá.	Uma tensão diferente de zero significa que os terminais não estão conectados.
+O caminho fechado está conectado à lâmpada	A lâmpada A ainda estava contida no mesmo caminho fechado com a bateria.
+porque a lâmpada A está contida no mesmo caminho fechado que a bateria	A lâmpada A ainda estava contida no mesmo caminho fechado com a bateria.
+Porque há uma lacuna na lâmpada B	Os terminais 1, 2 e 3 são separados do terminal de bateria positivo por uma lacuna
+há uma lâmpada danificada	O terminal 6 é separado por uma lacuna do terminal de bateria negativo
+O caminho deve ser fechado para que a lâmpada seja acesa	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+As lâmpadas A e C estão em caminhos separados.	A, B e C estão em caminhos diferentes
+A bateria é uma reação química que não depende do circuito completo ou não.	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+Você chegou a um ponto em que os terminais não estão conectados um ao outro.	Os terminais não estão conectados
+As lâmpadas A e C não estão em um caminho fechado com a lâmpada B	Bulbo B está em um caminho separado
+Quando o switch z estava fechado bulbo A estava em um curcuit completo	A lâmpada A ainda está contida em um caminho fechado com a bateria e o comutador z.
+tinha um caminho fechado para a bateria	A lâmpada A ainda estava contida no mesmo caminho fechado com a bateria.
+Switch y não está no caminho para a bateria	A lâmpada A ainda está em um caminho fechado com a bateria
+Não houve lacuna entre o terminal 6 e o ​​terminal positivo.	Não há lacuna entre o terminal 6 e o ​​terminal positivo
+não contido em um caminho fechado	A lâmpada C não estava em um caminho fechado
+Os terminais da bateria têm diferentes estados elétricos.	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+Porque a lâmpada A está danificada	Os terminais 1, 2 e 3 são separados do terminal de bateria positivo por uma lacuna
+Um interruptor aberto causa uma lacuna.	O interruptor aberto cria uma lacuna
+bulbo A e bulbo C afetam um ao outro.	A e C estão no mesmo caminho fechado
+O terminal é separado do terminal da bateria	Os terminais são separados por uma lacuna
+Se isso interromper o caminho da lâmpada e da bateria	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+Se o interruptor estiver no caminho fechado, afeta a lâmpada	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+A bateria está conectada a si mesma em um caminho fechado	A bateria está contida em um caminho fechado que não contém outros componentes
+Switch Y não está no mesmo caminho da lâmpada a.	A lâmpada A ainda está em um caminho fechado com a bateria
+onde o interruptor está no caminho determina se afeta a lâmpada	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+Quando um interruptor está aberto, o circuito não está mais completo	Existe um circuito incompleto
+uma lâmpada causa uma diferença no estado elétrico	Uma tensão diferente de zero significa que os terminais não estão conectados.
+a bateria deve estar conectada à lâmpada	Existe um circuito completo
+A tensão entre o terminal 1 e o terminal positivo é de 1,5 V	O terminal 1 e o terminal positivo são separados pela lacuna
+Porque o circuito positivo tem uma tensão de 1,5 volts.	O terminal 1 e o terminal positivo são separados pela lacuna
+O circuito não está mais completo quando os interruptores estão abertos	Existe um circuito incompleto
+A lâmpada é conectada apenas na conexão negativa.	A bateria está em um caminho aberto
+"A energia flui pelo caminho, então se houver" "é uma lacuna, há" "não é energia"	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+Não há um terminal conectado ao caminho positivo da bateria	A bateria está em um caminho aberto
+O terminal não está conectado ao terminal da bateria	Os terminais não estão conectados
+Se o caminho contiver estiver fechado com uma bateria, a lâmpada acenderá.	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+Não há lacuna entre o terminal da bateria positivo e o terminal 5	Não há lacuna entre o terminal 5 e o terminal positivo
+ele corta a corrente da bateria	O caminho não está fechado
+Gap entre o terminal 3 e o terminal de bateria positivo	O terminal 3 e o terminal positivo são separados pela lacuna
+ambas as lâmpadas A e C estão contidas em um caminho fechado	A e C estão no mesmo caminho fechado
+A lâmpada A e a lâmpada C ainda estavam contidos em um caminho fechado com a bateria.	As lâmpadas A e C ainda estão contidas em caminhos fechados com a bateria
+Porque a lacuna cria uma diferença nos estados elétricos	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+A bateria está contida em um caminho fechado sem dispositivos	A bateria está contida em um caminho fechado que não contém outros componentes
+Ainda há um caminho fechado	Se a lâmpada é queimaduras, as lâmpadas B e C ainda estão em um caminho fechado
+o interruptor está no mesmo caminho que a lâmpada	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+estão no mesmo fio	A e C estão no mesmo caminho fechado
+bulbo b não afeta as outras lâmpadas	Existe um circuito incompleto
+há um caminho fechado	As lâmpadas A e B estão em um caminho fechado
+Porque o medidor foi conectado a dois lados da bateria.	O terminal 1 e o terminal positivo são separados pela lacuna
+Não há lacuna no caminho	O terminal 1 e o terminal positivo são separados pela lacuna
+Remover ou danificar uma lâmpada não afetará a outra.	A e C estão em caminhos diferentes com a bateria
+Se houver uma lacuna entre os terminais, a tensão será diferente.	A tensão de medição indica se dois terminais são separados por uma lacuna.
+Porque a reação química não é efetuada por uma lacuna.	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+Não há uma conexão entre um terminal de lâmpadas e um terminal de bateria.	Não há lacuna entre os terminais
+que está conectado ao terminal negativo	Não há lacuna entre os terminais
+O terminal 1 é conectado à bateria de 1,5 volts.	O terminal 1 está conectado ao terminal da bateria negativo
+faz com que seja um caminho aberto em vez de fechado	há um caminho aberto
+Porque A e C ainda têm uma conexão com a bateria	As lâmpadas A e C ainda estão em caminhos fechados com a bateria
+A bateria está em um caminho fechado	A bateria está contida em um caminho fechado no qual não há lâmpada
+Foi fechado em um circuito completo	A lâmpada A ainda estava contida no mesmo caminho fechado com a bateria.
+se estiver no mesmo caminho que a lâmpada.	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+por causa da reação química na bateria	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+porque houve uma lacuna na conexão	O terminal 1 e o terminal positivo são separados pela lacuna
+Havia uma lacuna negativa	O terminal 4 é separado por uma lacuna do terminal de bateria negativo
+Se a lâmpada estiver contida em um caminho fechado com um interruptor	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+Terminal positivo da bateria é separado por uma lacuna do terminal 6	Não há lacuna entre o terminal 6 e o ​​terminal positivo
+"Porque o switch z está na lâmpada C" "Caminho fechado"	há um caminho contendo z e c
+A lâmpada A e B ainda estão contidas em caminhos fechados	As lâmpadas A e B estão em um caminho fechado
+Uma bateria sempre tem tensão, a menos que seja danificada	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+O terminal 6 está conectado ao terminal positivo da bateria	Os terminais 1 e 6 não estão conectados
+porque o terminal 1 não está conectado ao terminal 6.	Os terminais 1 e 6 não estão conectados
+Não há diferença nos estados elétricos.	Os terminais 1, 2 e 3 são separados do terminal de bateria positivo por uma lacuna
+porque as lâmpadas são conectadas ao terminal negativo da bateria	Os terminais 1, 2 e 3 estão conectados ao terminal de bateria negativo
+O terminal positivo da bateria é separado por uma lacuna do terminal 1	O terminal 2 não está separado do terminal de bateria negativo
+Bulb B e C ainda estão em um caminho fechado com a bateria	As lâmpadas B e C ainda estão em caminhos fechados com a bateria
+A lâmpada A e B ainda estão contidas em caminhos fechados com a bateria	Se C queima, então A e B ainda estão em um caminho fechado com a bateria.
+A lâmpada causa uma lacuna	A tensão de medição indica o local onde o estado elétrico muda devido a uma lacuna.
+Há uma lacuna entre o terminal da bateria e o terminal da lâmpada.	Não há lacuna entre os terminais
+Quando um interruptor, uma bateria e uma lâmpada estão em um circuito fechado.	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+Os terminais não estão conectados	Os terminais 1 e 6 não estão conectados
+Circuito 2 é um curto -circuito	Não há caminho fechado contendo a bateria
+Não está no mesmo caminho que a lâmpada a.	A lâmpada A ainda está em um caminho fechado com a bateria
+O caminho deve conter uma bateria	o interruptor e a lâmpada precisam estar no mesmo caminho
+O BLUB não está contido no mesmo caminho fechado que a bateria	A lâmpada não está no caminho fechado que contém a bateria
+porque estava conectado ao terminal positivo	O terminal 1 e o terminal positivo são separados pela lacuna
+Terminal 1 e Terminal 4 estão conectados	Os terminais 1 e 4 estão conectados
+A bateria sempre tem tensão	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+O terminal da bateria negativo e os terminais 1, 2 e 3 estão localizados mais próximos um do outro	Os terminais 1, 2 e 3 são separados do terminal de bateria positivo por uma lacuna
+O terminal 4 está conectado à lâmpada B	Terminal 4 e o terminal positivo da bateria estão no mesmo estado elétrico
+Como uma lacuna A não afeta a tensão de uma bateria	Os terminais 1, 2 e 3 são separados do terminal de bateria positivo por uma lacuna
+O terminal positivo está conectado à lâmpada	O terminal 1 e o terminal positivo são separados pela lacuna
+Porque 1,5 V menos 0 V é igual a 1,5 V	O terminal 1 e o terminal positivo são separados pela lacuna
+O interruptor deve estar contido no mesmo caminho que a lâmpada e a bateria	o interruptor e a lâmpada precisam estar no mesmo caminho
+As lâmpadas são contidas em caminhos diferentes com a bateria	A e C estão em caminhos diferentes com a bateria
+uma bateria e um circuito fechado.	A lâmpada e a bateria estão em um caminho fechado
+Porque a lâmpada C ainda não estava contida em um caminho fechado com a bateria	A lâmpada C não estava mais em um caminho fechado com a bateria
+Há um caminho fechado que contém lâmpada e uma bateria	A lâmpada A ainda está em um caminho fechado com a bateria
+"Ambas as extremidades da bateria não" "t conectado um ao outro".	Não há caminho fechado contendo a bateria
+há uma lacuna no caminho	Se a bulbo é queimada, nem B nem C estão em um caminho fechado
+Porque havia um circuito fechado	O terminal 1 e o terminal positivo são separados pela lacuna
+Se a lâmpada estiver contida no caminho	o interruptor e a lâmpada precisam estar no mesmo caminho
+A e C ambos criam circundas com a bateria	As lâmpadas A e C ainda estão em caminhos fechados com a bateria
+A bateria positiva é separada por uma lacuna com o terminal 1.	O terminal 1 e o terminal positivo são separados pela lacuna
+O terminal positivo e o terminal 1 Leia 1,5 V porque a diferença nos terminais é de 1,5 V	O terminal 1 e o terminal positivo são separados pela lacuna
+O terminal 4 é conectado ao terminal da bateria positivo.	Terminal 5 e o terminal positivo estão conectados
+Porque está conectado a uma lâmpada que é um caminho fechado	A bateria está em um caminho aberto
+Porque existe uma lacuna entre o terminal 1 e o terminal 6.	Há uma lacuna entre os terminais 1 e 6
+O terminal 1 foi conectado a um terminal negativo 4.	Os terminais 1 e 4 estão conectados
+Porque X e Z podem ser fechados e funcionará.	Ainda há um caminho fechado contendo o interruptor Z, switch x, lâmpadas A e C e a bateria
+O interruptor está em um caminho com a lâmpada	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+As lâmpadas A e C não estão no mesmo caminho fechado.	A e C não estão no mesmo caminho
+Se a lâmpada B estiver danificada, ela não faz um circuito completo	Existe um circuito incompleto
+A lâmpada A e B ainda estão contidas em um caminho fechado e conectado a uma bateria	Se C queima, então A e B ainda estão em um caminho fechado com a bateria.
+O valor da medição indica se a lâmpada está queimada	A tensão de medição indica o local onde o estado elétrico muda devido a uma lâmpada danificada.
+bulbo b e c estão em um caminho fechado com a bateria	Nenhum caminho que contém o interruptor X e a lâmpada B ou a lâmpada C
+A lâmpada A está contida em um caminho fechado e não é afetado pelo comutador y.	interruptor y e bulbo a não estão no mesmo caminho fechado
+Os estados elétricos de dois terminais quando conectados determinarão as lacunas e ajudarão a localizar uma lâmpada queimada.	A tensão de medição indica o local onde o estado elétrico muda devido a uma lâmpada danificada.
+Houve um caminho fechado entre a bateria e a lâmpada a.	A lâmpada A ainda estava contida no mesmo caminho fechado com a bateria.
+O caminho 5 é um curto -circuito.	A bateria está contida em um caminho que não contém outros componentes
+O estado elétrico pode localizar a lacuna	A tensão de medição indica o local onde o estado elétrico muda devido a uma lacuna.
+Porque a lâmpada A está em um circuito fechado com a bateria e o comutador x	A lâmpada A ainda está contida em um caminho fechado com a bateria e o comutador x.
+As lâmpadas estão no mesmo caminho com a bateria	A e C estão no mesmo caminho
+O terminal negativo da bateria é separado por uma lacuna do terminal 6, fazendo a tensão 0	O terminal 6 é separado por uma lacuna do terminal de bateria negativo
+O terminal negativo da bateria é conectado apenas ao terminal da lâmpada 1,2 e 3.	Os terminais 4, 5 e 6 não estão conectados ao terminal de bateria negativo
+que há uma lacuna	Não há lacuna entre os terminais
+A lâmpada A está contida em um caminho fechado com a bateria	A lâmpada A ainda está contida em um caminho fechado com a bateria.
+um componente para a bateria	Existe um circuito completo
+Terminal 4 está conectado ao terminal positivo da massa	Terminal 4 e o terminal positivo estão conectados
+Porque a lâmpada A e B estão dentro do mesmo caminho	Cada lâmpada está em seu próprio caminho
+Porque muda o caminho de fechado para abrir	há um caminho aberto
+Porque estava no mesmo circuito	interruptor y e bulbo a não estão no mesmo caminho fechado
+um componente fechado para a bateria	A lâmpada e a bateria estão em um caminho fechado
+As lâmpadas A e C estão em caminhos separados.	A e C estão em caminhos diferentes
+O terminal 2 foi conectado ao terminal negativo	O terminal 1 está conectado ao terminal da bateria negativo
+A lâmpada A e B continuará em um caminho fechado com a bateria	Se C queima, então A e B ainda estão em um caminho fechado com a bateria.
+As lâmpadas A e B ainda estão contidas em caminhos fechados com a bateria.	Se C queima, então A e B ainda estão em um caminho fechado com a bateria
+Havia um circuito fechado	A lâmpada A ainda está contida em um caminho fechado com a bateria.
+se estiver no caminho fechado com a bateria	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+Registrar uma tensão em um local informa que há uma lacuna em algum lugar entre os terminais medidos	A tensão de medição indica o local onde o estado elétrico muda devido a uma lacuna.
+contido no mesmo circuito não conectado ao terminal oposto	Os terminais 1 e 2 estão conectados
+Cria uma lacuna no caminho fechado	Uma lâmpada danificada cria uma lacuna
+Caminho fechado, conectado a uma bateria	Há um caminho fechado contendo a lâmpada e uma bateria
+porque pode estar em outro caminho fechado	há um caminho contendo um
+Porque B e C ainda estavam em um caminho fechado com a bateria	A lâmpada B e a lâmpada C ainda estavam contidas no mesmo caminho fechado com a bateria.
+Ele cria uma lacuna, para que nenhuma eletricidade da bateria possa fluir para as outras lâmpadas.	há um caminho aberto
+Porque há uma lacuna no circuito.	há uma lacuna no circuito
+Não era um caminho fechado	não havia mais um caminho fechado contendo lâmpada C e a bateria
+Porque a bateria está conectada à lâmpada	A bateria está em um caminho aberto
+Há uma lacuna entre os terminais	Os terminais 1, 2 e 3 são separados do terminal de bateria positivo por uma lacuna
+A bateria sozinha está em um caminho fechado	A bateria está contida em um caminho que não contém outros componentes
+As lâmpadas estão contidas em diferentes caminhos fechados.	A e C estão em caminhos diferentes com a bateria
+As lâmpadas B e C estão contidas no mesmo caminho com a bateria.	B e C estão no mesmo caminho com a bateria
+Havia caminhos fechados entre a bateria	A lâmpada A ainda estava contida no mesmo caminho fechado com a bateria.
+Porque tinha um circuito completo sem lacunas na bateria	A lâmpada A ainda está contida em um caminho fechado com a bateria.
+Porque os três primeiros terminais estão conectados ao lado negativo da bateria.	Os terminais 1, 2 e 3 estão conectados ao terminal de bateria negativo
+As lâmpadas B e C estão no caminho do AME como a bateria	As lâmpadas B e C ainda estão em caminhos fechados com a bateria
+há uma lacuna na conexão	Não há lacuna entre o terminal 6 e o ​​terminal positivo
+Terminal tem o mesmo estado elétrico	Os terminais 1 e 2 estão conectados e no mesmo estado elétrico
+Se o interruptor estiver no caminho, pode afetar a lâmpada	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+"A eletricidade pode" "T PASSAR"	Os terminais 4, 5 e 6 estão conectados ao terminal positivo da bateria
+Porque a lâmpada A está em um caminho diferente das lâmpadas B e C	A lâmpada A ainda está contida em um caminho fechado com a bateria.
+As lâmpadas B e C estarão em caminhos abertos com a bateria	Se a lâmpada a queima, B e C não estiverem mais em um caminho fechado com a bateria
+A lâmpada A estava em um caminho fechado	A lâmpada A ainda está contida em um caminho fechado com a bateria.
+A lâmpada A e a lâmpada C estão contidos em um caminho fechado com a bateria.	Se C queima, então A e B ainda estão em um caminho fechado com a bateria
+porque a lacuna não afetará a tensão.	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+O terminal 1 é conectado ao terminal negativo e o terminal 6 é conectado ao terminal positivo	Os terminais 1 e 6 não estão conectados
+o attério não está em um caminho fechado	A bateria em 2 não está em um caminho fechado
+Porque cria uma lacuna que, por sua vez, criou um caminho aberto	O interruptor aberto cria uma lacuna
+O terminal negativo da bateria é separado por uma lacuna do terminal 6 e o ​​bulbo C é danificado	O terminal 6 é separado por uma lacuna do terminal de bateria negativo
+Quando interrompe um caminho completo	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+Havia uma conexão entre o terminal 1 e o terminal positivo	O terminal 1 está conectado ao terminal da bateria negativo
+O terminal 1 é conectado ao terminal 4	Os terminais 1 e 4 estão conectados
+Não há lacuna no circuito.	A lâmpada A ainda está contida em um caminho fechado com a bateria.
+Há um caminho fechado que contém bulbo a e não contém o interruptor y	A lâmpada A ainda está em um caminho fechado com a bateria
+A lâmpada A e a lâmpada C estão em um caminho fechado com a bateria.	A lâmpada B e a lâmpada C ainda estavam contidas no mesmo caminho fechado com a bateria.
+As lâmpadas A e B ainda estão contidas em um caminho fechado com a bateria	Se C queima, então A e B ainda estão em um caminho fechado com a bateria
+Porque não foi conectado ao fim negativo do terminal	O terminal 1 está conectado ao terminal da bateria negativo
+Porque não havia lacuna no terminal positivo da bateria	O terminal 1 e o terminal positivo são separados pela lacuna
+Há uma conexão ruim entre um terminal de lâmpadas e um terminal de bateria.	Não há lacuna entre os terminais
+Porque ainda pegou a corrente de ambos os terminais	interruptor y e bulbo a não estão no mesmo caminho fechado
+As lâmpadas B e C não estão em um caminho fechado com a lâmpada a	Cada lâmpada está em seu próprio caminho
+lâmpada danificada a cria uma lacuna no circuito	Se a bulbo é queimada, nem B nem C estão em um caminho fechado
+A corrente diminuiu a bateria.	há um curto -circuito
+Os terminais passam de não estarem conectados a serem conectados um ao outro.	Os terminais não estão conectados
+porque o terminal 1 está conectado ao terminal da bateria positivo	O terminal 1 está conectado ao terminal da bateria negativo
+A bateria é contabilizada em um caminho fechado sem outro componente.	A bateria está contida em um caminho que não contém outros componentes
+A bateria e a lâmpada não estão contidas em um caminho próximo	A bateria em 4 não está em um caminho fechado
+Porque um dos terminais da lâmpada é ruim e os outros são bons.	Os terminais 4, 5 e 6 estão conectados ao terminal positivo da bateria
+Porque não está no caminho para a bateria	A lâmpada A ainda está em um caminho fechado com a bateria
+A lâmpada A, a lâmpada B e a lâmpada C não estão contidas no mesmo caminho fechado.	A e C não estão no mesmo caminho com a bateria
+tem seu próprio caminho que está conectado à bateria	Cada lâmpada está em seu próprio caminho
+Existe uma lacuna entre o terminal 6 e um terminal de bateria positivo	Não há lacuna entre o terminal 6 e o ​​terminal positivo
+Se o caminho for ininterrupto pelo interruptor, o interruptor não terá um efeito	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+As lâmpadas A e C estão conectadas dentro de um caminho fechado	A e C estão no mesmo caminho fechado
+Porque ainda estava conectado ao terminal da bateria.	A lâmpada A ainda está contida em um caminho fechado com a bateria.
+Não há lacuna, então não há diferença na tensão	Não há lacuna entre os terminais
+Não há um caminho fechado que contenha o batteyr e a lâmpada B e a lâmpada C	Se a lâmpada a queima, não há mais um caminho fechado contendo B, C e a bateria
+A tensão permanece a mesma dentro da bateria	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+Porque há uma lâmpada em um dos caminhos.	Não há caminho fechado contendo a bateria
+Quando um interruptor e lâmpada são um caminho fechado	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+Há uma lacuna no circuito.	há uma lacuna no circuito
+O terminal 1 está conectado ao terminl 4.	Os terminais 1 e 4 estão conectados
+O terminal positivo da bateria é separado por uma lacuna do terminal 3.	O terminal 3 e o terminal positivo são separados pela lacuna
+O terminal 1 está conectado ao terminal positivo	O terminal 1 e o terminal positivo são separados pela lacuna
+As lâmpadas A e C ainda estão contidas em caminhos fechados com a bateria	Se C queima, então A e B ainda estão em um caminho fechado com a bateria.
+Se um interruptor estiver conectado a uma lâmpada, ele ainda funcionará.	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+Porque a lâmpada C não está contida no caminho das outras lâmpadas	A e B têm seu próprio caminho
+O terminal está conectado ao terminal positivo da bateria	Terminal 6 e o ​​terminal positivo estão conectados
+A tensão não muda.	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+Os dois terminais de uma bateria sempre terão diferentes estados elétricos devido a uma reação química dentro da bateria	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+Existem outros caminhos fechados	As lâmpadas A e B estão em um caminho fechado
+a lâmpada não afeta os outros	Existe um circuito incompleto
+estão no mesmo caminho	A e C estão no mesmo caminho
+O terminal de bateria positivo é separado por uma lacuna do Terminal 2	O terminal 2 e o terminal positivo são separados pela lacuna
+O terminal 2 e o terminal positivo tiveram diferentes estados elétricos.	O terminal 2 e o terminal positivo são separados pela lacuna
+Switch Z está contido em um caminho fechado	há um caminho contendo z e c
+A bateria terá um estado elétrico diferente do circuito	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+Se uma lâmpada for removida, os outros param de funcionar	A e C estão no mesmo caminho fechado
+Os terminais 4, 5 e 6 estão conectados apenas ao terminal positivo da bateria.	Os terminais 4, 5 e 6 estão conectados ao terminal positivo da bateria
+A bateria positiva é separada por uma lacuna do terminal 2	O terminal 2 e o terminal positivo são separados pela lacuna
+Porque a queda de bulbo c não danificaria o circuito completo	Se C queima, então A e B ainda estão em um caminho fechado.
+Porque a lâmpada A e B ainda estão contidas em um caminho fechado com a bateria	Se C queima, então A e B ainda estão em um caminho fechado com a bateria
+Porque havia duas conexões negativas	Os terminais 1 e 2 estão conectados
+estão todos em caminhos separados	A e C estão em caminhos diferentes
+Porque o interruptor Y não é conatinado no caminho fechado da lâmpada A e da bateria.	A lâmpada A ainda está em um caminho fechado com a bateria
+Bulbo A e lâmpada B e a bateria estão em um caminho fechado.	Se C queima, então A e B ainda estão em um caminho fechado com a bateria.
+Eu disse que as lâmpadas A e C estão ligadas à bateria!	As lâmpadas A e C ainda estão em caminhos fechados com a bateria
+A lâmpada A está contida em seus caminhos fechados	Se a bulbo é queimada, nem B nem C estão em um caminho fechado
+Se o interruptor e a lâmpada estiverem no mesmo caminho	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+A lâmpada danificada cria uma lacuna no caminho.	Uma lâmpada danificada cria uma lacuna
+A lâmpada não está totalmente no caminho do circuito	A bateria está contida em um caminho que não contém outros componentes
+O terminal positivo da bateria está conectado ao terminal 4.	Terminal 4 e o terminal positivo estão conectados
+A lâmpada A não está no mesmo caminho que a lâmpada B e a lâmpada c.	Cada lâmpada está em seu próprio caminho
+Porque os circuitos serão fechados	As lâmpadas B e C ainda estão em caminhos fechados com a bateria
+Há uma lacuna no caminho fechado.	Se a bulbo é queimada, nem B nem C estão em um caminho fechado
+Não há um caminho fechado com a bateria e a lâmpada C	não havia mais um caminho fechado contendo lâmpada C e a bateria
+O estado elétrico será diferente de zero	Uma tensão diferente de zero significa que os terminais não estão conectados.
+O terminal positivo e o terminal 2 são separados por uma lacuna	O terminal 2 e o terminal positivo são separados pela lacuna
+Ambos os componentes precisam estar em caminhos fechados.	A lâmpada e a bateria estão em um caminho fechado
+Switch X ainda pode formar um caminho fechado	Ainda há um caminho fechado contendo o interruptor Z, switch x, lâmpadas A e C e a bateria
+Porque a lâmpada B é danificada e não permite que a corrente positiva da bateria chegue ao outro lado.	Os terminais 1, 2 e 3 não estão conectados ao terminal de bateria positivo
+O terminal 6 está conectado à extremidade postiva da bateria e ao medidor de tensão	Terminal 6 e o ​​terminal positivo estão conectados
+Um terminal não está conectado ao terminal da bateria positivo.	Os terminais 1 e 4 estão conectados
+Terminal positivo é sorriado do Terminal 2	O terminal 2 e o terminal positivo são separados pela lacuna
+A bateria está em um caminho aberto para a lâmpada.	A bateria está em um caminho aberto
+Haverá uma lacuna onde o suporte da lâmpada deve ser	há uma lacuna em um circuito
+As lâmpadas B e C ainda estarão em caminhos fechados com a bateria	As lâmpadas B e C ainda estão em caminhos fechados com a bateria
+Não há diferença nos estados elétricos	Os terminais 1 e 2 estão conectados e no mesmo estado elétrico
+Todos têm a mesma leitura de tensão	Os terminais 1, 2 e 3 são separados do terminal de bateria positivo por uma lacuna
+O caminho que uma lâmpada está em relação a determinar se um interruptor afeta ou não uma lâmpada	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+A lâmpada A está no seu próprio caminho fechado e as lâmpadas B e C estão no mesmo caminho fechado	Há um caminho contendo A e um caminho diferente contendo B e C
+A lâmpada A está conectada ao interruptor Z	Não há caminho contendo o comutador y e o bulbo a
+O terminal 6 é conectado ao terminal da bateria Posititve.	Terminal 6 e o ​​terminal positivo estão conectados
+Bulbo tinha um curto -circuito	Existe um circuito completo
+A bateria sempre terá tensão.	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+Ele desliga todas as lâmpadas.	O interruptor aberto cria uma lacuna
+A tensão é de 1,5 porque o terminal Bulb é conectado ao terminal da bateria.	O terminal 1 está conectado ao terminal da bateria negativo
+Porque A e C ainda estão em um circuito fechado	As lâmpadas A e C estão em um caminho fechado
+Ainda há um caminho fechado	As lâmpadas A e C estão em um caminho fechado
+O terminal positivo da bateria não está conectado ao terminal negativo da bateria.	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+A lâmpada C não está no mesmo caminho que a lâmpada A ou a lâmpada B	bulbo c está em um caminho separado
+Os terminais são enganados no terminal negativo da bateria.	Os terminais 1, 2 e 3 estão conectados ao terminal de bateria negativo
+Porque esses terminais estão conectados ao terminal positivo da bateria.	Os terminais 4, 5 e 6 estão conectados ao terminal positivo da bateria
+Uma lâmpada é conectada à bateria.	A bateria está em um caminho aberto
+Switch Z pode ser fechado	Ainda há um caminho fechado contendo o interruptor Z, switch x, lâmpadas A e C e a bateria
+O terminal positivo da bateria é um caminho fechado do terminal 4.	Terminal 4 e o terminal positivo da bateria estão no mesmo estado elétrico
+Uma lâmpada danificada interrompe o fluxo da corrente.	Uma lâmpada danificada cria uma lacuna
+Porque não há lacuna entre o terminal positivo e negativo	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+O terminal 1 está conectado a uma bateria	Os terminais 1 e 2 estão no mesmo estado elétrico
+A lâmpada A ainda estava em um caminho fechado	A lâmpada A ainda está contida em um caminho fechado com a bateria e o comutador x.
+Há uma lacuna na conexão.	Não há lacuna entre os terminais
+há um caminho fechado, sem lâmpada no caminho	A bateria está contida em um caminho em que não há lâmpada
+Danificar a lâmpada A cria uma lacuna.	Se a bulbo é queimada, nem B nem C estão em um caminho fechado
+A lâmpada A está no mesmo caminho das lâmpadas B e C	Se a lâmpada a queima, B e C não estiverem mais em um caminho fechado com a bateria
+As lâmpadas A e C ainda estão contidas em um caminho fechado com a bateria.	As lâmpadas A e C ainda estão em caminhos fechados com a bateria
+A lâmpada B não criou uma lacuna no caminho para a lâmpada B ou C	As lâmpadas A e C ainda estão em caminhos fechados
+O terminal 1 não está conectado ao terminal de bateria positivo	Terminal 1 e o terminal positivo não estão conectados
+Porque há uma lacuna	O terminal 1 e o terminal positivo são separados pela lacuna
+A bateria está contida no circuito e a lâmpada não é	A bateria está contida em um caminho em que não há lâmpada
+Porque uma reação química dentro da bateria mantém os terminais positivos e negativos em diferentes estados elétricos o tempo todo.	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+A bateria está em um circuito fechado	A bateria está contida em um caminho fechado no qual não há lâmpada
+Porque interrompe o fluxo de um lado de uma bateria de alcançar as outras lâmpadas.	O caminho não está fechado
+A bateria usa uma reação química para manter a tensão,	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+porque estava contido no mesmo caminho que a bateria	A lâmpada A ainda estava contida no mesmo caminho fechado com a bateria.
+Terminal 4, Terminal 5 e Terminal 6 estão conectados ao terminal positivo	Os terminais 4, 5 e 6 estão conectados ao terminal positivo da bateria
+O terminal 4 é separado por uma lacuna do terminal negativo	O terminal 4 é separado por uma lacuna do terminal de bateria negativo
+A lâmpada B e C estão contidas no mesmo caminho com a bateria.	B e C estão no mesmo caminho com a bateria
+estava em um caminho fechado com uma bateria	A lâmpada A ainda estava contida no mesmo caminho fechado com a bateria.
+O terminal de massa negativo é separado por uma lacuna do Terminal 4	O terminal 4 é separado por uma lacuna do terminal de bateria negativo
+Porque o caminho entre a bateria e a lâmpada não está fechado	O caminho não está fechado
+Há uma lacuna entre a lâmpada e o terminal da bateria.	Não há lacuna entre os terminais
+A lâmpada A e a lâmpada B são conter4D em diferentes caminhos com a bateria.	A e C estão em caminhos diferentes com a bateria
+que os terminais não estão conectados um ao outro.	Os terminais não estão conectados
+Porque uma diferença de tensão é devido a uma lacuna.	Uma tensão diferente de zero significa que há uma lacuna
+Foi conectado ao terminal positivo.	O terminal 1 e o terminal positivo são separados pela lacuna
+Os terminais das baterias não estão conectados	Circuito 4 não tem caminhos fechados
+Porque o caminho foi fechado	A lâmpada A ainda está contida em um caminho fechado com a bateria.
+O terminal positivo da bateria é separado por uma lacuna	O terminal 1 e o terminal positivo são separados pela lacuna
+Se uma lâmpada estiver em um circuito fechado com uma bateria e um interruptor, o interruptor afetará a lâmpada.	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+A lâmpada C não está no mesmo caminho da bateria.	Se C queima, então A e B ainda estão em um caminho fechado com a bateria
++ libera a corrente - recebe isso?	Os terminais 4, 5 e 6 estão conectados ao terminal positivo da bateria
+Porque não há mais um circuito fechado para a lâmpada C	A lâmpada C não estava mais em um caminho fechado com a bateria
+O terminal 5 está conectado ao terminal de bateria positivo	Terminal 5 e o terminal positivo estão conectados
+O estado elétrico não está conectado a volts	Uma tensão diferente de zero significa que os terminais não estão conectados.
+vai cortar o circuito	Bulbo B cria uma lacuna
+As lâmpadas estão em diferentes caminhos fechados	A e C estão em caminhos diferentes
+O caminho será fechado	As lâmpadas A e B estão em um caminho fechado
+Porque o caminho é curto	O caminho não está fechado
+Ambos os terminais foram conectados ao terminal negativo da bateria	Os terminais 1 e 2 estão conectados e no mesmo estado elétrico
+A lâmpada A estava em um circuito fechado.	A lâmpada A ainda está contida em um caminho fechado com a bateria.
+o caminho em que estava	há um caminho contendo z e c
+Porque o terminal 1 tinha uma carga positiva e negativa.	O terminal 1 e o terminal positivo são separados pela lacuna
+O terminal 1 não está conectado ao terminal de bateria positivo	Terminal 1 e o terminal positivo não estão conectados
+A lâmpada B e a lâmpada C ainda estavam contidos em um caminho fechado com a bateria	A lâmpada B e a lâmpada C ainda estavam contidas no mesmo caminho fechado com a bateria.
+que o terminal da lâmpada está conectado apenas a um dos terminais da bateria	Não há lacuna entre os terminais
+As lâmpadas A e C ainda estavam contidas em caminhos fechados com o Batery	As lâmpadas A e C ainda estão contidas em caminhos fechados com a bateria
+O terminal cinco está conectado ao terminal da bateria positivo.	Terminal 5 e o terminal positivo estão conectados
+A lacuna impede que os terminais sejam fechados	O terminal 6 é separado por uma lacuna do terminal de bateria negativo
+Porque não há caminho fechado para a bateria	O caminho não está fechado
+pode ser fechado ou aberto	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+Terminal 6 tem lacuna	Os terminais 1 e 6 são separados pela lacuna
+Terminal One está conectado ao terminal da bateria negativo	O terminal 1 está conectado ao terminal da bateria negativo
+Há uma diferença de 1,5 volts entre o terminal 1 e o terminal positivo	O terminal 1 e o terminal positivo são separados pela lacuna
+"The Battery" "A tensão vem de uma reação química que ocorre dentro da própria bateria".	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+Quando o interruptor está em um caminho fechado com a lâmpada	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+A remoção de uma lâmpada desliga a outra.	A e C estão no mesmo caminho fechado
+A lâmpada A está em um caminho fechado com uma bateria	A lâmpada A ainda está em um caminho fechado com a bateria
+Se a lâmpada e o comutador estiverem contidos por um caminho fechado, o interruptor afetará a lâmpada.	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+Ambos os terminais estão conectados ao terminal de bateria negativo	Os terminais 1 e 2 estão conectados
+A lâmpada não está conectada nas duas extremidades	A bateria está contida em um caminho que não contém outros componentes
+A bateria não está contida no caminho fechado	Não há caminho fechado contendo a bateria
+A lâmpada não vai acender	Não há lacuna entre os terminais
+Se a lâmpada B estiver danificada, o circuito não estará mais fechado.	Não há caminho fechado
+Uma bateria e uma lâmpada devem estar em um caminho fechado juntos	A lâmpada e a bateria estão em um caminho fechado
+Uma lâmpada danificada cria uma lacuna no caminho.	Uma lâmpada danificada cria uma lacuna
+bulbo c e switch z estão no mesmo caminho fechado	há um caminho contendo z e c
+Um interruptor cria uma quebra no caminho fechado.	O interruptor aberto cria uma lacuna
+Porque a bateria tem eletricidade e a lacuna não	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+Deve estar em um caminho fechado.	A lâmpada e a bateria estão em um caminho fechado
+O circuito 2 não é um curto -circuito porque a bateria não está conectada a si mesma.	A bateria em 2 não está em um caminho fechado
+Porque se a lacuna estiver aberta, a lâmpada não continuará	há uma lacuna em um circuito
+O caminho deve ser fechado para que um interruptor afete uma lâmpada	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+As lâmpadas A e B ainda estão conectadas ao circuito fechado que contém a bateria	Se C queima, então A e B ainda estão em um caminho fechado com a bateria
+A lâmpada A e C ainda estarão contidos em um caminho fechado com a bateria	As lâmpadas A e C ainda estão em caminhos fechados com a bateria
+A remoção de danificar qualquer uma das lâmpadas desligará as outras lâmpadas.	A e C estão no mesmo caminho fechado
+Ele ainda possui um caminho de conexão entre a lâmpada A e C e a bateria.	Existe um circuito incompleto
+O terminal está conectado à bateria	Os terminais 1, 2 e 3 estão conectados ao terminal de bateria negativo
+Eu acho que o Red X significa que isso é perigoso e nunca deve acontecer, a menos que algo esteja seriamente errado.	há um curto -circuito
+Terminal 1is conectado ao terminal 4	Os terminais 1 e 4 estão conectados
+Terminal One não está conectado ao Terminal Seis	Os terminais 1 e 6 não estão conectados
+"Se o interruptor estiver incluído na lâmpada" "Caminho fechado, então o interruptor está aberto afetará a lâmpada"	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+Os terminais foram conectados aos terminais positivos da bateria	O terminal 1 e o terminal positivo são separados pela lacuna
+se estiver fechado e contido no mesmo caminho fechado com a bateria	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+não está afetando a corrente para mudar de	Há um caminho contendo A, C, Z e X
+O caminho deve ser fechado para a lâmpada iluminar	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+A bateria positiva não foi conectada ao terminal um.	Terminal 1 e o terminal positivo não estão conectados
+O circuito não está fechado ao redor da bateria.	A bateria em 2 não está em um caminho fechado
+Porque pode passar pelo interruptor z	Há um caminho contendo A, C, Z e X
+O terminal negativo da bateria não está atingindo o terminal 6	O terminal 6 é separado por uma lacuna do terminal de bateria negativo
+O terminal 6 foi conectado apenas ao terminal positivo.	Terminal 6 e o ​​terminal positivo estão conectados
+Se o caminho for fechado com a bateria, o interruptor não o afetará	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+não danifica a bateria	Não há caminho fechado contendo a bateria
+O terminal 3 e o terminal positivo não estão conectados.	Terminal 3 e o terminal positivo não estão conectados
+porque a lâmpada C não está incluída no caminho fechado	Há um caminho fechado com A e B em que C não está dentro.
+Terminal positivo da bateria é separado por uma lacuna	Não há lacuna entre o terminal 6 e o ​​terminal positivo
+O terminal 1 e o terminal positivo tinham diferentes estados elétricos.	O terminal 1 e o terminal positivo são separados pela lacuna
+o circuito foi completo até a diferença	O terminal 1 e o terminal positivo são separados pela lacuna
+A lacuna no terminal 2 é postiva	O terminal 2 e o terminal positivo são separados pela lacuna
+As lâmpadas A e C estão em caminhos fechados separados com a bateria.	A e C estão em caminhos diferentes com a bateria
+Porque o terminal um está conectado ao terminal de bateria positivo	O terminal 1 está conectado ao terminal da bateria negativo
+lâmpada, bateria e interruptor estão no caminho fechado	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+Os terminais 4, 5 e 6 estão conectados ao terminal de bateria positivo	Os terminais 4, 5 e 6 estão conectados ao terminal positivo da bateria
+o interruptor aberto abrirá o caminho	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+O terminal 5 e o terminal positivo da bateria estão no mesmo estado.	Terminal 5 e o terminal positivo estão conectados
+As lâmpadas A e C estão contidas em caminhos diferentes com a bateria	A e C estão em caminhos diferentes com a bateria
+Porque a bateria não está em um caminho fechado.	A bateria em 4 não está em um caminho fechado
+bulbo a cria uma lacuna	Cada lâmpada está em seu próprio caminho
+O terminal 6 está conectado ao terminal de bateria positivo	Terminal 6 e o ​​terminal positivo estão conectados
+Podemos encontrar a lâmpada queimada encontrando tensão entre diferentes terminais	A tensão de medição indica o local onde o estado elétrico muda devido a uma lâmpada danificada.
+A lacuna entre os fios danificados da lâmpada B cria uma lacuna no caminho.	Bulbo B cria uma lacuna
+O terminal não está conectado ao terminal da bateria positivo.	Terminal 2 e o terminal positivo não estão conectados
+Os terminais estão do mesmo lado que o lado negativo da bateria.	Os terminais 1, 2 e 3 estão conectados ao terminal de bateria negativo
+Switch Y não afeta a lâmpada a	Não há caminho contendo o comutador y e o bulbo a
+Porque estava em um caminho fechado	A lâmpada A ainda está contida em um caminho fechado com a bateria.
+O terminal da bateria positivo é separado por uma lacuna do terminal 4	Terminal 4 e o terminal positivo da bateria estão no mesmo estado elétrico
+Quando o interruptor Z estava fechado, a lâmpada A estava em um curcuit completo conectado à bateria	A lâmpada A ainda está contida em um caminho fechado com a bateria e o comutador z.
+O terminal está conectado a um terminal de lâmpada ruim.	Os terminais 1, 2 e 3 são separados do terminal de bateria positivo por uma lacuna
+Esses terminais estão do mesmo lado que o terminal de bateria negativo	Os terminais 1, 2 e 3 estão conectados ao terminal de bateria negativo
+Ele cria uma lacuna na corrente.	O interruptor aberto cria uma lacuna
+Um terminal está conectado ao terminal positivo da bateria	Terminal 6 e o ​​terminal positivo estão conectados
+Não há um caminho completo envolvendo os dois terminais de bateria	Não há caminho fechado contendo a bateria
+A lâmpada e a bateria devem estar em um caminho fechado.	A lâmpada e a bateria estão em um caminho fechado
+Os dois terminais estão conectados	Terminal 6 e o ​​terminal positivo estão conectados
+A lâmpada está contida em um caminho fechado.	A bateria está contida em um caminho que não contém outros componentes
+Porque a lâmpada A ainda estava em um caminho fechado com a bateria	A lâmpada A ainda estava contida no mesmo caminho fechado com a bateria.
+A bateria não está conectada corretamente	há um curto -circuito
+Porque tem outro caminho fechado que pode usar	A lâmpada A ainda está em um caminho fechado com a bateria
+Danificar a lâmpada A atrapalharia o caminho fechado com a bateria.	Se a lâmpada a queima, B e C não estiverem mais em um caminho fechado com a bateria
+A Reacho Química ainda existe	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+A lâmpada C estava desativada quando o interruptor Z estava aberto porque a lâmpada C estava diretamente em um caminho aberto.	bulbo c não estava em caminho fechado
+Porque a tensão é a diferença nos estados elétricos entre dois terminais	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+Porque a lâmpada quebrada criou uma lacuna não permitindo que a corrente flua através de ambos.	Os terminais 4, 5 e 6 são separados do terminal de bateria negativo por uma lacuna
+Porque A e B estão em série e A e C estão em paralelo	Se C queima, então A e B ainda estão em um caminho fechado.
+Recebe a corrente de Switche Z.	Há um caminho contendo A, C, Z e X
+O terminal de massa positivo não tem uma lacuna do Terminal 4	Terminal 4 e o terminal positivo não são separados pela lacuna
+há uma lacuna causada por bulbo a	Se a bulbo é queimada, nem B nem C estão em um caminho fechado
+As lâmpadas A e C não estão contidas no caminho fechado	A e C não estão no mesmo caminho
+bulbo e veio antes do interruptor y	interruptor y e bulbo a não estão no mesmo caminho fechado
+As lâmpadas B e C estão contidas no mesmo caminho com a bateria	B e C estão no mesmo caminho com a bateria
+O tamanho da tensão é 0	Os terminais 1, 2 e 3 são separados do terminal de bateria positivo por uma lacuna
+Mesmo caminho com a bateria	B e C estão no mesmo caminho com a bateria
+Se x e z estiverem fechados, ele criará um caminho fechado	Há um caminho contendo A, C, Z e X
+Porque a tensão foi 0 e há uma lacuna entre 3 e 4	Os terminais 1, 2 e 3 estão conectados ao terminal de bateria negativo
+O terminal é conectado a um terminal negativo.	Não há lacuna entre os terminais
+B e C não estão no mesmo circuito que a.	Cada lâmpada está em seu próprio caminho
+A lâmpada B criou uma lacuna	Terminal 4 e o terminal positivo da bateria estão no mesmo estado elétrico
+A bateria não está conectada à lâmpada	A lâmpada não está no caminho fechado que contém a bateria
+lâmpada danificada a cria uma lacuna	Se a bulbo é queimada, nem B nem C estão em um caminho fechado
+lâmpadas B e C criam uma lacuna no caminho	Bulbo B está em um caminho separado
+há uma lacuna entre os terminais	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+Porque há uma lacuna na lâmpada	há uma lacuna em um circuito
+Não está no mesmo caminho com a lâmpada e a bateria	A lâmpada A ainda está em um caminho fechado com a bateria
+B e C estarão em seus próprios caminhos fechados com a bateria.	As lâmpadas B e C ainda estão em caminhos fechados com a bateria
+está conectado ao terminal positivo	O terminal 1 e o terminal positivo são separados pela lacuna
+O interruptor está bloqueando a bateria que o afeta, caso contrário, não importa.	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+Se o interruptor estiver acionado e fizer uma lacuna entre a lâmpada e a bateria.	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+y não é necessário para a lâmpada a acender	A lâmpada A ainda está em um caminho fechado com a bateria
+O terminal 1 está conectado a negativo	Os terminais 1 e 6 não estão conectados
+lâmpadas estão em diferentes caminhos fechados	A e C estão em caminhos diferentes com a bateria
+"Porque interruptor Y isn" "T incluído na lâmpada A" Caminho fechado "S"	interruptor y e bulbo a não estão no mesmo caminho fechado
+Quando o interruptor está no caminho da lâmpada.	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+O termina de bateria positivo é separado BA A A GAP do Terminal 4	Terminal 4 e o terminal positivo da bateria estão no mesmo estado elétrico
+pode completar o caminho fazendo z ser fechado	Há um caminho contendo A, C, Z e X
+Haverá uma lacuna uma lâmpada	Se a bulbo é queimada, nem B nem C estão em um caminho fechado
+estado elictrical de massa e terminal	A tensão de medição indica o local onde o estado elétrico muda devido a uma lacuna.
+O terminal está conectado ao terminal da bateria	O terminal 1 está conectado ao terminal da bateria negativo
+Cria uma lacuna no circuito.	O interruptor aberto cria uma lacuna
+A lâmpada B e C foram contidas em um caminho fechado com a bateria	A lâmpada B e a lâmpada C ainda estavam contidas no mesmo caminho fechado com a bateria.
+O valor da medição indica se há uma lacuna	A tensão de medição indica o local onde o estado elétrico muda devido a uma lacuna.
+O terminal positivo da bateria é separado por uma lacuna do terminal 2.	Terminal 3 e o terminal positivo não estão conectados
+Se a lâmpada danificada e a outra lâmpada estiverem contidas no mesmo caminho	A lâmpada danificada e a outra lâmpada devem estar contidas no mesmo caminho
+Porque a lâmpada B está danificada, então o caminho tem uma lacuna	Os terminais 1, 2 e 3 são separados do terminal de bateria positivo por uma lacuna
+O circuito 2 está conectado a um terminal na bateria	Não há caminho fechado contendo a bateria
+Porque tem uma lacuna.	Uma lâmpada danificada cria uma lacuna
+Ele é executado em uma corrente diferente	Se C queima, então A e B ainda estão em um caminho fechado com a bateria.
+A bateria positiva e o terminal 1 criaram um circuito	O terminal 1 e o terminal positivo são separados pela lacuna
+As lâmpadas estão em caminhos separados	Bulbo B está em um caminho separado
+um circuito fechado contendo uma lâmpada e uma bateria	Há um caminho fechado contendo a lâmpada e uma bateria
+A lâmpada A, a lâmpada B e a lâmpada C estão contidas em caminhos diferentes.	A e C estão em caminhos diferentes
+Tinha seu próprio caminho	A lâmpada A ainda está contida em um caminho fechado com a bateria.
+porque a lâmpada está conectada corretamente.	A bateria está em um caminho aberto
+A bateria está contida em um caminho fechado	Ainda há um caminho fechado
+há uma lacuna no caminho	O terminal 6 é separado por uma lacuna do terminal de bateria negativo
+Porque há uma diferença entre os estados elétricos dos dois terminais.	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+Há uma lacuna no circuito que causa uma lacuna entre os terminais 1,2 e 3 e 4,5 e 6	Os terminais 4, 5 e 6 são separados do terminal de bateria negativo por uma lacuna
+Bulbo B e C ainda estão contidos em um caminho com a bateria	As lâmpadas B e C ainda estão em caminhos fechados com a bateria
+Switch Z está contido em um caminho fechado para a bateria	Ainda há um caminho fechado contendo o interruptor Z, switch x, lâmpadas A e C e a bateria
+As lâmpadas A e B ainda estarão contidas em um caminho fechado com a bateria.	Se C queima, então A e B ainda estão em um caminho fechado com a bateria.
+Existem dois componentes no caminho	A bateria está em um caminho aberto
+A e B ainda estão em um caminho fechado com a bateria	Se C queima, então A e B ainda estão em um caminho fechado com a bateria
+A lâmpada A não criará uma lacuna para a lâmpada B e C	Se a lâmpada é queimaduras, as lâmpadas B e C ainda estão em um caminho fechado
+"Bulb A" "S apenas o caminho contido Z"	interruptor y e bulbo a não estão no mesmo caminho fechado
+Um circuito incompleto não afeta a tensão.	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+A lacuna separa o terminal da bateria positivo do terminal 2	O terminal 2 e o terminal positivo são separados pela lacuna
+Terminal 2 tem uma lacuna	O terminal 2 e o terminal positivo são separados pela lacuna
+por causa da lacuna que a lâmpada B criou	O terminal 1 e o terminal positivo são separados pela lacuna
+B nem C terão um caminho fechado contido para a bateria	Se a lâmpada a queima, B e C não estiverem mais em um caminho fechado com a bateria
+Porque a bateria é executada em um circuito fechado.	Existe um circuito incompleto
+Cada circuito deve ter uma conexão.	Existe um circuito completo
+terminal conectado a carga positiva	Os terminais 4, 5 e 6 estão conectados ao terminal positivo da bateria
+Porque não estava contido no caminho fechado.	Não há caminho contendo o comutador y e o bulbo a
+As lâmpadas A e B estão em um caminho fechado diferente	Se C estiver danificado, A e B ainda estão em um caminho fechado
+Porque não está no mesmo caminho	A lâmpada A ainda está em um caminho fechado com a bateria
+As lâmpadas B e C têm caminhos separados dentro do circuito fechado	Se a lâmpada a queima, B e C não estiverem mais em um caminho fechado com a bateria
+Se o caminho não estiver fechado, o interruptor não afetará o bbulb	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+Há uma lacuna entre o terminal da bateria positivo e o terminal 4.	Terminal 4 e o terminal positivo da bateria estão no mesmo estado elétrico
+Uma bateria está em constante estado de eletricidade	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+Como a tensão é a diferença entre dois terminais e esses terminais não foram conectados em um caminho fechado	Os terminais 1, 2 e 3 são separados do terminal de bateria positivo por uma lacuna
+Porque está em um caminho incompleto	A bateria está em um caminho aberto
+Há uma lâmpada conectada ao terminal da bateria.	Não há caminho fechado contendo a bateria
+A tensão é a diferença entre um terminal positivo e negativo na bateria.	O terminal 1 e o terminal positivo são separados pela lacuna
+O terminal 6 está conectado a um terminal de bateria positivo	Terminal 6 e o ​​terminal positivo estão conectados
+Existe uma lacuna entre o terminal 3 e o terminal positivo	O terminal 3 e o terminal positivo são separados pela lacuna
+A lâmpada C não estava conectada à bateria.	A lâmpada C não estava mais em um caminho fechado com a bateria
+porque o terminal 4 está conectado ao terminal positivo, mas não ao terminal negativo	Terminal 4 e o terminal positivo estão conectados
+Porque ainda estava em um caminho fechado	A lâmpada A ainda está contida em um caminho fechado com a bateria.
+A lacuna separa o terminal positivo da bateria do terminal 1	O terminal 1 e o terminal positivo são separados pela lacuna
+As lâmpadas A e C estão conectadas à bateria no mesmo caminho	As lâmpadas A e C ainda estão contidas em caminhos fechados com a bateria
+O circuito 2 não é um curto -circuito porque a bateria não está em um caminho fechado consigo mesmo.	A bateria em 2 não está em um caminho fechado
+O terminal 1 foi conectado ao terminal positivo	O terminal 1 e o terminal positivo são separados pela lacuna
+Remover uma lâmpada desliga a outra	A e C estão no mesmo caminho fechado
+Danificar um desliga o outro	A e C estão no mesmo caminho
+As lâmpadas A, B e C estão em caminhos paralelos	A e C estão em caminhos diferentes
+"Sem A, lá" "não há caminho fechado"	Se a bulbo é queimada, nem B nem C estão em um caminho fechado
+Porque uma bateria tem uma reação química que causa uma tensão	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+Se ele deixar uma lacuna no caminho com a bateria	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+Existe uma lacuna entre o terminal da bateria e o terminal bobbl	Os terminais são separados por uma lacuna
+"Ele cria uma lacuna que não" t permite que o fluxo de corrente elétrica para as outras lâmpadas ".	Uma lâmpada danificada cria uma lacuna
+Porque a bateria não está em um circuito fechado	A bateria em 2 não está em um caminho fechado
+A lâmpada A está contida em um circuito completo quando o interruptor X é fechado.	A lâmpada A ainda está contida em um caminho fechado com a bateria e o comutador x.
+um caminho fechado com bateria e lâmpada	Há um caminho fechado contendo a lâmpada e uma bateria
+O terminal da lâmpada e o terminal da bateria negativa são separados por uma lacuna	Não há lacuna entre os terminais
+bulbo c não cria uma lacuna	Ainda há um caminho fechado
+bulbo a criará uma lacuna no caminho	Se a lâmpada a queima, B e C não estiverem mais em um caminho fechado com a bateria
+as lâmpadas estão no mesmo caminho	A e C estão no mesmo caminho
+Todos os componentes estão em um circuito fechado.	O terminal 1 e o terminal positivo são separados pela lacuna
+Uma lâmpada danificada cria uma lacuna no caminho	Uma lâmpada danificada cria uma lacuna
+A lacuna no circuito faz com que o circuito seja um circuito aberto	há uma lacuna em um circuito
+Os caminhos do circuito não estão mais completos	Existe um circuito incompleto
+A bateria e a lâmpada precisam estar em um caminho fechado juntos.	A lâmpada e a bateria estão em um caminho fechado
+Porque ainda está conectado a um batedor	Não há caminho fechado contendo a bateria
+A lâmpada não está contida em um caminho fechado	A bateria em 4 não está em um caminho fechado
+Uma chave aberta contida no caminho deixará uma lacuna	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+A lâmpada possui apenas um terminal conectado	A bateria está contida em um caminho que não contém outros componentes
+Há uma diferença nos estados elétricos.	Os terminais não estão conectados
+Porque os dois terminais sempre terão diferentes estados elétricos.	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+A bateria está em um caminho fechado consigo mesmo.	A bateria está contida em um caminho fechado que não contém outros componentes
+O terminal positivo da bateria está conectado ao terminal 4.	O terminal 5 é separado por uma lacuna do terminal de bateria negativo
+Cria um curto -circuito.	O caminho não está fechado
+Não há caminho entre os titulares	há um caminho aberto
+Haverá uma lacuna	Se a bulbo é queimada, nem B nem C estão em um caminho fechado
+A lâmpada A está dentro de seu próprio caminho fechado e independente de B e C	Há um caminho contendo A e um caminho diferente contendo B e C
+A lâmpada B e a lâmpada C ainda estão em caminhos fechados.	As lâmpadas B e C ainda estão em caminhos fechados com a bateria
+A lâmpada A não está no mesmo caminho que as lâmpadas b e c.	Se a lâmpada a queima, B e C não estiverem mais em um caminho fechado com a bateria
+Terminal One está conectado ao Terminal 4	Os terminais 1 e 4 estão conectados
+Terminal 1, Terminal 2 e Terminal 3 estão conectados à bateria negativa	Os terminais 1, 2 e 3 estão conectados ao terminal de bateria negativo
+"A bateria não está funcionando e está morta".	há um curto -circuito
+As lâmpadas não serão alimentadas se o caminho do circuito estiver incompleto.	Existe um circuito incompleto
+A bateria está contendo apenas uma carga negativa	interruptor y e bulbo a não estão no mesmo caminho fechado
+Um terminal está conectado a uma lâmpada.	O terminal 1 está conectado ao terminal da bateria negativo
+a está em um circuito fechado quando X é fechado	A lâmpada A ainda está contida em um caminho fechado com a bateria e o comutador x.
+bulbo A e bulbo C ainda estavam em um caminho fechado com a bateria	As lâmpadas A e C ainda estão contidas em caminhos fechados com a bateria
+Se a lâmpada a queima, as lâmpadas B e C não estarão mais em um caminho fechado.	Se a bulbo é queimada, nem B nem C estão em um caminho fechado
+O terminal 5 é conectado apenas ao terminal da bateria positivo.	Terminal 5 e o terminal positivo estão conectados
+A lacuna separa as cargas positivas e negativas	Os terminais 1, 2 e 3 são separados do terminal de bateria positivo por uma lacuna
+A lâmpada A está contida em um caminho separado dos caminhos fechados das lâmpadas b e c.	A e C estão em caminhos diferentes com a bateria
+não conectado à bateria positiva	Terminal 2 e o terminal positivo não estão conectados
+"Porque a bateria não" t é danificada na sensação de que está entrando em contato completo com uma extremidade com a lâmpada ".	Não há caminho fechado contendo a bateria
+O terminal 1 está conectado ao terminal da bateria negativo	O terminal 1 está conectado ao terminal da bateria negativo
+A lâmpada A e C estão contidas em caminhos diferentes com a bateria	A e C estão em caminhos diferentes com a bateria
+Porque há uma lâmpada	A bateria em 2 não está em um caminho fechado
+As lâmpadas B e C estão contiainadas no mesmo caminho com a bateria.	A e C não estão no mesmo caminho com a bateria
+Cada lâmpada contém seu próprio caminho fechado	As lâmpadas A e C ainda estão em caminhos fechados
+O terminal positivo e o terminal 1 são separados por uma lacuna	O terminal 1 e o terminal positivo são separados pela lacuna
+B e C são partes de circuitos completos da bateria	As lâmpadas B e C ainda estão em caminhos fechados com a bateria
+Se a lâmpada danificada estiver no mesmo caminho fechado com a bateria	A lâmpada danificada e a outra lâmpada devem estar contidas no mesmo caminho
+Enquanto X e Z estiverem fechados a Will Light	Há um caminho contendo A, C, Z e X
+Se faz parte de um circuito que contém uma lâmpada e uma bateria.	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+Porque a lâmpada C não está no mesmo ppath	Há um caminho fechado com A e B em que C não está dentro.
+o interruptor está fechado para fazer um caminho fechado	o interruptor e a lâmpada precisam estar no mesmo caminho
+A lâmpada A e B ainda estão contidas em um caminho fechado com a bateria	Se C queima, então A e B ainda estão em um caminho fechado com a bateria
+Porque a lâmpada A ainda estará contida em um caminho fechado para a bateria.	A lâmpada A ainda está em um caminho fechado com a bateria
+Porque a tensão não atinge as lâmpadas.	O caminho não está fechado
+Há uma lacuna entre o BUL e o terminal da bateria.	Não há lacuna entre os terminais
+O caminho do circuito que estava em andamento ainda estava fechado	A lâmpada A ainda está contida em um caminho fechado com a bateria.
+a diferença no estado elétrico	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+Uma lâmpada danificada não faz um Connecton, então o circuito não está completo	Existe um circuito incompleto
+Se a lâmpada B estiver danificada, não há caminho	Não há caminho fechado
+Porque as lâmpadas B e C ainda estavam em um caminho fechado com a bateria.	A lâmpada B e a lâmpada C ainda estavam contidas no mesmo caminho fechado com a bateria.
+As lâmpadas B e C permanecem em um caminho fechado com a bateria	As lâmpadas B e C ainda estão em caminhos fechados com a bateria
+As lâmpadas B e C estão contidas no mesmo caminho fechado com a bateria	B e C estão no mesmo caminho com a bateria
+Uma lâmpada queimada indica uma lacuna na conexão entre extremidades opostas dos terminais da bateria	A tensão de medição indica o local onde o estado elétrico muda devido a uma lacuna.
+Bulbo A, Bulbo C e a bateria estão em um caminho fechado.	Se C queima, então A e B ainda estão em um caminho fechado com a bateria.
+C não criaria uma lacuna para A ou B	Se C queima, então A e B ainda estão em um caminho fechado.
+Se o estado elétrico for diferente de zero, você poderá encontrar a lacuna no circuito	Uma tensão diferente de zero significa que há uma lacuna
+Um terminal está conectado ao terminal de bateria positivo	Os terminais não estão conectados
+O terminal a que está conectado não está funcionando	Não há lacuna entre os terminais
+há um caminho fechado com a bateria e a lâmpada a	A lâmpada A ainda está contida em um caminho fechado com a bateria.
+Se a lâmpada B estiver danificada, há uma lacuna no circuito	há uma lacuna em um circuito
+Porque há uma lacuna.	Os terminais 1 e 2 estão no mesmo estado elétrico
+Os terminais estão conectados um ao outro.	Terminal 6 e o ​​terminal positivo estão conectados
+Trocamos os terminais.	O terminal 1 e o terminal positivo são separados pela lacuna
+Bulbo A criou uma lacuna	Se a bulbo é queimada, nem B nem C estão em um caminho fechado
+As lâmpadas devem conter a bateria no caminho sem uma lacuna	A lâmpada danificada e a outra lâmpada devem estar contidas no mesmo caminho
+A lâmpada A está em um circuito completo com a bateria quando o interruptor Z é fechado.	A lâmpada A ainda está contida em um caminho fechado com a bateria e o comutador z.
+Switch Y não estava no caminho da lâmpada a.	Não há caminho contendo o comutador y e o bulbo a
+Porque nenhum dos componentes está conectado a si mesmos.	Circuito 4 não tem caminhos fechados
+A bateria positiva está conectada ao terminal 4.	Terminal 4 e o terminal positivo estão conectados
+Se estiver aberto e a lâmpada não for mais e um caminho fechado porque está aberto	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+Porque estava em um caminho fechado	interruptor y e bulbo a não estão no mesmo caminho fechado
+Uma lâmpada danificada não completa o circuito.	Existe um circuito incompleto
+A bateria não está fechada em um caminho fechado.	Circuito 4 não tem caminhos fechados
+está no mesmo caminho fechado.	há um caminho aberto
+Porque o medidor de tensão estava conectado a um lado positivo e negativo	O terminal 1 e o terminal positivo são separados pela lacuna
+Porque a lâmpada A não está no caminho do interruptor y	Há um caminho contendo A, C, Z e X
+As lâmpadas A e B não estão dentro do mesmo caminho que a lâmpada c.	bulbo c está em um caminho separado
+Deve haver um caminho fechado.	Há um caminho fechado contendo a lâmpada e uma bateria
+No circuito 5, a bateria está em um caminho fechado.	A bateria está contida em um caminho fechado no qual não há lâmpada
+Ele quebra o fluxo do circuito entre a bateria e as lâmpadas	Uma lâmpada danificada cria uma lacuna
+O caminho deve ser fechado com a bateria e a lâmpada	o interruptor e a lâmpada precisam estar no mesmo caminho
+As lâmpadas B e C não estão na mesma linha que a lâmpada a.	Se a lâmpada é queimaduras, as lâmpadas B e C ainda estão em um caminho fechado
+Porque há uma lacuna porque a lâmpada B está danificada	Os terminais 1, 2 e 3 são separados do terminal de bateria positivo por uma lacuna
+O terminal negativo da bateria é separado por uma lacuna do terminal 6	O terminal 6 é separado por uma lacuna do terminal de bateria negativo
+A bateria não está conectada ao terminal	Terminal 1 e o terminal positivo não estão conectados
+Porque a bateria não está danificada ao acender a lâmpada	Não há caminho fechado contendo a bateria
+A bateria ainda mantém a carga elétrica se houver um circuito incompleto.	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+Não há curto -circuito na bateria.	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+Porque a lâmpada A ainda estava recebendo correntes positivas e negativas.	A lâmpada A ainda está contida em um caminho fechado com a bateria.
+Há uma lacuna entre os terminais 1 e 2 do terminal de bateria positivo	Os terminais 1 e 2 estão conectados e no mesmo estado elétrico
+Porque a lâmpada B e C ainda estavam em um caminho fechado com a bateria	A lâmpada B e a lâmpada C ainda estavam contidas no mesmo caminho fechado com a bateria.
+Porque a lâmpada A não está no mesmo caminho que a lâmpada B e C	Se a lâmpada é queimaduras, as lâmpadas B e C ainda estão em um caminho fechado
+A lâmpada está no caminho do circuito	Não há caminho fechado contendo a bateria
+Bulbo A e Switch Z estão em um caminho fechado	A lâmpada A ainda está contida em um caminho fechado com a bateria e o comutador z.
+Bulbo A ainda tem um caminho para a bateria	Se a lâmpada a queima, B e C não estiverem mais em um caminho fechado com a bateria
+O circuito ficará incompleto.	Existe um circuito incompleto
+Ainda há um caminho para os outros 2	Se C queima, então A e B ainda estão em um caminho fechado.
+A lâmpada A está em um caminho fechado com a bateria	Há um caminho contendo A e um caminho diferente contendo B e C
+Há uma lacuna no caminho.	Os terminais 1 e 2 estão no mesmo estado elétrico
+Se o interruptor estiver aberto, o caminho não será fechado	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+Conexão fechada entre a lâmpada e a bateria.	Há um caminho fechado contendo a lâmpada e uma bateria
+Ambos estão nos mesmos caminhos fechados	B e C estão no mesmo caminho com a bateria
+Quando cria um caminho aberto	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+Haverá uma lacuna entre as lâmpadas	há uma lacuna em um circuito
+Ajuda porque você encontra a lacuna onde os terminais estão desconectados	A tensão de medição indica se dois terminais são separados por uma lacuna.
+Porque a lâmpada A estava em um caminho fechado	A lâmpada A ainda está contida em um caminho fechado com a bateria.
+Porque o final negativo do medidor de votlage foi conectado a um circuito positivo	Terminal 4 e o terminal positivo da bateria estão no mesmo estado elétrico
+As lâmpadas A e C estão em um caminho fechado com a bateria	As lâmpadas A e C ainda estão em caminhos fechados com a bateria
+conectado ao terminal negativo	Os terminais 1 e 2 estão conectados
+Porque a bateria está no caminho fechado, mas a lâmpada não é	A bateria está contida em um caminho fechado no qual não há lâmpada
+não estava em um circuito completo	A lâmpada C não estava em um caminho fechado
+Existe uma lacuna entre o terminal um e dois e o terminal de bateria positivo	Os terminais 1 e 2 estão no mesmo estado elétrico
+A lâmpada A estava ligada porque estava contada em um caminho fechado.	A lâmpada A ainda estava contida no mesmo caminho fechado com a bateria.
+A lâmpada C não está no mesmo caminho da lâmpada A e B.	A e B têm seu próprio caminho
+A lâmpada B está em um caminho diferente	Bulbo B está em um caminho separado
+O terminal 6 está conectado ao terminal de bateria positivo	Terminal 6 e o ​​terminal positivo estão conectados
+O terminal negativo da bateria é separado por uma lacuna do terminal 6.	Não há lacuna entre o terminal 6 e o ​​terminal positivo
+Se C estiver danificado, a lâmpada A e B ae contida em um caminho fechado	Se C estiver danificado, A e B ainda estão em um caminho fechado
+As lâmpadas B e C estão no mesmo caminho fechado com a bateria	B e C estão no mesmo caminho com a bateria
+uma lacuna será criada	Se a bulbo é queimada, nem B nem C estão em um caminho fechado
+A lâmpada deve estar em um circuito fechado com a bateria.	Há um caminho fechado contendo a lâmpada e uma bateria
+As lâmpadas A, B e C estão em um caminho com a bateria	A e C estão no mesmo caminho
+O terminal positivo da bateria e o terminal 6 estão conectados	Terminal 6 e o ​​terminal positivo estão conectados
+A lâmpada A, a lâmpada B e a lâmpada C estão em diferentes caminhos fechados.	A e C estão em caminhos diferentes
+Há uma lâmpada e uma bateria presente	A bateria em 2 não está em um caminho fechado
+O terminal positivo da bateria não tem lacunas do Terminal 4	Terminal 4 e o terminal positivo não são separados pela lacuna
+O circuito está completo com a bateria e a lâmpada a	Não há caminho contendo o comutador y e o bulbo a
+As lâmpadas B e C ainda estão contidas em circuitos fechados	Se a lâmpada é queimaduras, as lâmpadas B e C ainda estão em um caminho fechado
+já que há uma lacuna	Os terminais 4, 5 e 6 não estão conectados ao terminal de bateria negativo
+Terminal positivo da bateria é separado por uma lacuna do terminal 3	O terminal 3 e o terminal positivo são separados pela lacuna
+O circuito 2 não é um curto -circuito porque mostra a conexão com a lâmpada.	A bateria em 2 não está em um caminho fechado
+Deve haver um caminho fechado e uma bateria.	Há um caminho fechado contendo a lâmpada e uma bateria
+Porque um interruptor aberto cria uma lacuna.	O interruptor aberto cria uma lacuna
+Há uma lâmpada no circuito.	Não há caminho fechado contendo a bateria
+A e C estão no mesmo caminho fechado com a bateria	A e C estão no mesmo caminho fechado
+As lâmpadas A e B ainda estão conectadas ao caminho fechado que contém a bateria	Se C queima, então A e B ainda estão em um caminho fechado com a bateria
+bulbo c e a estão contidos no mesmo caminho com a bateria	A e C estão em caminhos diferentes
+O interruptor abre o circuito fechado	há um caminho aberto
+Porque cada lâmpada tem seu próprio caminho	Cada lâmpada está em seu próprio caminho
+interruptor y e bulbo a não estão no mesmo caminho fechado	interruptor y e bulbo a não estão no mesmo caminho fechado
+porque a lâmpada danificada danifica o caminho em que se conectou a	Uma lâmpada danificada cria uma lacuna
+porque pode ter um circuito completo se o zis fechado e y estiver aberto	Há um caminho contendo A, C, Z e X
+terminais 1,2 e 3 são conectados ao terminal negativo da bateria	Os terminais 1, 2 e 3 estão conectados ao terminal de bateria negativo
+Porque isso criou um GEP no circuito	Uma lâmpada danificada cria uma lacuna
+Quando o interruptor é o caminho fechado com a lâmpada	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+O terminal positivo da bateria é separado por uma lacuna do Terminal 4	Terminal 4 e o terminal positivo da bateria estão no mesmo estado elétrico
+C não afeta os outros, seus caminhos ainda estão fechados	Se C queima, então A e B ainda estão em um caminho fechado.
+A lâmpada A, a lâmpada B e a lâmpada C estão contidas em diferentes caminhos fechados.	A e C estão em caminhos diferentes
+porque os terminais 4,5 e 6 estão conectados ao terminal positivo da bateria	Os terminais 4, 5 e 6 estão conectados ao terminal positivo da bateria
+A e B ainda estão contidos em um caminho fechado com a bateria.	Se C queima, então A e B ainda estão em um caminho fechado com a bateria.
+As lâmpadas B e C estavam em um Paty fechado com a bateria.	A lâmpada B e a lâmpada C ainda estavam contidas no mesmo caminho fechado com a bateria.
+A bateria está no caminho fechado.	A bateria está contida em um caminho em que não há lâmpada
+Quando uma lâmpada sai, o resto se apaga.	Cada lâmpada está em seu próprio caminho
+Um interruptor aberto significa que o circuito não é um caminho fechado.	O caminho não está fechado
+Bulbo A está no caminho fechado	Se a bulbo é queimada, nem B nem C estão em um caminho fechado
+pelo mesmo motivo que 3	O terminal 5 é separado por uma lacuna do terminal de bateria negativo
+porque o switch y não afetou a lâmpada e o caminho fechado da bateria	interruptor y e bulbo a não estão no mesmo caminho fechado
+o switch z está fechado para que ainda cria um caminho completo para a bateria	Ainda há um caminho fechado contendo o interruptor Z, switch x, lâmpadas A e C e a bateria
+Os terminais são separados por uma lacuna quando a tensão salta de 0 para 1,5.	Os terminais são separados por uma lacuna
+A lâmpada não está em um caminho fechado	A bateria está contida em um caminho em que não há lâmpada
+Ele quebra o circuito fechado	O interruptor aberto cria uma lacuna
+O terminal negativo da bateria é separado por uma lacuna do Terminal 1 e 2	Os terminais 1 e 2 estão no mesmo estado elétrico
+A lâmpada A e a lâmpada C estão contidos em caminhos diferentes com a bateria.	A e C estão em caminhos diferentes com a bateria
+O interruptor deve estar dentro de um caminho fechado com a lâmpada e a bateria	o interruptor e a lâmpada precisam estar no mesmo caminho
+A bateria não está em um banho fechado sozinho	A bateria em 2 não está em um caminho fechado
+A bateria está contida em um caminho fechado	Ainda há um caminho fechado
+O BLUB A e a lâmpada C estão contidos em caminhos diferentes com a mesma bateria.	A e C estão em caminhos diferentes com a bateria
+Terminal 1 e 4 conectado	Os terminais 1 e 4 estão conectados
+Switch Z pode ser fechado em vez disso	Ainda há um caminho fechado contendo o interruptor Z, switch x, lâmpadas A e C e a bateria
+As condições são uma bateria e um caminho fechado	Há um caminho fechado contendo a lâmpada e uma bateria
+O terminal 1 e o terminal 2 estão do mesmo lado.	Os terminais 1 e 2 estão conectados
+Porque há uma lacuna.	Se a bulbo é queimada, nem B nem C estão em um caminho fechado
+Cada lâmpada afeta as outras lâmpadas	A e C estão no mesmo caminho
+Porque o switch x pode ser fechado e y pode ser aberto e um Will Light	há um caminho contendo um
+Terminal 4 tem uma lacuna.	Terminal 4 e o terminal positivo da bateria estão no mesmo estado elétrico
+A lâmpada C não está contida em um caminho fechado com a bateria.	A lâmpada C não estava mais em um caminho fechado com a bateria
+que não há diferença entre os estados elétricos do terminal da lâmpada e o terminal da bateria	Os terminais estão no mesmo estado.
+Porque danifica o circuito completo	Se a bulbo é queimada, nem B nem C estão em um caminho fechado
+Um curto circuito ocorreu	há um curto -circuito
+diz que há uma lacuna	Não há lacuna entre os terminais
+A lâmpada não está contida no caminho	A lâmpada não está no caminho fechado que contém a bateria
+Porque a lâmpada A está em um caminho fechado com a bateria	A lâmpada A ainda estava contida no mesmo caminho fechado com a bateria.
+impede que o caminho seja fechado.	Não há caminho fechado
+Um terminal está conectado ao terminal positivo da bateria	Terminal 4 e o terminal positivo estão conectados
+Talvez porque ainda exista um caminho que conecte A e C a B a	Existe um circuito incompleto
+Porque o terminal da bateria positivo e o terminal 6 foram conectados.	Terminal 6 e o ​​terminal positivo estão conectados
+O terminal positivo da bateria está conectado ao terminal 6.	Terminal 6 e o ​​terminal positivo estão conectados
+A lâmpada não está conectada à conexão positiva da bateria.	Não há caminho fechado
+O interruptor aberto estava no caminho.	há um caminho contendo z e c
+A bateria está em um circuito com uma lâmpada.	Não há caminho fechado contendo a bateria
+Porque a lâmpada C criou uma lacuna, ela tinha uma carga positiva e negativa.	O terminal 1 e o terminal positivo são separados pela lacuna
+O terminal positivo está conectado ao terminal 4.	Terminal 4 e o terminal positivo estão conectados
+As lâmpadas A e C ainda estavam em caminhos fechados com a bateria	As lâmpadas A e C ainda estão contidas em caminhos fechados com a bateria
+Switch y estava em um caminho dfferent	interruptor y e bulbo a não estão no mesmo caminho fechado
+Se a lâmpada danificada estiver no mesmo caminho fechado que a outra lâmpada	A lâmpada danificada e a outra lâmpada devem estar contidas no mesmo caminho
+Estava no mesmo caminho que o interruptor x.	A lâmpada A ainda está contida em um caminho fechado com a bateria e o comutador x.
+As lâmpadas A e C estão em caminhos diferentes que não contêm lâmpada B	Cada lâmpada está em seu próprio caminho
+A lâmpada A, a lâmpada B e a lâmpada C cada um tem seu próprio caminho fechado com a bateria.	A e C estão em caminhos diferentes com a bateria
+Se o caminho estiver aberto ou fechado	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+A bateria não está contida em um caminho fechado	A bateria em 4 não está em um caminho fechado
+Porque o comutador Y e Z também estão conectados à lâmpada a.	Há um caminho contendo A, C, Z e X
+O interruptor deve estar localizado dentro de um caminho fechado para a lâmpada continuar	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+Se ambas as lâmpadas estiverem contidas em um caminho fechado	A lâmpada danificada e a outra lâmpada devem estar contidas no mesmo caminho
+bulbo a vai queimar com lâmpada c	Se C queima, então A e B ainda estão em um caminho fechado com a bateria.
+Os terminais 1 e 2 têm a mesma tensão porque há uma lâmpada de trabalho conectada ao terminal da bateria negativo.	Os terminais 1 e 2 estão conectados e no mesmo estado elétrico
+O terminal positivo da bateria não é separado por uma lacuna do terminal 4	Terminal 4 e o terminal positivo não são separados pela lacuna
+A lâmpada A está em dois caminhos diferentes com a bateria	A lâmpada A ainda está em um caminho fechado com a bateria
+porque o terminal 1 está conectado ao terminal 4.	Os terminais 1 e 4 estão conectados
+Porque há uma lacuna.	há uma lacuna em um circuito
+Não há lacuna entre o terminal positivo e o terminal 4	Terminal 4 e o terminal positivo não são separados pela lacuna
+não é um caminho fechado.	O caminho não está fechado
+que não há diferença nos estados elétricos dos dois terminais	Os terminais estão no mesmo estado.
+Ainda há um caminho fechado contendo a lâmpada B e C com a bateria.	As lâmpadas B e C ainda estão em caminhos fechados com a bateria
+Porque tem um terminal positivo	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+O terminal da bateria está conectado ao terminal 6.	Terminal 6 e o ​​terminal positivo estão conectados
+Terminal One está conectado a um terminal de bateria positivo	O terminal 1 e o terminal positivo são separados pela lacuna
+Se a chave estiver contida no caminho com a lâmpada, o comutador afetará a lâmpada.	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+Ambos os terminais da bateria não estão conectados.	A bateria em 2 não está em um caminho fechado
+Terminal One não está conectado ao terminal de bateria positivo	Terminal 1 e o terminal positivo não estão conectados
+Uma leitura de tensão de 0 volts indica uma lacuna no circuito.	Não há lacuna entre os terminais
+A lâmpada A e C estão contidas no mesmo caminho com a bateria	A e C não estão no mesmo caminho com a bateria
+A lâmpada C está em um caminho separado de A e B, que ainda estão conectados à bateria.	Se C queima, então A e B ainda estão em um caminho fechado com a bateria.
+que não há conexão elétrica	Não há lacuna entre os terminais
+A bateria está em um caminho fechado, mas se conecta com nada mais	A bateria está contida em um caminho fechado que não contém outros componentes
+Os terminais devem ter uma diferença nos estados elétricos para ter tensão	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+Os dois componentes são separados.	O terminal 1 e o terminal positivo são separados pela lacuna
+A lâmpada A é conectada à bateria.	A lâmpada A ainda estava contida no mesmo caminho fechado com a bateria.
+Porque a cobrança positiva é antes da lacuna	O terminal 1 e o terminal positivo são separados pela lacuna
+O interruptor Y está em um caminho diferente do bulbo a.	interruptor y e bulbo a não estão no mesmo caminho fechado
+Switch Y não está no caminho da lâmpada a.	Não há caminho contendo o comutador y e o bulbo a
+A lâmpada B e a lâmpada C estão em um caminho fechado e a lâmpada A está em um caminho fechado separado	Se C queima, então A e B ainda estão em um caminho fechado.
+Há um circuito completo, com uma bateria e uma lâmpada	A lâmpada A ainda está contida em um caminho fechado com a bateria.
+A lâmpada está contida em um caminho de cloed com a bateria	A lâmpada danificada e a outra lâmpada devem estar contidas no mesmo caminho
+Há uma lacuna entre os dois terminais de lâmpada	Os terminais são separados por uma lacuna
+O terminal positivo e o terminal 6 estão conectados	Terminal 6 e o ​​terminal positivo estão conectados
+O terminal 1 é conectado ao terminal negativo.	Os terminais 1 e 2 estão conectados e no mesmo estado elétrico
+A lâmpada está contida em um circuito fechado	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+Os terminais 1 e 2 são separados por uma lacuna	Os terminais 1 e 2 estão no mesmo estado elétrico
+Há uma lacuna no Terminal 1	O terminal 1 está conectado ao terminal da bateria negativo
+O terminal 1 é conectado ao terminal positivo.	O terminal 1 está conectado ao terminal da bateria negativo
+A bateria está contida em um caminho fechado	A bateria está contida em um caminho fechado que não contém outros componentes
+bulbo a cria uma lacuna no circuito fechado	Se a bulbo é queimada, nem B nem C estão em um caminho fechado
+sempre tem a mesma tensão devido a uma reação química dentro dela	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+Os terminais são separados por um gay entre os terminais positivos e negativos da bateria	Os terminais 1 e 2 estão no mesmo estado elétrico
+O terminal 1 e o terminal 2 são conectados ao terminal negativo da bateria	Os terminais 1 e 2 estão conectados e no mesmo estado elétrico
+O terminal positivo da bateria é separado por uma lacuna do terminal 2.	O terminal 2 e o terminal positivo são separados pela lacuna
+Porque tem um independentemente do circuito	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+por causa da lacuna na lâmpada B	Os terminais 4, 5 e 6 são separados do terminal de bateria negativo por uma lacuna
+Ainda há um caminho fechado que contém a bateria, a lâmpada A e a lâmpada B	As lâmpadas A e B ainda estão em caminhos fechados com a bateria
+Há uma lacuna no caminho.	Os terminais 1, 2 e 3 não são separados do terminal de bateria negativo por uma lacuna
+Os estados elétricos entre os terminais são os mesmos, resultando em 0	Os terminais estão no mesmo estado.
+O terminal positivo está conectado ao terminal 6	Terminal 6 e o ​​terminal positivo estão conectados
+O terminal positivo da bateria é separado por uma lacuna do terminal 1.	O terminal 2 não está separado do terminal de bateria negativo
+porque o terminal 1 está conectado ao terminal positivo sem lacunas	O terminal 1 e o terminal positivo são separados pela lacuna
+Porque causaria uma lacuna	Se a bulbo é queimada, nem B nem C estão em um caminho fechado
+A bateria não está contida em um circuito	A bateria em 2 não está em um caminho fechado
+caminhos fechados da bateria	A lâmpada e a bateria estão em um caminho fechado
+Switch y não afetou a lâmpada a	interruptor y e bulbo a não estão no mesmo caminho fechado
+As lâmpadas A e B ainda estarão contidas em um caminho fechado para a bateria.	As lâmpadas A e B ainda estão em caminhos fechados com a bateria
+O componente não está fechado dentro do caminho e a bateria é	A bateria está contida em um caminho que não contém outros componentes
+Há uma separação entre as lâmpadas e o terminal de bateria negativo	Os terminais 4, 5 e 6 são separados do terminal de bateria negativo por uma lacuna
+A bateria não está contida em um caminho fechado.	A bateria em 4 não está em um caminho fechado
+A bateria não está contida em um caminho fechado.	A bateria em 2 não está em um caminho fechado
+Quando a lâmpada B é danificada, há uma interrupção na corrente.	há uma lacuna em um circuito
+A tensão é a diferença entre uma extremidade positiva e negativa na bateria.	O terminal 1 e o terminal positivo são separados pela lacuna
+O terminal ainda está conectado a um estado elétrico da bateria	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+As lâmpadas A, B e C não estão contidas no mesmo caminho fechado.	A e C não estão no mesmo caminho
+Há outro componente além da bateria no circuito.	A bateria em 2 não está em um caminho fechado
+Switch y não afeta a lâmpada a	interruptor y e bulbo a não estão no mesmo caminho fechado
+Bulbo B e C estão em um caminho fechado	B e C estão no mesmo caminho
+A bateria está contida na lâmpada	A bateria está contida em um caminho que não contém outros componentes
+as lâmpadas estão contidas em um caminho fechado	As lâmpadas A e C ainda estão em caminhos fechados
+A bateria está contida no caminho	A lâmpada A ainda está contida em um caminho fechado com a bateria.
+O terminal tem um estado elétrico entre os terminais	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+Porque havia uma lacuna no caminho.	há um caminho contendo z e c
+bulbo b e bulbo c estão contidos em caminhos diferentes com a bateria	B e C estão no mesmo caminho com a bateria
+Porque cada lâmpada tem seu próprio caminho	A, B e C estão em caminhos diferentes
+O terminal positivo não é separado da lacuna	Terminal 4 e o terminal positivo não são separados pela lacuna
+A bateria está em um banho fechado.	A bateria está contida em um caminho fechado no qual não há lâmpada
+"Becuase Bulb C está nela" "Pathway de" "	bulbo c está em um caminho separado
+uma conexão com a bateria	Existe um circuito completo
+você precisava de uma bateria e um BLUB com o mesmo caminho, e o caminho deve ser fechado	Há um caminho fechado contendo a lâmpada e uma bateria
+há uma lacuna entre o terminal um e dois	não há lacuna entre eles
+Se o caminho não estiver fechado, uma lâmpada não estará ligada	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+O terminal 1 foi conectado ao terminal positivo.	O terminal 1 está conectado ao terminal da bateria negativo
+Não há lacuna na conexão	os terminais não são separados por uma lacuna
+A lâmpada C não está no mesmo caminho fechado que a bateria	Se C queima, então A e B ainda estão em um caminho fechado com a bateria
+Porque há uma lacuna	O terminal 1 e o terminal positivo são separados pela lacuna
+não continha o caminho	A e B têm seu próprio caminho
+O interruptor determina se o caminho está aberto ou fechado.	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+Um interruptor afetará uma lâmpada na lâmpada e o interruptor está no caminho como a bateria	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+Circuito 5 tem apenas 1 terminal	A bateria está contida em um caminho que não contém outros componentes
+há uma lacuna no circuito	Os terminais 1 e 4 estão conectados
+A lâmpada está em um circuito fechado e a bateria existe nesse circuito	A bateria em 2 não está em um caminho fechado
+Há uma lacuna entre o terminal positivo e o terminal 1	O terminal 1 e o terminal positivo são separados pela lacuna
+Quando uma lâmpada é danificada, ela cria uma lacuna no circuito	Uma lâmpada danificada cria uma lacuna
+Terminal positivo da bateria não é separado por uma lacuna do terminal 4	Terminal 4 e o terminal positivo não são separados pela lacuna
+A outra lâmpada não vai acender.	A lâmpada danificada e a outra lâmpada devem estar contidas no mesmo caminho
+A bateria positiva é separada por uma lacuna do terminal 3.	O terminal 2 não está separado do terminal de bateria negativo
+um circuito fechado entre uma bateria e lâmpada	A lâmpada e a bateria estão em um caminho fechado
+Porque as lâmpadas B e C estão em um caminho fechado com a bateria	A lâmpada B e a lâmpada C ainda estavam contidas no mesmo caminho fechado com a bateria.
+Não há lacuna entre os terminais	O terminal 1 está conectado ao terminal da bateria negativo
+Porque há conexões positivas e negativas	Os terminais 1 e 6 não estão conectados
+Porque não tinha lacuna entre os terminais	A lâmpada A ainda está contida em um caminho fechado com a bateria.
+bulbo b e bulbo c ainda estão contidos em caminhos fechados com a bateria	Se a lâmpada a queima, B e C não estiverem mais em um caminho fechado com a bateria
+Bulbo B é uma lacuna	Os terminais 4, 5 e 6 são separados do terminal de bateria negativo por uma lacuna
+A bateria não está fechada, a lâmpada é.	A bateria em 2 não está em um caminho fechado
+porque está em um circuito fechado consigo mesmo e a lâmpada não é i o circuito fechado	A bateria está contida em um caminho em que não há lâmpada
+O caminho deve ser fechado para que a lâmpada esteja ligada.	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+O terminal 1 não está conectado ao terminal positivo.	Terminal 1 e o terminal positivo não estão conectados
+Um terminal está conectado ao terminal de bateria negativo	Os terminais não estão conectados
+O terminal positivo da bateria e o terminal 1 não estão conectados	Terminal 1 e o terminal positivo não estão conectados
+A remoção da lâmpada A afetará a lâmpada C	A e C estão no mesmo caminho fechado
+há uma diferença nos estados elétricos	Os terminais são separados por uma lacuna
+Porque ainda está em um circuito fechado	A lâmpada A ainda estava contida no mesmo caminho fechado com a bateria.
+haveria uma lacuna no circuito	há uma lacuna em um circuito
+A bateria usa a reação química para criar tensão	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+o interruptor está contido no caminho	o interruptor e a lâmpada precisam estar no mesmo caminho
+A lâmpada está contida no caminho fechado	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+Um terminal tem um estado elétrico onde há uma reação química	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+faz um curto -circuito	O caminho não está fechado
+O terminal 6 está conectado à diferença	Terminal 6 e o ​​terminal positivo estão conectados
+O terminal positivo da bateria é separado por uma lacuna do terminal 4	Terminal 4 e o terminal positivo da bateria estão no mesmo estado elétrico
+Uma chave contida em um caminho fechado com uma lâmpada e uma bateria afetará a lâmpada.	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+porque o terminal positivo é separado por uma lacuna do terminal 3	O terminal 3 e o terminal positivo são separados pela lacuna
+Não está no mesmo caminho.	A lâmpada A ainda está em um caminho fechado com a bateria
+A lâmpada danificada cria uma lacuna.	Uma lâmpada danificada cria uma lacuna
+A tensão é mais próxima da lâmpada queimada	A tensão de medição indica o local onde o estado elétrico muda devido a uma lâmpada danificada.
+Se Z estiver fechado, A ainda faz parte de um circuito completo.	A lâmpada A ainda está em um caminho fechado com a bateria
+não está em um caminho fechado	A bateria em 2 não está em um caminho fechado
+Permite medir estados elétricos entre terminais	A tensão de medição indica o local onde o estado elétrico muda devido a uma lacuna.
+Não há caminho através da conexão da lâmpada b.	Existe um circuito incompleto
+O terminal positivo está conectado ao terminal 6	Terminal 6 e o ​​terminal positivo estão conectados
+"Se os terminais nas duas extremidades da lâmpada forem iguais, ela" está danificada ".	Uma tensão diferente de zero significa que os terminais não estão conectados.
+O circuito 5 está em um caminho fechado.	A bateria está contida em um caminho fechado no qual não há lâmpada
+B e C ainda estavam contidos em um circuito fechado com a bateria	A lâmpada B e a lâmpada C ainda estavam contidas no mesmo caminho fechado com a bateria.
+Isso ajudará a descobrir onde está a lacuna no circuito.	A tensão de medição indica se dois terminais são separados por uma lacuna.
+Se o bulbo a queima se afetar as lâmpadas b e c.	A e C estão no mesmo caminho fechado
+A lâmpada não está contida no caminho	A bateria está contida em um caminho que não contém outros componentes
+Não há relação entre o caminho da lâmpada A e C	A e C estão em caminhos diferentes
+Quando o interruptor é aberto	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+"Os terminais da bateria não" "T se conecta sem dispositivos"	A bateria está em um caminho aberto
+O terminal está conectado à extremidade postiva da bateria	Os terminais 4, 5 e 6 estão conectados ao terminal positivo da bateria
+Uma bateria sempre terá uma tensão porque os estados elétricos dos terminais positivos e negativos são sempre diferentes.	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+A lâmpada B e a lâmpada C são contêm no mesmo caminho fechado.	B e C estão no mesmo caminho com a bateria
+porque abre o circuito, portanto o circuito não está fechado	O caminho não está fechado
+Porque a bateria está em um caminho fechado.	A bateria está contida em um caminho fechado no qual não há lâmpada
+A bateria está conectada a apenas um lado da lâmpada e está apenas executando eletricidade de volta à bateria.	A bateria está em um caminho aberto
+Porque nenhum dos componentes está em caminhos fechados.	Circuito 4 não tem caminhos fechados
+Switch X não afeta as lâmpadas B e C	Há um caminho com B e C que não inclui x
+Se houver um interruptor aberto no caminho, a lâmpada não estará ligada.	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+A lâmpada A não estará mais completando os circuitos.	Se a bulbo é queimada, nem B nem C estão em um caminho fechado
+Switch y está em um caminho diferente do bulbo a	interruptor y e bulbo a não estão no mesmo caminho fechado
+Não há caminho através da lâmpada b.	Existe um circuito incompleto
+Feche o caminho e corresponda aos terminais	Há um caminho fechado contendo a lâmpada e uma bateria
+ainda tenho conexão com a bateria	Se C queima, então A e B ainda estão em um caminho fechado com a bateria.
+O terminal 6 é conectado ao terminal positivo da bateria	Os terminais 1 e 6 não estão conectados
+Foi um caminho fechado	A lâmpada A ainda estava contida no mesmo caminho fechado com a bateria.
+Porque a lâmpada A estava contida em um caminho fechado com a bateria.	A lâmpada A ainda estava contida no mesmo caminho fechado com a bateria.
+há uma diferença entre o terminal 2	O terminal 2 e o terminal positivo são separados pela lacuna
+bulbo c cria uma lacuna	Se C queima, então A e B ainda estão em um caminho fechado com a bateria.
+Terminal 4, Terminal 5 e Terminal 6 estão conectados ao terminal da bateria positivo	Os terminais 4, 5 e 6 estão conectados ao terminal positivo da bateria
+"Existem caminhos fechados que não" "inclui bulbo a"	Cada lâmpada está em seu próprio caminho
+Porque há um circuito fechado após a lâmpada B	Os terminais 4, 5 e 6 estão conectados ao terminal positivo da bateria
+bulbo c e a bateria não está contida em um caminho fechado	A lâmpada C não estava mais em um caminho fechado com a bateria
+O circuito 4 está contido em um caminho aberto	A bateria está em um caminho aberto
+que o circuito é ruim.	há um curto -circuito
+O caminho foi fechado e conectado à bateria	A lâmpada A ainda está contida em um caminho fechado com a bateria.
+O estado elétrico de "O terminal" "não é efetuado pelo circuito incompleto".	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+Bateria positiva separada pelo GAP do Terminal 1	Terminal 3 e o terminal positivo não estão conectados
+Porque o caminho tem que ser aberto	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+A e B ainda estão contidos em um caminho fechado com a bateria.	Se C queima, então A e B ainda estão em um caminho fechado com a bateria
+Porque havia uma lacuna nos terminais	Não há caminho contendo o comutador y e o bulbo a
+O terminal positivo da bateria é separado por uma lacuna do TermNial.	O terminal 2 e o terminal positivo são separados pela lacuna
+A lâmpada C não cria uma lacuna no caminho para a lâmpada B e a	Se C estiver danificado, A e B ainda estão em um caminho fechado
+Se a outra lâmpada não estiver mais contida em um caminho fechado com a bateria	A lâmpada danificada e a outra lâmpada devem estar contidas no mesmo caminho
+há uma lacuna após a lâmpada B	O terminal 1 e o terminal positivo são separados pela lacuna
+Ambos estão do mesmo lado do circuito	Os terminais 1, 2 e 3 estão conectados ao terminal de bateria negativo
+O terminal é separado por uma lacuna quando a lâmpada sai	Não há lacuna entre os terminais
+A tensão de uma bateria não depende dos componentes em um curcuit.	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+Não há lacuna entre o terminal da bateria positivo e o terminal 6	Terminal 6 e o ​​terminal positivo não são separados pela lacuna
+A bateria está contida em um caminho fechado.	A bateria está contida em um caminho fechado no qual não há lâmpada
+A bateria tem sua própria reação química	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+Porque o terminal 1 não teve lacuna.	O terminal 1 e o terminal positivo são separados pela lacuna
+A lâmpada A e C estão em um caminho diferente com a bateria	A e C não estão no mesmo caminho com a bateria
+interrompe o fluxo de eletricidade.	há um caminho aberto
+porque bloqueia a carga do circuito.	Existe um circuito incompleto
+É um circuito aberto	Terminal 4 e o terminal positivo da bateria estão no mesmo estado elétrico
+estava em um caminho fechado	A lâmpada A ainda está contida em um caminho fechado com a bateria.
+Porque o terminal 1 e o terminal neavivo são separados.	O terminal 1 e o terminal positivo são separados pela lacuna
+O terminal da bateria Positve é separado por uma lacuna no Terminal 1	O terminal 1 e o terminal positivo são separados pela lacuna
+O terminal 1 é conectado ao terminal negativo.	O terminal 1 está conectado ao terminal da bateria negativo
+A bateria está em um caminho fechado, não conectado à lâmpada.	A bateria está contida em um caminho em que não há lâmpada
+Switch Z está contido em um caminho fechado	Há um caminho contendo A, C, Z e X
+A tensão possui o mesmo estado elétrico entre dois terminais.	Os terminais 1, 2 e 3 são separados do terminal de bateria positivo por uma lacuna
+Você pode localizar a lacuna em uma conexão	A tensão de medição indica se dois terminais são separados por uma lacuna.
+A bateria no circuito 5 está contida em um caminho fechado.	A bateria está contida em um caminho em que não há lâmpada
+torna o circuito incompleto.	Existe um circuito incompleto
+Porque não há lacuna no Terminal 1	O terminal 1 está conectado ao terminal da bateria negativo
+Como a tensão é a diferença nos estados elétricos entre dois terminais.	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+A lâmpada A e B ainda estarão em um caminho contido.	Se C queima, então A e B ainda estão em um caminho fechado.
+Terminal 1 e Terminal 6 são separados por uma lacuna	Os terminais 1 e 6 são separados pela lacuna
+Se o interruptor e a lâmpada estiverem contidos no mesmo caminho, o comutador afetará a lâmpada.	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+Porque as lâmpadas A e C estão contidas em caminhos diferentes com a bateria	A e C estão em caminhos diferentes com a bateria
+A massa está em um caminho fechado sem outros componentes.	A bateria está contida em um caminho fechado que não contém outros componentes
+Switch Z está contido em um caminho fechado	Ainda há um caminho fechado contendo o interruptor Z, switch x, lâmpadas A e C e a bateria
+sim a lâmpada A estava em	A lâmpada A ainda estava contida no mesmo caminho fechado com a bateria.
+Switch Z contém um caminho fechado com a bateria	Ainda há um caminho fechado contendo o interruptor Z, switch x, lâmpadas A e C e a bateria
+A lâmpada A e a lâmpada C estão contidos em caminhos diferentes com o BTTER.	A e C estão em caminhos diferentes com a bateria
+Porque o término da massa não foi extraído por uma lacuna do terminal.	Terminal 4 e o terminal positivo não são separados pela lacuna
+Se o caminho estiver aberto, a lâmpada estará desligada	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+Ele localizará a lacuna.	Uma tensão diferente de zero significa que os terminais não estão conectados.
+Terminais de lâmpada 3 e 4	O terminal 1 e o terminal positivo são separados pela lacuna
+os terminais não estão conectados um ao outro	Terminal 1 e o terminal positivo não estão conectados
+BEACUSE estava em um caminho fechado com a bateria	A lâmpada A ainda estava contida no mesmo caminho fechado com a bateria.
+Uma lacuna causa uma reação química	Uma tensão diferente de zero significa que os terminais não estão conectados.
+Switch Y não está no mesmo caminho que a lâmpada a.	A lâmpada A ainda está em um caminho fechado com a bateria
+A lâmpada A é contida em um caminho fechado	A lâmpada A ainda estava contida no mesmo caminho fechado com a bateria.
+"Não há" "T é um caminho fechado da bateria"	Não há caminho fechado contendo a bateria
+O interruptor Z está contido em um caminho fechado com a lâmpada A e a bateria	Há um caminho contendo A, C, Z e a bateria
+Porque a lâmpada A está em um caminho fechado e a lâmpada C está em um caminho fechado.	As lâmpadas A e C ainda estão em caminhos fechados
+A lâmpada A e C estão contidas em caminhos diferentes com a bateria.	A e C estão em caminhos diferentes com a bateria
+Switch y não está no mesmo caminho para a bateria	A lâmpada A ainda está em um caminho fechado com a bateria
+A e B estão desligados	Existe um circuito incompleto
+Se os interruptores x e z estiverem fechados, ele completará o circuito fechado para a lâmpada a	Ainda há um caminho fechado contendo o interruptor Z, switch x, lâmpadas A e C e a bateria
+Porque a lâmpada A pode percorrer o outro caminho	A lâmpada A ainda está em um caminho fechado com a bateria
+Permite que você identifique qualquer lacuna	A tensão de medição indica se dois terminais são separados por uma lacuna.
+A lâmpada A estava em um caminho fechado com uma bateria.	A lâmpada A ainda está contida em um caminho fechado com a bateria.
+Um interruptor aberto interrompe o fluxo de energia	O caminho não está fechado
+quando cria uma lacuna em um certo caminho	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+As lâmpadas B e C foram contidas em um caminho fechado com a bateria.	A lâmpada B e a lâmpada C ainda estavam contidas no mesmo caminho fechado com a bateria.
+As lâmpadas A e C se afetam.	A e C estão no mesmo caminho
+há um caminho fechado para a bateria	As lâmpadas A e C ainda estão contidas em caminhos fechados com a bateria
+Porque há uma lacuna na conexão entre o Terminal 1 e o Terminal 6	Há uma lacuna entre os terminais 1 e 6
+Ele verifica o estado elétrico entre dois terminais.	A tensão de medição indica o local onde o estado elétrico muda devido a uma lacuna.
+Porque a eletricidade não fluirá através dos fios se o caminho do circuito estiver incompleto.	Existe um circuito incompleto
+Porque estava conectado ao lado positivo.	O terminal 1 e o terminal positivo são separados pela lacuna
+A bateria não está em um circuito fechado	A bateria em 4 não está em um caminho fechado
+a está no mesmo caminho que C	Se C queima, então A e B ainda estão em um caminho fechado.
+Encontre onde existem diferentes estados elétricos	A tensão de medição indica o local onde o estado elétrico muda devido a uma lacuna.
+O interruptor e a lâmpada estão contidos no mesmo caminho	Se a lâmpada é queimaduras, as lâmpadas B e C ainda estão em um caminho fechado
+Havia um caminho fechado não efetuado pelo interruptor	Não há caminho contendo o comutador y e o bulbo a
+As lâmpadas A e B ainda estarão contidas em um caminho fechado com a bateria	Se C queima, então A e B ainda estão em um caminho fechado com a bateria.
+há uma lacuna no caminho	Os terminais 1 e 4 estão conectados
+O interruptor está aberto ou fechado determina se o caminho está fechado ou não	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+O terminal positivo da bateria e o terminal 4 estão do mesmo lado da lâmpada danificada	Terminal 4 e o terminal positivo não são separados pela lacuna
+Porque os estados elétricos entre os dois terminais da bateria serão diferentes, não importa o quê	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+o terminal da lâmpada desconectado do terminal da bateria	Os terminais não estão conectados
+Porque abre a conexão	O interruptor aberto cria uma lacuna
+O terminal 1 é separado do terminal positivo	O terminal 1 e o terminal positivo são separados pela lacuna
+Porque os caminhos ainda estavam em um circuito fechado com o terminal da bateria	As lâmpadas A e C ainda estão contidas em caminhos fechados com a bateria
+Porque a lâmpada A está em um caminho fechado com a bateria.	A lâmpada A ainda está em um caminho fechado com a bateria
+"Porque não é" "t contido em um caminho fechado".	A bateria em 4 não está em um caminho fechado
+Porque a lâmpada danificada a cria uma lacuna no caminho	Se a bulbo é queimada, nem B nem C estão em um caminho fechado
+há uma lacuna no terminal 1	Os terminais 1 e 2 estão no mesmo estado elétrico
+Um terminal é criado para o terminal positivo	Os terminais não estão conectados
+por causa da lacuna na lâmpada B	Os terminais 1, 2 e 3 são separados do terminal de bateria positivo por uma lacuna
+conectado ao terminal negativo	Os terminais 1, 2 e 3 estão conectados ao terminal de bateria negativo
+O terminal positivo da bateria está conectado ao terminal 6	Terminal 6 e o ​​terminal positivo estão conectados
+por causa da lacuna no bulbo b.	Os terminais 4, 5 e 6 não estão conectados ao terminal de bateria negativo
+Quando o interruptor é fechado	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+Porque as lâmpadas A e C estavam em um caminho fechado separado	As lâmpadas A e C ainda estão em caminhos fechados
+A lâmpada A, a lâmpada B e a lâmpada C estão contidas em caminhos diferentes.	A e C estão em caminhos diferentes com a bateria
+O caminho contém a lâmpada e o caminho não está fechado.	Não há caminho fechado
+bulbo b e bulbo c estão contidos dentro de um caminho fechado	B e C estão no mesmo caminho com a bateria
+Porque a bateria e a lâmpada não estão em um caminho fechado.	A bateria em 4 não está em um caminho fechado
+Se a lâmpada danificada estiver contida no circuito fechado	A lâmpada danificada e a outra lâmpada devem estar contidas no mesmo caminho
+O terminal está conectado ao terminal 6	Os terminais 1 e 6 não estão conectados
+A bateria não está contida em um caminho fechado	A bateria em 4 não está em um caminho fechado
+Deve ser conectado à bateria.	Há um caminho fechado contendo a lâmpada e uma bateria
+As lâmpadas A e C não estão contidas no mesmo caminho fechado.	A e C não estão no mesmo caminho
+A tensão de medição entre o terminal da bateria positiva e o terminal da lâmpada determina a lacuna na conexão.	A tensão de medição indica se dois terminais são separados por uma lacuna.
+Bulbo queimado B causará uma lacuna no caminho fechado.	Bulbo B cria uma lacuna
+porque o terminal 4 está conectado ao terminal negativo	Terminal 4 e o terminal positivo da bateria estão no mesmo estado elétrico
+Os outros terminais estão conectados apenas ao terminal positivo da bateria.	Os terminais 4, 5 e 6 estão conectados ao terminal positivo da bateria
+O interruptor X está contido no mesmo caminho que a lâmpada a.	A lâmpada A ainda está contida em um caminho fechado com a bateria e o comutador x.
+a lâmpada e a bateria estão conectadas	A bateria está em um caminho aberto
+Um circuito incompleto não afetaria o estado elétrico entre os terminais.	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+porque a lâmpada C será retirada do caminho fechado quando o interruptor abrir	A lâmpada C não estava mais em um caminho fechado com a bateria
+Porque quebrou o circuito	Não há caminhos fechados
+O terminal está conectado à bateria negativa	Os terminais 1 e 2 estão conectados
+A lâmpada A e a lâmpada C estão no mesmo caminho.	A e C estão no mesmo caminho
+Porque X e Z podem ser fechados e a lâmpada A funcionará.	Ainda há um caminho fechado contendo o interruptor Z, switch x, lâmpadas A e C e a bateria
+Existe um caminho de caminho se conectando a uma lâmpada e bateria	A bateria está em um caminho aberto
+Porque o interruptor estava conectado ao circuito fechado	Não há caminho contendo o comutador y e o bulbo a
+bulbo A e bulbo c não estão contidos no mesmo caminho fechado	A e C não estão no mesmo caminho
+O terminal positivo da bateria é separado do terminal de bateria negativo	Não há lacuna entre os terminais
+Um terminal está conectado aos estados diferenciados	Não há lacuna entre os terminais
+ele cria uma lacuna no circuito	Uma lâmpada danificada cria uma lacuna
+Porque o terminal um e o terminal positivo da bateria estão em um caminho fechado	O terminal 1 está conectado ao terminal da bateria negativo
+estava contido dentro de um caminho fechado	A lâmpada A ainda estava contida no mesmo caminho fechado com a bateria.
+ainda existe uma tensão são os diferentes terminais	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+A tensão é a diferença entre o estado elétrico dos terminais.	O terminal 1 e o terminal positivo são separados pela lacuna
+O terminal 1 foi conectado a um terminal positivo 6.	Os terminais 1 e 6 são separados pela lacuna
+Você pode descobrir qual lâmpada está queimada	A tensão de medição indica o local onde o estado elétrico muda devido a uma lâmpada danificada.
+Não há diferença nos estados eletcicais	Os terminais 1 e 2 estão conectados e no mesmo estado elétrico
+Porque não há lacuna entre o terminal 4 e o terminal positivo	Não há lacuna entre o terminal 4 e o terminal positivo
+Há um caminho fechado, com o interruptor Z, que contém bulbo a e a bateria	Há um caminho contendo A, C, Z e a bateria
+O circuito 4 não é um curto -circuito porque a bateria não está contida em um caminho fechado.	A bateria em 4 não está em um caminho fechado
+A lâmpada A estava em um circuito completo	A lâmpada A ainda está contida em um caminho fechado com a bateria.
+Não havia caminho fechado com a bateria	A lâmpada C não estava mais em um caminho fechado com a bateria
+pelo mesmo motivo que 1	Terminal 3 e o terminal positivo não estão conectados
+O terminal positivo da bateria não foi extraído por uma lacuna do Terminal 6	Terminal 6 e o ​​terminal positivo não são separados pela lacuna
+Se a lâmpada B estiver danificada, o caminho terá uma lacuna	Bulbo B cria uma lacuna
+Há uma lacuna entre o terminal da bateria negativo e o terminal 4.	O terminal 4 é separado por uma lacuna do terminal de bateria negativo
+O único componente no caminho fechado é a bateria.	Não há caminho fechado contendo a bateria
+As lâmpadas A e C estão contidas em caminhos fechados	As lâmpadas A e C ainda estão em caminhos fechados
+O circuito 4 não tem um caminho fechado	Circuito 4 não tem caminhos fechados
+Gap no circuito no bulbo b faz com que a leitura de tensão seja 0	O terminal 4 é separado por uma lacuna do terminal de bateria negativo
+a está no mesmo caminho	Se a bulbo é queimada, nem B nem C estão em um caminho fechado
+Porque o terminal 1 e 6 são conectados à bateria.	Os terminais 1 e 6 são separados pela lacuna
+"Porque a eletricidade pode" "T PASSAR"	O caminho não está fechado
+Uma lacuna no circuito não afeta a tensão da bateria.	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+Porque uma bateria sempre terá uma tensão, mesmo que seja 0	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+O terminal positivo e o terminal negativo não estão conectados	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+O terminal 6 é conectado ao terminal positivo da bateria	Terminal 6 e o ​​terminal positivo estão conectados
+A bateria estava contida em um circuito	A lâmpada A ainda está contida em um caminho fechado com a bateria.
+Porque isso criou um circuito fechado	A lâmpada A ainda estava contida no mesmo caminho fechado com a bateria.
+uma bateria e um caminho fechado	Há um caminho fechado contendo a lâmpada e uma bateria
+As lâmpadas serão afetadas por interruptores que estão no caminho	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+vai desligar	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+Porque a lâmpada não está mais em um circuito fechado	Existe um circuito incompleto
+A bateria não está conectada no caminho Closesd	A bateria em 2 não está em um caminho fechado
+e o circuito está fechado	A e C estão no mesmo caminho fechado
+Se um caminho estiver conectado a um interruptor OEN, a lâmpada estará desligada.	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+Deve estar em um circuito fechado.	A lâmpada e a bateria estão em um caminho fechado
+As lâmpadas B e A ainda estão contidas em um caminho fechado com a bateria	Se C queima, então A e B ainda estão em um caminho fechado com a bateria
+As lâmpadas A, B e C estão todas no mesmo caminho	A e C estão no mesmo caminho
+Não há caminho fechado que contenha a bateria, a lâmpada B e a lâmpada C	Se a lâmpada a queima, não há mais um caminho fechado contendo B, C e a bateria
+Todas as lâmpadas estão nos caminhos de Parralel	A e C estão em caminhos diferentes
+O terminal 6 é connectado ao terminal positivo	Terminal 6 e o ​​terminal positivo estão conectados
+Se o switch x estiver aberto	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+Os terminais estão conectados ao lado oposto da bateria	Os terminais são separados por uma lacuna
+Porque se houver uma tensão que significa que há uma lacuna	A tensão de medição indica o local onde o estado elétrico muda devido a uma lacuna.
+A lâmpada não é conatinada em um caminho fechado	A lâmpada não está no caminho fechado que contém a bateria
+Porque há uma lacuna entre o terminal da bateria positivo e o terminal 1.	O terminal 1 e o terminal positivo são separados pela lacuna
+A lâmpada A está no mesmo caminho do interruptor x.	A lâmpada A ainda está contida em um caminho fechado com a bateria e o comutador x.
+O terminal 4 está conectado ao terminal da bateria Positve e o terminal 4 não é separado por uma lacuna	Terminal 4 e o terminal positivo estão conectados
+1 2 e 3 são conectados	Os terminais 1, 2 e 3 estão conectados ao terminal de bateria negativo
+Porque havia caminhos fechados da bateria para a lâmpada	A lâmpada A ainda está contida em um caminho fechado com a bateria.
+há uma lacuna no circuito	há uma lacuna em um circuito
+A lâmpada A e B ainda estão contidas em um caminho fechado com a bateria.	Se C queima, então A e B ainda estão em um caminho fechado com a bateria
+Terminal One está conectado ao negativo	Os terminais 1 e 2 estão conectados
+O terminal 5 está conectado ao terminal da bateria pós -preitivo	Terminal 5 e o terminal positivo estão conectados
+Porque a lâmpada C não afeta os outros caminhos fechados	Se C estiver danificado, A e B ainda estão em um caminho fechado
+O terminal positivo da bateria é separado por uma lacuna do terminal 1.	O terminal 3 e o terminal positivo são separados pela lacuna
+Porque a lâmpada A estava em um circuito fechado com a bateria	A lâmpada A ainda está contida em um caminho fechado com a bateria.
+O caminho deve ser fechado e conter a bateria	o interruptor e a lâmpada precisam estar no mesmo caminho
+O circuito 2 está conectado à bateria	Não há caminho fechado contendo a bateria
+Caminhos separados conectados à bateria	Se a lâmpada a queima, B e C não estiverem mais em um caminho fechado com a bateria
+O caminho não fecha	A bateria está em um caminho aberto
+As lâmpadas A e C ainda estarão por conta própria.	As lâmpadas A e C estão em um caminho fechado
+A lâmpada B e a lâmpada C estavam em um circuito fechado com a bateria	A lâmpada B e a lâmpada C ainda estavam contidas no mesmo caminho fechado com a bateria.
+O terminal 1 está conectado ao terminal da bateria negativo	O terminal 1 está conectado ao terminal da bateria negativo
+A lâmpada B e a lâmpada C ainda estão em caminhos fechados com a bateria.	As lâmpadas A e B ainda estão em caminhos fechados com a bateria
+Um terminal não está conectado ao terminal da bateria positivo.	Os terminais 1 e 2 estão conectados
+"Porque ao medir a tensão, você encontra a lacuna onde" é uma diferença nos estados elétricos ".	A tensão de medição indica o local onde o estado elétrico muda devido a uma lacuna.
+O terminal positivo não é separado por uma lacuna do Terminal 4	Terminal 4 e o terminal positivo não são separados pela lacuna
+A lacuna causa uma diferença nos estados elétricos.	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+A lâmpada B não está no mesmo caminho com as lâmpadas a e c.	Bulbo B está em um caminho separado
+o interruptor está contido em um caminho fechado	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+A lâmpada não está contida em um caminho fechado.	A bateria está contida em um caminho que não contém outros componentes
+Ainda há um caminho fechado que contém a bateria e a lâmpada A e a lâmpada C	As lâmpadas A e C ainda estão contidas em caminhos fechados com a bateria
+O caminho determina apenas se uma lâmpada está desligada quando o interruptor está aberto	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+Porque você pode encontrar a diferença na tensão medindo a lacuna	A tensão de medição indica o local onde o estado elétrico muda devido a uma lacuna.
+Quando cria uma lacuna.	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+O terminal 6 está conectado ao terminal de bateria positivo	Os terminais 1 e 6 não estão conectados
+Uma bateria usa uma reação química para manter diferentes estados elétricos entre dois terminais	Uma tensão diferente de zero significa que os terminais não estão conectados.
+Se o caminho estiver diretamente conectado à bateria, o interruptor afetará uma lâmpada.	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+porque o switch z pode ser fechado	Há um caminho contendo A, C, Z e X
+Terminal 1 e Terminal 2 não possuem diferença	Os terminais 1 e 2 estão conectados e no mesmo estado elétrico
+Existem outro caminho fechado sem bulbo B	As lâmpadas A e C estão em um caminho fechado
+Porque o terminal positivo da massa e o terminal 6 foram conectados.	Terminal 6 e o ​​terminal positivo estão conectados
+A lâmpada C não estava contida em um caminho fechado com a bateria	A lâmpada C não estava mais em um caminho fechado com a bateria
+As lâmpadas devem estar em um caminho fechado com a bateria para funcionar	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+Bulbo A e Switch X estão no mesmo caminho fechado	A lâmpada A ainda está contida em um caminho fechado com a bateria e o comutador x.
+B e C estão em um caminho fechado com a bateria	Se a lâmpada é queimaduras, as lâmpadas B e C ainda estão em um caminho fechado
+Não havia lacuna no circuito	O terminal 1 e o terminal positivo são separados pela lacuna
+Porque se a lâmpada B estiver danificada, não há caminho através da lâmpada, criando um circuito incompleto	Existe um circuito incompleto
+As lâmpadas B e C estão no mesmo caminho que a bateria	B e C estão no mesmo caminho com a bateria
+O terminal está conectado a um circuito positivo.	O terminal 1 está conectado ao terminal da bateria negativo
+O terminal positivo da bateria está conectado ao terminal 6	Terminal 6 e o ​​terminal positivo estão conectados
+A lâmpada B e C estão contidas no mesmo caminho fechado.	B e C estão no mesmo caminho
+"Bem, ele terá uma tensão de zero, se isso" "é o que você está perguntando".	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+Ele tem apenas 1 conexão.	A bateria está em um caminho aberto
+As lâmpadas estão contidas em um caminho aberto.	A lâmpada não está no caminho fechado que contém a bateria
+A bateria está no caminho fechado	A lâmpada e a bateria estão em um caminho fechado
+A diferença de estado elétrico diz a você onde está a lacuna.	A tensão de medição indica o local onde o estado elétrico muda devido a uma lacuna.
+O terminal 1 está conectado ao terminal 6	Os terminais 1 e 6 são separados pela lacuna
+A lâmpada pode ser iluminada com o fechamento do Switch e o Switch Z.	Ainda há um caminho fechado contendo o interruptor Z, switch x, lâmpadas A e C e a bateria
+Porque os terminais não estão conectados	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+porque os outros terminais estão conectados ao terminal de bateria positivo	Os terminais 4, 5 e 6 estão conectados ao terminal positivo da bateria
+Porque o terminal 1 não é separado por nenhuma lacuna	O terminal 1 está conectado ao terminal da bateria negativo
+O terminal 1 não está conectado ao terminal 6	Os terminais 1 e 6 não estão conectados
+O terminal 4 e o terminal positivo da bateria estão no mesmo estado.	Terminal 4 e o terminal positivo estão conectados
+A lâmpada C criará uma lacuna no caminho	Cada lâmpada está em seu próprio caminho
+Haverá uma lacuna no circuito.	há uma lacuna no circuito
+Porque cria uma lacuna entre a bateria e os outros caminhos	Se a lâmpada é queimaduras, as lâmpadas B e C ainda estão em um caminho fechado
+"Se o interruptor causar uma lacuna em um caminho fechado, a lâmpada venceu" "T liga"	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+Switch X está no caminho fechado com bulbo a	A lâmpada A ainda está contida em um caminho fechado com a bateria e o comutador x.
+há outro caminho através do interruptor z	Ainda há um caminho fechado contendo o interruptor Z, switch x, lâmpadas A e C e a bateria
+contido no mesmo caminho fechado	A e C estão no mesmo caminho fechado
+Haverá uma lacuna em um ponto no tempo e haverá uma diminuição de tensão para que você saiba.	Uma tensão diferente de zero significa que os terminais são separados por uma lacuna.
+As lâmpadas A e B estão contidas em caminhos fechados com a bateria	Se C queima, então A e B ainda estão em um caminho fechado com a bateria.
+Um interruptor aberto afeta um circuito porque faz com que o caminho seja fechado; portanto, a conexão não pode ser feita.	O caminho não está fechado
+Se Buld B estiver danificado, que criará uma lacuna.	Bulbo B cria uma lacuna
+bulbo b e bulbo c estão contidos no mesmo caminho com a bateria	B e C estão no mesmo caminho com a bateria
+Porque há uma lacuna devido a uma lâmpada danificada.	Os terminais 1, 2 e 3 são separados do terminal de bateria positivo por uma lacuna
+Uma reação química dentro da bateria torna os estados elétricos dos terminais positivos e negativos diferentes o tempo todo.	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+O terminal positivo não é separado por uma lacuna.	O terminal 1 está conectado ao terminal da bateria negativo
+1 2 e 3 estão do lado tnegativo	Os terminais 1, 2 e 3 estão conectados ao terminal de bateria negativo
+Porque não houve separação no terminal da bateria positivo e no terminal 1.	O terminal 1 está conectado ao terminal da bateria negativo
+Tem seu próprio caminho fechado	A lâmpada A ainda estava contida no mesmo caminho fechado com a bateria.
+caminhos diferentes com a bateria	B e C estão no mesmo caminho com a bateria
+C não está dentro do mesmo caminho que B	Cada lâmpada está em seu próprio caminho
+O é um caminho aberto	A bateria está em um caminho aberto
+O terminal 6 está diretamente conectado ao terminal positivo.	Terminal 6 e o ​​terminal positivo estão conectados
+lâmpadas A, B e C estão em caminhos diferentes	A e C estão em caminhos diferentes
+Se o bulbo C queimar A e B, ambos criarão circuitos com a bateria	As lâmpadas A e B ainda estão em caminhos fechados com a bateria
+Quando o interruptor está conectado entre a lâmpada e a bateria	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+bateria está em um suporte	Existe um circuito completo
+está conectado ao terminal positivo	O terminal 1 está conectado ao terminal da bateria negativo
+A tensão de uma bateria é o resultado de reações químicas dentro da bateria	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+Os estados elétricos entre os terminais conectados serão diferentes do que os separados por uma lacuna.	A tensão de medição indica o local onde o estado elétrico muda devido a uma lacuna.
+Porque cria uma lacuna, o circuito se torna incompleto	Uma lâmpada danificada cria uma lacuna
+Bulbo B está em um caminho independente	Bulbo B está em um caminho separado
+porque pode seguir esse caminho que o switch z está ligado	Há um caminho contendo A, C, Z e X
+O caminho fechado contém lâmpada A, lâmpada B, lâmpada C e uma bateria.	A e C estão no mesmo caminho fechado
+O terminal da bateria Ppositivo está conectado no terminal 6.	Terminal 6 e o ​​terminal positivo estão conectados
+Haverá uma lacuna entre o terminal positivo da bateria e o terminal da lâmpada	Uma tensão diferente de zero significa que os terminais não estão conectados.
+Houve uma lacuna entre o terminal da bateria positivo e o terminal 1.	Os terminais 1 e 2 estão no mesmo estado elétrico
+Porque uma lâmpada cria eletricidade.	há um caminho aberto
+Haverá uma lacuna na lâmpada B, afetando assim o restante do circuito	Bulbo B cria uma lacuna
+Sempre há voltagem, mesmo que haja uma lacuna	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+A lâmpada A está morta.	Os terminais 4, 5 e 6 estão conectados ao terminal positivo da bateria
+A lâmpada C estava em um caminho incompleto	A lâmpada C não estava em um caminho fechado
+Porque o switch y não afeta o circuito em que a lâmpada a está ligada	interruptor y e bulbo a não estão no mesmo caminho fechado
+O terminal 1 está conectado ao terminal 2	Os terminais 1 e 4 estão conectados
+Porque a lâmpada A está conectada ao interruptor X e a bateria está em um caminho fechado	A lâmpada A ainda estava contida no mesmo caminho fechado com a bateria.
+Um terminal está conectado a uma lâmpada.	Os terminais 1, 2 e 3 são separados do terminal de bateria positivo por uma lacuna
+Porque a lâmpada A está conectada a outro caminho.	A lâmpada A ainda está em um caminho fechado com a bateria
+"A diferença de estado elétrico entre a bateria" "São dois terminais"	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+Apenas um terminal está envolvido no circuito.	A bateria em 2 não está em um caminho fechado
+tem que fazer algo com uma lacuna	O terminal 2 e o terminal positivo são separados pela lacuna
+por causa do produto químico na bateria	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+A lâmpada A não está no mesmo caminho que as lâmpadas b e c.	Cada lâmpada está em seu próprio caminho
+Porque o caminho que liga as lâmpadas será danificado	há uma lacuna em um circuito
+Porque a bateria tem seu próprio estado elétrico dentro dado pelo chumbo	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+Novamente, as lâmpadas A e B estarão contidas em um caminho fechado	Se C queima, então A e B ainda estão em um caminho fechado.
+Uma lacuna Chause diferentes estados elétricos com tensões diferentes	A tensão de medição indica o local onde o estado elétrico muda devido a uma lacuna.
+Porque estava contido em um banho fechado com a bateria.	A lâmpada A ainda estava contida no mesmo caminho fechado com a bateria.
+O caminho tem uma lacuna, então o circuito está incompleto	Os terminais 1, 2 e 3 são separados do terminal de bateria positivo por uma lacuna
+Caminho completo, incluindo uma bateria e uma lâmpada	Há um caminho fechado contendo a lâmpada e uma bateria
+Porque Buld A estava em um caminho fechado com uma bateria.	A lâmpada A ainda está contida em um caminho fechado com a bateria.
+O caminho deve ser fechado	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+Ele contém uma lâmpada e não completa um circuito completo para a bateria	A bateria em 2 não está em um caminho fechado
+O terminal está conectado ao terminal negativo da bateria	O terminal 1 está conectado ao terminal da bateria negativo
+Porque não está no mesmo caminho	Se a lâmpada é queimaduras, as lâmpadas B e C ainda estão em um caminho fechado
+Uma bateria deve se conectar a uma lâmpada em um caminho fechado.	A lâmpada e a bateria estão em um caminho fechado
+Um terminal não está conectado ao terminal da bateria positivo.	Terminal 1 e o terminal positivo não estão conectados
+Bulbo A tem seu próprio caminho fechado com a bateria, as lâmpadas B e C não	Há um caminho contendo A e um caminho diferente contendo B e C
+O terminal 1 e o terminal positivo estão conectados.	O terminal 1 e o terminal positivo são separados pela lacuna
+Porque não há lacuna entre os terminais	O terminal 1 não está separado do terminal de bateria negativo
+Os terminais 1 e 2 são conectados ao terminal negativo da bateria	Os terminais 1 e 2 estão conectados
+Sempre há uma diferença de tensão entre dois terminais de bateria.	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+porque a corrente não pode atingir a lâmpada se o circuito estiver aberto.	há um caminho aberto
+Uma massa usa uma reação química para criar tensão	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+Houve uma lacuna no circuito em que C estava	A lâmpada C não estava em um caminho fechado
+O terminal 5 está conectado ao terminal da bateria postiva	Terminal 5 e o terminal positivo estão conectados
+Quando o interruptor está no mesmo papth que a lâmpada.	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+que o terminal da lâmpada e o terminal da bateria estão do mesmo lado de um circuito desconectado	Os terminais estão no mesmo estado.
+Ele diz que está conectado a um terminal de bateria positivo.	Não há lacuna entre os terminais
+incorreto ou não uma maneira correta de conectar	há um curto -circuito
+Existem 2 caminhos neste diagrama	Há um caminho contendo A e um caminho diferente contendo B e C
+o circuito não tem nada a ver com a tensão das baterias	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+A lâmpada A ainda estava contida em um caminho fechado com a bateria.	A lâmpada A ainda estava contida no mesmo caminho fechado com a bateria.
+criou um circuito com a bateria	A lâmpada A ainda está contida em um caminho fechado com a bateria.
+Tem que haver uma bateria de circuito fechado.	A lâmpada e a bateria estão em um caminho fechado
+A lâmpada C não está contida em um caminho fechado	A lâmpada danificada e a outra lâmpada devem estar contidas no mesmo caminho
+Porque a lâmpada não tem um caminho fechado.	A lâmpada não está no caminho fechado que contém a bateria
+Porque quebrar uma lâmpada afeta a capacidade dos outros de iluminar.	A e C estão no mesmo caminho fechado
+porque o terminal 1 está diretamente conectado ao terminal 4	Os terminais 1 e 4 estão conectados
+A bateria sempre terá uma tensão.	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+ambas as lâmpadas A e C ainda têm um caminho fechado	As lâmpadas A e C ainda estão em caminhos fechados
+porque o terminal 1 está conectado ao terminal negativo, que tem uma diferença de 1,5 volts com o terminal positivo	O terminal 1 está conectado ao terminal da bateria negativo
+A e B estão em um caminho fechado com a bateria	Se C queima, então A e B ainda estão em um caminho fechado com a bateria
+A bateria se conecta à lâmpada	A bateria está em um caminho aberto
+A tensão é a diferença entre uma extremidade positiva e negativa em uma bateria.	O terminal 1 está conectado ao terminal da bateria negativo
+os terminais são separados do terminal positivo	Os terminais 1 e 2 estão no mesmo estado elétrico
+Bulbo A e Bulbo C não estão no mesmo caminho que a lâmpada B	A, B e C estão em caminhos diferentes
+Os terminais são separados do terminal positivo da bateria por uma lacuna	Os terminais 1 e 2 estão no mesmo estado elétrico
+Bulbo A afeta a lâmpada C	A e C estão no mesmo caminho fechado
+A lâmpada A estava em um caminho fechado com a bateria.	A lâmpada A ainda está contida em um caminho fechado com a bateria.
+O terminal positivo da bateria e o terminal 5 estão conectados	Terminal 5 e o terminal positivo estão conectados
+não está recebendo do terminal negativo ou positivo	Não há lacuna entre os terminais
+Ao medir, você pode encontrar a lacuna que mostrará qual lâmpada está queimada	A tensão de medição indica se dois terminais são separados por uma lacuna.
+Uma lâmpada danificada causa uma lacuna no BLUB	Uma lâmpada danificada cria uma lacuna
+O terminal 4 é conectado ao terminal da bateria positivo.	Terminal 4 e o terminal positivo estão conectados
+Se uma lâmpada e um interruptor estiverem contidos no mesmo caminho fechado, o interruptor afeta a lâmpada.	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+A lâmpada está contida no banho	A lâmpada danificada e a outra lâmpada devem estar contidas no mesmo caminho
+bulbo c está em seu próprio caminho	bulbo c está em um caminho separado
+A lâmpada B e C ainda são o caminho contido.	Se a lâmpada a queima, B e C não estiverem mais em um caminho fechado com a bateria
+A lâmpada A e C ainda tinham um caminho fechado com a bateria.	As lâmpadas A e C ainda estão contidas em caminhos fechados com a bateria
+A bateria sempre tem uma tensão porque existe um terminal positivo e há um terminal negativo.	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+O terminal positivo tem 1,5 V	O terminal 1 e o terminal positivo são separados pela lacuna
+porque o switch x está aberto.	Há um caminho contendo A, C, Z e X
+você pode ver onde está a lacuna	A tensão de medição indica o local onde o estado elétrico muda devido a uma lacuna.
+A lâmpada está em um circuito fechado	A bateria está em um caminho aberto
+não separado por uma lacuna	Terminal 6 e o ​​terminal positivo não são separados pela lacuna
+Um terminal não está conectado ao terminal da bateria negativo.	Os terminais 1 e 6 não estão conectados
+1 está conectado ao terminal 2.	Os terminais 1 e 4 estão conectados
+As lâmpadas A, B e C estão todas no mesmo caminho.	A e C estão no mesmo caminho
+os terminais estão conectados um ao outro	Os terminais 1 e 2 estão no mesmo estado elétrico
+Se o caminho contiver o interruptor, a lâmpada será afetada.	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+Se B queima, ainda haverá caminhos fechados para os outros 2	As lâmpadas A e C estão em um caminho fechado
+Porque a tensão mede a diferença entre dois pontos	O terminal 1 e o terminal positivo são separados pela lacuna
+Porque há uma lacuna.	Os terminais 1, 2 e 3 são separados do terminal de bateria positivo por uma lacuna
+A lâmpada A está em um caminho fechado com a bateria	Há um caminho contendo A e um caminho diferente contendo B e C
+A bateria e a lâmpada devem estar em um caminho fechado juntos.	A lâmpada e a bateria estão em um caminho fechado
+há um caminho fechado	Se C queima, então A e B ainda estão em um caminho fechado.
+A diferença entre os estados elétricos é de 1,5 volts	O terminal 1 e o terminal positivo são separados pela lacuna
+A lâmpada tira o caminho.	há um caminho aberto
+Quando está no mesmo caminho que a bateria	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+Não há lacuna entre o terminal positivo e o terminal 1	O terminal 1 está conectado ao terminal da bateria negativo
+Não há lacuna entre o terminal da bateria positivo e o terminal 4	Não há lacuna entre o terminal 5 e o terminal positivo
+A lâmpada B e a lâmpada C ainda estão contidos em um caminho fechado com a bateria	Se a lâmpada a queima, B e C não estiverem mais em um caminho fechado com a bateria
+Determina se as lâmpadas acenderão ou não.	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+A lâmpada C estava em um caminho aberto,	A lâmpada C não estava em um caminho fechado
+ambas as lâmpadas B e C estão no mesmo caminho que a lâmpada a	Se a bulbo é queimada, nem B nem C estão em um caminho fechado
+Não há diferença entre os dois terminais.	Os terminais estão no mesmo estado.
+Bulbo A e Switch Y não estão no mesmo caminho.	interruptor y e bulbo a não estão no mesmo caminho fechado
+A lâmpada A não está no mesmo caminho que a lâmpada B e a lâmpada C são.	Há um caminho contendo A e um caminho diferente contendo B e C
+Está sendo atingido para o lado errado.	Não há lacuna entre os terminais
+porque 1,5 V é a diferença entre o terminal positivo e o terminal 1	O terminal 1 e o terminal positivo são separados pela lacuna
+Um X vermelho significa que a bateria está em um curto -circuito.	há um curto -circuito
+Se o interruptor estiver aberto em um caminho com a bateria e a lâmpada.	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+lâmpadas B e não estão em um caminho fechado com lâmpada a	Se a bulbo é queimada, nem B nem C estão em um caminho fechado
+A lâmpada A e a lâmpada B ainda estão em um caminho fechado com a bateria.	As lâmpadas A e B ainda estão em caminhos fechados com a bateria
+As lâmpadas A e C não estão no mesmo caminho fechado que a lâmpada B	Bulbo B está em um caminho separado
+Se alguma lâmpada estiver fora, ela afeta todo o sistema e tudo está bloqueado da bateria.	Cada lâmpada está em seu próprio caminho
+Porque os terminais estão no mesmo estado	O terminal 1 está conectado ao terminal da bateria negativo
+Porque estava contido na bateria que tem um caminho fechado	A lâmpada A ainda estava contida no mesmo caminho fechado com a bateria.
+Porque as lâmpadas A e B ainda estão contidas em um caminho fechado com a bateria.	Se C queima, então A e B ainda estão em um caminho fechado com a bateria
+4, 5 e 6 estão conectados ao lado positivo	Os terminais 4, 5 e 6 estão conectados ao terminal positivo da bateria
+Se a lâmpada B for danificada, uma lacuna será criada.	Bulbo B cria uma lacuna
+É um caminho aberto.	há um curto -circuito
+porque o circuito está completo.	O caminho não está fechado
+pelo mesmo motivo que 3	Terminal 6 e o ​​terminal positivo não são separados pela lacuna
+porque estava conectado ao terminal positivo.	O terminal 1 e o terminal positivo são separados pela lacuna
+Porque as lâmpadas A e B têm seus próprios caminhos fechados	As lâmpadas A e B estão em um caminho fechado
+O caminho terá uma lacuna	Cada lâmpada está em seu próprio caminho
+Porque eles são uma lacuna entre A e C agora.	Existe um circuito incompleto
+Terminal 1 e Terminal 4 são os mesmos	Os terminais 1 e 4 estão conectados e no mesmo estado elétrico
+O vermelho X significa que o circuito não é seguro.	há um curto -circuito
+A bateria se conecta com a lâmpada A e B	As lâmpadas A e B ainda estão em caminhos fechados com a bateria
+O circuito 2 não é um curto -circuito porque não é um circuito fechado.	A bateria em 2 não está em um caminho fechado
+Quando o interruptor está aberto, cria uma lacuna no caminho.	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+Ainda existe um caminho fechado que contém a bateria, a lâmpada B e a lâmpada c.	As lâmpadas B e C ainda estão em caminhos fechados com a bateria
+Bulbo danificado B cria uma lacuna	Bulbo B cria uma lacuna
+Porque pode viajar por bulbo c	Há um caminho contendo A, C, Z e X
+Ainda há um caminho fechado para a bateria para as lâmpadas B e C	As lâmpadas B e C ainda estão em caminhos fechados com a bateria
+4 5 e 6 não estão conectados ao terminal de bateria negativo	Os terminais 4, 5 e 6 não estão conectados ao terminal de bateria negativo
+Isso quebra o caminho fechado.	O interruptor aberto cria uma lacuna
+se estiver em uma série com outras lâmpadas	A lâmpada danificada e a outra lâmpada devem estar contidas no mesmo caminho
+As lâmpadas estão no mesmo caminho fechado	A e C estão no mesmo caminho fechado
+B e C não estarão mais contidos em um caminho fechado para a bateria.	Se a lâmpada a queima, B e C não estiverem mais em um caminho fechado com a bateria
+As lâmpadas B ANC estão no mesmo caminho fechado com a bateria, mas separadas da lâmpada a	Há um caminho contendo A e um caminho diferente contendo B e C
+"Porque não" t causou uma lacuna ".	Cada lâmpada está em seu próprio caminho
+O terminal está conectado à bateria	O terminal 1 está conectado ao terminal da bateria negativo
+Desligar uma lâmpada não desligará outra lâmpada	A e C estão em caminhos diferentes
+O terminal 5 está conectado ao terminal positivo da bateria	Terminal 5 e o terminal positivo estão conectados
+Se o interruptor estiver contido no mesmo caminho com a lâmpada	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+O terminal positivo da bateria é separado por uma lacuna do terminal 4.	Não há lacuna entre os terminais 1 e 4
+A lâmpada A está contida em um caminho fechado com a bateria.	A lâmpada A ainda está contida em um caminho fechado com a bateria.
+Os outros terminais estão conectados ao terminal positivo.	Os terminais 4, 5 e 6 estão conectados ao terminal positivo da bateria
+Porque não há caminho fechado	O caminho não está fechado
+O interruptor aberto torna o circuito incompleto.	Existe um circuito incompleto
+porque cria uma lacuna no circuito.	Uma lâmpada danificada cria uma lacuna
+Porque as lâmpadas A e C estão em diferentes caminhos fechados com a bateria	As lâmpadas A e C ainda estão contidas em caminhos fechados com a bateria
+A está em uma bateria de coloos	A lâmpada A ainda está contida em um caminho fechado com a bateria.
+A lâmpada deve ser conectada aos dois lados da bateria e deve haver um circuito fechado.	Existe um circuito completo
+O terminal 5 é conectado ao terminal da bateria positivo.	Terminal 5 e o terminal positivo estão conectados
+Porque decide se a lâmpada será acesa ou não	O caminho não está fechado
+Se um interruptor estiver aberto, o circuito não estará mais fechado.	O caminho não está fechado
+A lâmpada B e C ainda estão em um caminho fechado com a bateria.	As lâmpadas B e C ainda estão em caminhos fechados com a bateria
+O terminal não está conectado ao terminal da bateria positivo	Terminal 1 e o terminal positivo não estão conectados
+A lâmpada B não criou uma lacuna no caminho para a lâmpada A e C	As lâmpadas A e C ainda estão em caminhos fechados
+A bateria está conectada a uma lâmpada	A bateria está em um caminho aberto
+O terminal positivo da bateria e o terminal 4 estão conectados	Terminal 4 e o terminal positivo estão conectados
+Porque não havia diferença	Os terminais 1 e 2 estão conectados e no mesmo estado elétrico
+bulbo b e bulbo c estão contidos em um caminho diferente com a bateria	B e C estão no mesmo caminho com a bateria
+Houve uma lacuna entre o terminal da bateria positivo e o terminal 2.	Os terminais 1 e 2 estão no mesmo estado elétrico
+O caminho fechado ainda existia para a lâmpada e, embora o switch y estivesse aberto	A lâmpada A ainda está contida em um caminho fechado com a bateria.
+positivo é separado de negativo!	Terminal 3 e o terminal positivo não estão conectados
+Porque não está no mesmo caminho.	há um caminho contendo um
+Não há estados elétricos	Não há lacuna entre os terminais
+A lâmpada A ainda estava em um caminho fechado com a bateria	A lâmpada A ainda estava contida no mesmo caminho fechado com a bateria.
+Porque abre o circuito	há um caminho aberto
+Porque ainda estava em um circuito fechado	A lâmpada A ainda está contida em um caminho fechado com a bateria.
+O terminal 1 foi conectado ao terminal positivo da bateria	O terminal 1 e o terminal positivo são separados pela lacuna
+O Terminal 1 é conectado ao Terminal 6	Os terminais 1 e 6 são separados pela lacuna
+O terminal 1 foi conectado ao terminal de bateria positivo	O terminal 1 e o terminal positivo são separados pela lacuna
+O caminho pode não conectar uma lâmpada ao comutador.	o interruptor e a lâmpada precisam estar no mesmo caminho
+você pode determinar que a lâmpada quebrada é antes de uma lacuna ou depois	A tensão de medição indica o local onde o estado elétrico muda devido a uma lâmpada danificada.
+O terminal 1 é conectado ao terminal negativo.	O terminal 1 está conectado ao terminal da bateria negativo
+Um terminal não está conectado ao terminal da bateria positivo.	Os terminais 1 e 6 não estão conectados
+Se o interruptor estiver contido em um caminho fechado.	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+Porque há uma lacuna entre o terminal 3 e 4	O terminal 1 e o terminal positivo são separados pela lacuna
+As lâmpadas A e B não estão no mesmo caminho que a lâmpada c.	bulbo c está em um caminho separado
+O caminho passa a energia através do interruptor	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+estava contido em um caminho fechado	A lâmpada A ainda estava contida no mesmo caminho fechado com a bateria.
+o interruptor aberto torna o caminho aberto	há um caminho aberto
+O terminal positivo da bateria está conectado ao terminal 6.	Terminal 6 e o ​​terminal positivo estão conectados
+lâmpadas a b e c estão em um caminho fechado	A e C estão no mesmo caminho fechado
+Como todos os terminais estão conectados a outros terminais, um interruptor aberto interrompe isso.	O interruptor aberto cria uma lacuna
+Havia uma lacuna no bulbo B	O terminal 1 e o terminal positivo são separados pela lacuna
+O terminal 1 está conectado ao terminal 4	Os terminais 1 e 4 estão conectados
+O terminal positivo não é separado por uma lacuna do terminal 5	Terminal 5 e o terminal positivo não são separados pela lacuna
+a massa está contida no interruptor y	interruptor y e bulbo a não estão no mesmo caminho fechado
+A diferença estado elétrico mostrará a lâmpada queimada	A tensão de medição indica o local onde o estado elétrico muda devido a uma lâmpada danificada.
+Não há conexão entre o terminal da lâmpada e o terminal da bateria.	Os terminais não estão conectados
+A bateria não está em um caminho fechado.	A bateria em 4 não está em um caminho fechado
+depende se é antes ou depois da lâmpada	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+há uma lacuna no circuito	O terminal 1 e o terminal positivo são separados pela lacuna
+O terminal da bateria negativo está conectado ao terminal 4	Terminal 4 e o terminal positivo da bateria estão no mesmo estado elétrico
+Haverá uma lacuna no caminho	Se a bulbo é queimada, nem B nem C estão em um caminho fechado
+Porque os terminais não estão em um caminho fechado, então você está dando a tensão da própria bateria	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+Porque está medindo a diferença nos estados elétricos entre dois terminais.	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+por causa da lacuna na lâmpada B	Os terminais 1, 2 e 3 são separados do terminal de bateria positivo por uma lacuna
+Switch y não afeta o circuito fechado da lâmpada a	interruptor y e bulbo a não estão no mesmo caminho fechado
+Os estados elétricos determinarão se há uma lacuna ou conexão no circuito	A tensão de medição indica se dois terminais são separados por uma lacuna.
+Porque um circuito fechado foi formado.	A lâmpada A ainda estava contida no mesmo caminho fechado com a bateria.
+Se o caminho estiver fechado, as lâmpadas permanecerão ligadas.	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+Porque a tensão é a mesma.	Os terminais 1, 2 e 3 são separados do terminal de bateria positivo por uma lacuna
+Caminhos separados conectados à bateria	Se C queima, então A e B ainda estão em um caminho fechado com a bateria.
+bulbo b se torna uma lacuna no circuito	Bulbo B cria uma lacuna
+Se o interruptor e a lâmpada estiverem no mesmo caminho.	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+Terminal 5 está conectado do terminal positivo de massa	Terminal 5 e o terminal positivo estão conectados
+Porque a lâmpada A ainda estava contida em um caminho fechado	A lâmpada A ainda estava contida no mesmo caminho fechado com a bateria.
+Porque o resultado da lâmpada não afetará um ao outro	A e C não estão no mesmo caminho com a bateria
+A bateria está em um curto -circuito.	há um curto -circuito
+Você pode encontrar onde há uma lacuna	A tensão de medição indica se dois terminais são separados por uma lacuna.
+Porque ainda existem 2 caminhos fechados para a bateria enviar volts.	As lâmpadas B e C ainda estão em caminhos fechados com a bateria
+Porque todos esses terminais tinham uma leitura de 0,0 volts	Os terminais 1, 2 e 3 são separados do terminal de bateria positivo por uma lacuna
+há uma lacuna na conexão	A tensão de medição indica o local onde o estado elétrico muda devido a uma lacuna.
+está em um caminho fechado com a bateria	Há um caminho contendo A, C, Z e a bateria
+As lâmpadas A e B estão contidas em um caminho fechado com a bateria	Se C queima, então A e B ainda estão em um caminho fechado com a bateria
+A lâmpada A e a lâmpada C ainda estão em um caminho fechado que contém a bateria.	As lâmpadas A e C ainda estão em caminhos fechados com a bateria
+O swithch afeta a lâmpada se estiver no mesmo caminho	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+O circuito 5 tem apenas um terminal para a bateria	A bateria está contida em um caminho que não contém outros componentes
+"Porque a bateria sempre tem uma tensão, a menos que" "está morta"	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+A bateria está contida em um circuito fechado e não há nada em seu caminho	A bateria está contida em um caminho fechado que não contém outros componentes
+porque possui dois estados eletrois dentro de si.	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+As lâmpadas B e C estavam em um caminho fechado com uma bateria.	A lâmpada B e a lâmpada C ainda estavam contidas no mesmo caminho fechado com a bateria.
+Bulbo A e Bulbo B ainda estão contidos em caminhos fechados com a bateria	Se C queima, então A e B ainda estão em um caminho fechado com a bateria
+Eu acho que porque está no centro.	Bulbo B está em um caminho separado
+Porque as duas extremidades da bateria não se conectam	A bateria está em um caminho aberto
+A bateria mantém uma reação química da reação.	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+Um interruptor afetará uma lâmpada se ela no caminho fechado para a bateria	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+Há uma lacuna entre o terminal da bateria positivo e o terminal da lâmpada.	Não há lacuna entre os terminais
+O circuito 2 não é um circuito fechado porque a bateria e a lâmpada estão conectadas.	A bateria em 2 não está em um caminho fechado
+terminais 4,5 e 6 estão conectados ao terminal positivo	Os terminais 4, 5 e 6 estão conectados ao terminal positivo da bateria
+O terminal positivo da bateria não está conectado	Não há lacuna entre o terminal 6 e o ​​terminal positivo
+Porque a lâmpada C estava contida em um caminho aberto com a bateria	não havia mais um caminho fechado contendo lâmpada C e a bateria
+um grande, se estiver fechado, irá iluminar, mas se estiver aberto, não será	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+A lâmpada A está em um caminho de circuito fechado	A lâmpada A ainda estava contida no mesmo caminho fechado com a bateria.
+A lâmpada é conectada apenas ao lado do terminal da bateria.	Não há lacuna entre os terminais
+Se a lâmpada estiver no mesmo caminho fechado	A lâmpada danificada e a outra lâmpada devem estar contidas no mesmo caminho
+Um lado está fechado, o outro lado está aberto.	A bateria está em um caminho aberto
+Não há caminho fechado	Se a bulbo é queimada, nem B nem C estão em um caminho fechado
+A lâmpada A estava contida em um caminho fechado com a bateria	A lâmpada A ainda estava contida no mesmo caminho fechado com a bateria.
+positivo e negativo está separado	Terminal 3 e o terminal positivo não estão conectados
+É um caminho fechado.	Não há caminho fechado contendo a bateria
+torna o circuito incompleto.	Existe um circuito incompleto
+A lâmpada A e B estará ligada.	Se C queima, então A e B ainda estão em um caminho fechado com a bateria.
+Há uma lacuna, portanto os terminais estão conectados ao lado negativo da bateria.	Os terminais 1, 2 e 3 estão conectados ao terminal de bateria negativo
+a lâmpada queimou	Ainda há um caminho fechado
+O terminal 4 está conectado apenas ao terminal positivo da bateria.	Terminal 4 e o terminal positivo estão conectados
+a bateria e um criou um circuito completo	A lâmpada A ainda está contida em um caminho fechado com a bateria.
+O caminho determina se a lâmpada ligará ou não	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+Foi conectado aos dois terminais da bateria	A lâmpada A ainda está contida em um caminho fechado com a bateria.
+há um caminho de bulbo para bateria	A lâmpada A ainda está contida em um caminho fechado com a bateria.
+Através da lâmpada A, a lâmpada B ainda está contida em um caminho fechado para a bateria.	Se C queima, então A e B ainda estão em um caminho fechado com a bateria
+A bateria está contida em um caminho fechado	A bateria está contida em um caminho em que não há lâmpada
+Se o interruptor e a lâmpada estiverem contidos no mesmo caminho fechado	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+A lâmpada C não afeta o caminho de A e B.	Se C estiver danificado, A e B ainda estão em um caminho fechado
+As lâmpadas B e C Werer ainda continham em um caminho fechado com a bateria.	A lâmpada B e a lâmpada C ainda estavam contidas no mesmo caminho fechado com a bateria.
+Porque o terminal positivo da bateria não é separado por uma lacuna do terminal 6.	Terminal 6 e o ​​terminal positivo não são separados pela lacuna
+lacuna entre 3 e bateria positiva	O terminal 3 e o terminal positivo são separados pela lacuna
+Não há caminho fechado no circuito 4.	Circuito 4 não tem caminhos fechados
+Porque a tensão não muda na bateria	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+Porque a lâmpada A ainda estava em um circuito fechado	A lâmpada A ainda está contida em um caminho fechado com a bateria.
+há uma lacuna na lâmpada B	Os terminais 1, 2 e 3 são separados do terminal de bateria positivo por uma lacuna
+está em um caminho fechado	Se a lâmpada a queima, B e C não estiverem mais em um caminho fechado com a bateria
+A está no seu caminho B e C compartilham um caminho	Há um caminho contendo A e um caminho diferente contendo B e C
+Há uma reação química.	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+Bulbo B e C não estarão em um caminho fechado com a bateria	Se a lâmpada a queima, B e C não estiverem mais em um caminho fechado com a bateria
+ainda conectado à bateria	Se a lâmpada a queima, B e C não estiverem mais em um caminho fechado com a bateria
+A lâmpada A e C estão contidas em um caminho fechado com a bateria	A lâmpada A ainda está em um caminho fechado com a bateria
+As lâmpadas precisam ser contidas em caminhos fechados com a bateria	A lâmpada danificada e a outra lâmpada devem estar contidas no mesmo caminho
+A lâmpada A está em um circuito fechado com a bateria sem o interruptor Y.	A lâmpada A ainda está em um caminho fechado com a bateria
+As lâmpadas B e C estão contidas no mesmo caminho	B e C estão no mesmo caminho
+As lâmpadas A e C estão contidas em caminhos diferentes com a bateria.	A e C estão em caminhos diferentes com a bateria
+Switch Z está no mesmo caminho que a lâmpada a	A lâmpada A ainda está contida em um caminho fechado com a bateria e o comutador z.
+não contido no mesmo caminho	Se C queima, então A e B ainda estão em um caminho fechado.
+Bulbo B e C estão em um caminho fechado para a bateria	Se a lâmpada é queimaduras, as lâmpadas B e C ainda estão em um caminho fechado
+Ainda existem caminhos completos para a bateria para B e C	As lâmpadas B e C ainda estão em caminhos fechados com a bateria
+Porque os dois terminais estão conectados	Os terminais 1 e 4 estão conectados
+Houve uma lacuna no terminal	interruptor y e bulbo a não estão no mesmo caminho fechado
+bulbo a cria uma lacuna	Se a bulbo é queimada, nem B nem C estão em um caminho fechado
+Houve uma lacuna do Terminal 2 ao Terminal 6	Os terminais 1 e 2 estão no mesmo estado elétrico
+há uma lâmpada no circuito	A bateria em 2 não está em um caminho fechado
+ainda estava em um caminho fechado	A lâmpada A ainda estava contida no mesmo caminho fechado com a bateria.
+Há uma lacuna no circuito.	há uma lacuna em um circuito
+Não há caminho através da lâmpada B	Não há caminho fechado
+bulbo c está em um caminho independente	bulbo c está em um caminho separado
+O terminal positivo da bateria é separado por uma lacuna do terminal 4.	Terminal 4 e o terminal positivo da bateria estão no mesmo estado elétrico
+Se o interruptor estiver na frente do caminho de uma lâmpada ou não.	o interruptor e a lâmpada precisam estar no mesmo caminho
+A lâmpada deve estar em um caminho fechado contendo a bateria	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+Há uma lacuna entre a conexão positiva da bateria e o terminal da lâmpada.	Não há lacuna entre os terminais
+Uma lacuna causa uma conexão perdida	Uma tensão diferente de zero significa que os terminais não estão conectados.
+A lâmpada está morta PR não conectada ao terminal da bateria	Não há lacuna entre os terminais
+O estado elétrico é interferido.	Uma tensão diferente de zero significa que os terminais não estão conectados.
+Porque a lâmpada C estava em um caminho aberto	A lâmpada C não estava em um caminho fechado
+A lâmpada A está em um caminho fechado com a bateria	A lâmpada A ainda está em um caminho fechado com a bateria
+Porque a bateria tem sua própria reação química entre os terminais T positivos e negativos, ela contém	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+Um terminal está conectado ao terminal positivo da bateria	Terminal 5 e o terminal positivo estão conectados
+A lâmpada A acende quando estiver em um caminho fechado com a bateria.	Há um caminho contendo A, C, Z e X
+um interruptor está contido no caminho	o interruptor e a lâmpada precisam estar no mesmo caminho
+O terminal positivo da bateria é separado por uma lacuna do terminal 3	O terminal 3 e o terminal positivo são separados pela lacuna
+Porque as lâmpadas A e C têm seus próprios caminhos fechados	As lâmpadas A e C estão em um caminho fechado
+A lâmpada cria uma lacuna no caminho fechado	Se a bulbo é queimada, nem B nem C estão em um caminho fechado
+interruptor aberto e lâmpada quebrada são iguais	A lâmpada danificada e a outra lâmpada devem estar contidas no mesmo caminho
+Um terminal está conectado a outro terminal	Os terminais 4, 5 e 6 estão conectados ao terminal positivo da bateria
+A lâmpada A e C ainda estão em um caminho fechado com a bateria.	As lâmpadas A e C ainda estão contidas em caminhos fechados com a bateria
+Quando o interruptor está no mesmo caminho que a lâmpada.	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+Porque cada lâmpada tem seu próprio caminho completo	Cada lâmpada está em seu próprio caminho
+A bateria não é conatinada em um caminho fechado	A bateria em 4 não está em um caminho fechado
+Ainda há um caminho fechado que contém a bateria, a lâmpada B e a lâmpada C	As lâmpadas B e C ainda estão em caminhos fechados com a bateria
+A bateria contém a lâmpada A e B em um caminho fechado	As lâmpadas A e C ainda estão contidas em caminhos fechados com a bateria
+O terminal positivo da bateria não foi separado por uma lacuna do terminal 4.	Terminal 4 e o terminal positivo não são separados pela lacuna
+O terminal 6 está conectado ao terminal 1	Os terminais 1 e 6 são separados pela lacuna
+A lâmpada C cria uma lacuna no caminho fechado.	Se C queima, então A e B ainda estão em um caminho fechado com a bateria.
+lâmpada A e bulbo C são conectados em paralelo	A e C estão em caminhos diferentes
+que a conexão da bateria não funciona	há um curto -circuito
+curto -circuito ou bateria ruim.	há um curto -circuito
+Se houver uma lacuna no circuito, a lâmpada não acenderá.	Uma tensão diferente de zero significa que os terminais não estão conectados.
+Os terminais 1 e 2 têm a mesma diferença nos estados elétricos	Os terminais 1 e 2 estão conectados e no mesmo estado elétrico
+Não há lacuna entre o terminal 1 e o terminal positivo.	O terminal 1 e o terminal positivo são separados pela lacuna
+O caminho deve ser fechado	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+estava conectado ao terminal positivo	O terminal 1 e o terminal positivo são separados pela lacuna
+tem seu próprio caminho conectado à bateria	Cada lâmpada está em seu próprio caminho
+se estiver no mesmo caminho que a lâmpada	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+o circuito não afeta o estado elétrico entre os terminais	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+A bateria está conectada à lâmpada	A bateria em 2 não está em um caminho fechado
+Houve uma lacuna do terminal	Os terminais 1 e 2 estão no mesmo estado elétrico
+A bateria está em um caminho fechado.	A bateria está contida em um caminho em que não há lâmpada
+Bulbo A tem um caminho fechado	A lâmpada A ainda estava contida no mesmo caminho fechado com a bateria.
+depende se é um caminho aberto ou fechado	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+Porque a lâmpada está em um caminho fechado	Não há caminho fechado contendo a bateria
+Há uma diferença nos estados elétricos entre dois terminais.	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+porque o terminal 1 é separado do terminal positivo da bateria.	O terminal 1 e o terminal positivo são separados pela lacuna
+Quando está no mesmo caminho que a massa e a lâmpada.	Quando o interruptor e a lâmpada estão contidos no mesmo caminho
+Porque há uma diferença nos estados eletrois entre os dois terminais	Uma bateria usa uma reação química para manter diferentes estados elétricos nos terminais
+Porque a lacuna fornece separação aos terminais	Os terminais 1, 2 e 3 são separados do terminal de bateria positivo por uma lacuna
+Porque eles eram um circuito conectado.	O terminal 1 está conectado ao terminal da bateria negativo
+Ambos estão conectados o terminal negativo da bateria.	Os terminais 1 e 2 estão conectados
+há uma diferença nos estados elétricos	Os terminais 1 e 4 estão conectados e no mesmo estado elétrico
+As lâmpadas B e C estão contidas no mesmo caminho fechado.	A e C não estão no mesmo caminho com a bateria
+Ainda há um caminho fechado	Ainda há um caminho fechado contendo o interruptor Z, switch x, lâmpadas A e C e a bateria
+Os dois terminais serão 0	Os terminais estão no mesmo estado.
+Esses terminais estão conectados ao lado negativo do circuito	Os terminais 1, 2 e 3 estão conectados ao terminal de bateria negativo
+A lâmpada danificada B deixou uma lacuna no caminho para que a carga não possa alcançá -la	Os terminais 1, 2 e 3 são separados do terminal de bateria positivo por uma lacuna
+Porque estava em um circuito fechado	A lâmpada A ainda está contida em um caminho fechado com a bateria.
+O terminal 1 está conectado ao terminal da bateria negativo e o terminal 6 é conectado ao terminal da bateria positivo	Os terminais 1 e 6 não estão conectados
+Um caminho fechado com uma bateria permite que a lâmpada esteja ligada.	Se uma lâmpada e um interruptor estiverem no mesmo caminho, o interruptor afeta a lâmpada
+O circuito precisa ser fechado	O circuito tem um caminho fechado
+a lâmpada será queimada porque os terminais	A lâmpada danificada e a outra lâmpada devem estar contidas no mesmo caminho
+A bateria está em um caminho fechado que não contém outros componentes.	A bateria está contida em um caminho que não contém outros componentes
+O terminal da lâmpada e o terminal da bateria são separados por uma lacuna	Não há lacuna entre os terminais
+não no mesmo caminho	bulbo c está em um caminho separado
+Os terminais não estão conectados	Terminal 1 e o terminal positivo não estão conectados
+A lâmpada e a bateria devem estar contidas em caminhos fechados.	A lâmpada e a bateria estão em um caminho fechado
+Porque as lâmpadas B e C estão em um caminho fechado com a bateria.	A lâmpada B e a lâmpada C ainda estavam contidas no mesmo caminho fechado com a bateria.
+Porque havia uma conexão positiva e negativa	O terminal 1 está conectado ao terminal da bateria negativo
+foi separado por uma lacuna do terminal 3	O terminal 3 e o terminal positivo são separados pela lacuna
+Nenhuma eletricidade está sendo produzida.	há um curto -circuito
