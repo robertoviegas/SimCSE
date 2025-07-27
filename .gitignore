@@ -145,3 +145,4 @@ runs/*
 /textos_wikipedia
 data/portuguese_wiki1m_real/pt_wiki1m_for_simcse_real.txt
 *.xml
+bertimbau_local/
