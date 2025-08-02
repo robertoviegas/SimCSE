@@ -41,7 +41,7 @@ import logging
 from transformers.utils import logging as hf_logging
 import warnings
 warnings.filterwarnings("ignore")
-logging.getLogger().setLevel(logging.WARNING)
+logging.getLogger().setLevel(logging.INFO)
 hf_logging.set_verbosity_warning()
 
 
