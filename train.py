@@ -7,7 +7,7 @@ from typing import Optional, Union, List, Dict, Tuple
 import torch
 import collections
 import random
-
+import gc
 from datasets import load_dataset
 
 import transformers
@@ -590,6 +590,8 @@ def main():
                     logger.info(f"  {key} = {value}")
                     writer.write(f"{key} = {value}\n")
 
+    torch.cuda.empty_cache()
+    gc.collect()
     return results
 
 def _mp_fn(index):
