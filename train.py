@@ -1,4 +1,4 @@
-import logging
+
 import math
 import os
 import sys
@@ -37,16 +37,24 @@ from transformers.file_utils import cached_property, torch_required, is_torch_av
 from simcse.models import RobertaForCL, BertForCL
 from simcse.trainers import CLTrainer
 
+import logging
+from transformers.utils import logging as hf_logging
+import warnings
+warnings.filterwarnings("ignore")
+logging.getLogger().setLevel(logging.WARNING)
+hf_logging.set_verbosity_warning()
+
+
 logger = logging.getLogger(__name__)
 MODEL_CONFIG_CLASSES = list(MODEL_FOR_MASKED_LM_MAPPING.keys())
 MODEL_TYPES = tuple(conf.model_type for conf in MODEL_CONFIG_CLASSES)
 
-import warnings
+
 # warnings.simplefilter(action='ignore', category=FutureWarning)
-warnings.filterwarnings("ignore")
+
 
 # Se quiser definir globalmente:
-logging.getLogger().setLevel(logging.WARNING)
+
 
 @dataclass
 class ModelArguments:
