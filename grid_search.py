@@ -1,6 +1,30 @@
 import subprocess
 import os
 from itertools import product
+import requests
+import json
+
+def enviar_mensagem_webhook(mensagem: str):
+    """
+    Envia uma mensagem para o webhook configurado.
+
+    Parâmetros:
+    mensagem (str): Texto a ser enviado.
+
+    Retorna:
+    dict: Resposta da requisição em formato JSON.
+    """
+    url = "https://webhookbot.c-toss.com/api/bot/webhooks/6d92faf4-674a-4497-88e0-aa6d87c88b1e"
+    headers = {"Content-Type": "application/json"}
+    payload = {"text": mensagem}
+
+    try:
+        resposta = requests.post(url, headers=headers, data=json.dumps(payload))
+        resposta.raise_for_status()
+        return resposta.json() if resposta.content else {"status": "Mensagem enviada com sucesso!"}
+    except requests.exceptions.RequestException as e:
+        return {"erro": str(e)}
+
 
 learning_rates = [1e-5, 3e-5, 5e-5]
 batch_sizes = [64, 128, 256, 512]
@@ -14,6 +38,7 @@ for i, (lr, bs) in enumerate(combinacoes):
     # Verifica se o resultado já existe
     if os.path.exists(results_file):
         print(f"[SKIP] Já existe: {results_file}")
+        enviar_mensagem_webhook(f"[SKIP] Já existe: {results_file}")
         continue  # Pula para a próxima combinação
 
     cmd = [
@@ -38,4 +63,5 @@ for i, (lr, bs) in enumerate(combinacoes):
     ]
 
     print(f"[RUN] Treinando com lr={lr}, bs={bs}")
+    enviar_mensagem_webhook(f"[RUN] Treinando com lr={lr}, bs={bs}")
     subprocess.run(cmd)
