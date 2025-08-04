@@ -133,7 +133,6 @@ dmypy.json
 data/csv
 data/text
 *.lock
-result
 .venv-cu11
 wandb
 /mestrado

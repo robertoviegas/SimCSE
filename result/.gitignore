@@ -1,0 +1,10 @@
+                                                                                                Modificado  
+# Ignora tudo nesta pasta
+*
+
+# Permite subpastas
+!*/
+
+# Permite somente os arquivos eval_results.txt dentro das subpastas
+!eval_results.txt
+!.gitignore
