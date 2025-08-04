@@ -139,6 +139,7 @@ wandb
 runs
 *.xlsx
 runs/*
+result
 # *.csv
 /mlruns
 /textos_wikipedia
