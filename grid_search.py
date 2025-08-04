@@ -33,7 +33,7 @@ combinacoes = list(product(learning_rates, batch_sizes))
 
 for i, (lr, bs) in enumerate(combinacoes):
     # output_dir = f"result/sup_bertimbau_dataset_trad_lr{lr}_bs{bs}"
-    output_dir = f"result/unsup_bertimbau_dataset_trad_lr{lr}_bs{bs}"
+    output_dir = f"result/unsup_bertimbau_dataset_real_lr{lr}_bs{bs}"
     results_file = os.path.join(output_dir, "train_results.txt")
 
     # Verifica se o resultado já existe
