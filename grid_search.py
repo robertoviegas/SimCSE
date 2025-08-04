@@ -82,6 +82,6 @@ for i, (lr, bs) in enumerate(combinacoes):
         "--do_train",
         "--do_eval",
         "--fp16"
-    ]
-    enviar_mensagem_webhook("[RUN] Treino finalizado")    
+    ]    
     subprocess.run(cmd)
+    enviar_mensagem_webhook("[RUN] Treino finalizado")    

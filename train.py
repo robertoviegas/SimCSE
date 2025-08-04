@@ -591,6 +591,7 @@ def main():
                     writer.write(f"{key} = {value}\n")
 
     torch.cuda.empty_cache()
+    torch.cuda.reset_peak_memory_stats()
     gc.collect()
     return results
 
