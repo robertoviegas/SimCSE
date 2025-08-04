@@ -40,7 +40,8 @@ for i, (lr, bs) in enumerate(combinacoes):
         print(f"[SKIP] Já existe: {results_file}")
         enviar_mensagem_webhook(f"[SKIP] Já existe: {results_file}")
         continue  # Pula para a próxima combinação
-
+    print(f"[RUN] Treinando com lr={lr}, bs={bs}")
+    enviar_mensagem_webhook(f"[RUN] Treinando com lr={lr}, bs={bs}")
     cmd = [
         "python", "train.py",
         "--model_name_or_path", "bertimbau_local",
@@ -61,7 +62,5 @@ for i, (lr, bs) in enumerate(combinacoes):
         "--do_eval",
         "--fp16"
     ]
-
-    print(f"[RUN] Treinando com lr={lr}, bs={bs}")
-    enviar_mensagem_webhook(f"[RUN] Treinando com lr={lr}, bs={bs}")
+    enviar_mensagem_webhook("[RUN] Treino finalizado")    
     subprocess.run(cmd)
