@@ -1,4 +1,3 @@
-
 import os
 import re
 
@@ -20,10 +19,24 @@ for model_dir in model_dirs:
             if match:
                 results[model_dir] = float(match.group(1))
             else:
-                results[model_dir] = 'eval_avg_sts não encontrado'
+                results[model_dir] = None  # Valor inválido
     else:
-        results[model_dir] = 'eval_results.txt não encontrado'
+        results[model_dir] = None  # Arquivo não encontrado
 
-# Imprime os resultados
-for model, value in sorted(results.items()):
-    print(f'{model}: {value}')
+# Filtra apenas os resultados válidos (com valor float) e ordena do maior para o menor
+sorted_results = sorted(
+    ((model, value) for model, value in results.items() if isinstance(value, float)),
+    key=lambda x: x[1],
+    reverse=True
+)
+
+# Print dos modelos ranqueados
+print("\nRanking dos modelos por eval_avg_sts (maior para menor):\n")
+for rank, (model, value) in enumerate(sorted_results, start=1):
+    print(f"{rank:2d}. {model:<40} -> eval_avg_sts = {value:.4f}")
+
+# Opcional: mostra também os que não foram encontrados ou com erro
+print("\nModelos com erro ou sem eval_avg_sts válido:")
+for model, value in results.items():
+    if not isinstance(value, float):
+        print(f"- {model}: {value}")
