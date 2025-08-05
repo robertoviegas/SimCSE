@@ -123,7 +123,7 @@ def train_grid(name,model):
             continue  # Pula para a próxima combinação
 
         print(f"[RUN] Treinando com lr={lr}, bs={bs}")
-        enviar_mensagem_webhook(f"[RUN] Treinando com lr={lr}, bs={bs}")
+        enviar_mensagem_webhook(f"[RUN] Treinando {model} - {name} com lr={lr}, bs={bs}")
        
         subprocess.run(runs[name])
         enviar_mensagem_webhook("[RUN] Treino finalizado")
