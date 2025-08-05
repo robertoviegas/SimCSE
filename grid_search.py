@@ -3,6 +3,9 @@ import os
 from itertools import product
 import requests
 import json
+import sys
+
+
 
 def enviar_mensagem_webhook(mensagem: str):
     """
@@ -26,62 +29,110 @@ def enviar_mensagem_webhook(mensagem: str):
         return {"erro": str(e)}
 
 
-learning_rates = [1e-5, 3e-5, 5e-5]
-batch_sizes = [64, 128, 256, 512]
 
-combinacoes = list(product(learning_rates, batch_sizes))
+def train_grid(name,model):
+    learning_rates = [1e-5, 3e-5, 5e-5]
+    batch_sizes = [64, 128, 256, 512]
 
-for i, (lr, bs) in enumerate(combinacoes):
-    # output_dir = f"result/sup_bertimbau_dataset_trad_lr{lr}_bs{bs}"
-    output_dir = f"result/unsup_bertimbau_dataset_real_lr{lr}_bs{bs}"
-    results_file = os.path.join(output_dir, "train_results.txt")
+    combinacoes = list(product(learning_rates, batch_sizes))
 
-    # Verifica se o resultado já existe
-    if os.path.exists(results_file):
-        print(f"[SKIP] Já existe: {results_file}")
-        enviar_mensagem_webhook(f"[SKIP] Já existe: {results_file}")
-        continue  # Pula para a próxima combinação
-    print(f"[RUN] Treinando com lr={lr}, bs={bs}")
-    enviar_mensagem_webhook(f"[RUN] Treinando com lr={lr}, bs={bs}")
-    # cmd = [
-    #     "python", "train.py",
-    #     "--model_name_or_path", "bertimbau_local",
-    #     "--train_file", "data/portuguese_nli_trad/pt_nli_for_simcse.csv",
-    #     "--output_dir", output_dir,
-    #     "--num_train_epochs", "3",
-    #     "--per_device_train_batch_size", str(bs),
-    #     "--learning_rate", str(lr),
-    #     "--max_seq_length", "32",
-    #     "--evaluation_strategy", "steps",
-    #     "--metric_for_best_model", "stsb_spearman",
-    #     "--load_best_model_at_end",
-    #     "--eval_steps", "250",
-    #     "--pooler_type", "cls",
-    #     "--overwrite_output_dir",
-    #     "--temp", "0.05",
-    #     "--do_train",
-    #     "--do_eval",
-        # "--fp16"]
-    cmd = [
-        "python", "train.py",
-        "--model_name_or_path", "bertimbau_local",
-        "--train_file", "data/portuguese_wiki1m_real/pt_wiki1m_for_simcse_real.txt",
-        "--output_dir", output_dir,
-        "--num_train_epochs", "1",
-        "--per_device_train_batch_size", str(bs),
-        "--learning_rate", str(lr),
-        "--max_seq_length", "32",
-        "--evaluation_strategy", "steps",
-        "--metric_for_best_model", "stsb_spearman",
-        "--load_best_model_at_end",
-        "--eval_steps", "250",
-        "--pooler_type", "cls",
-        "--mlp_only_train",
-        "--overwrite_output_dir",
-        "--temp", "0.05",
-        "--do_train",
-        "--do_eval",
-        "--fp16"
-    ]    
-    subprocess.run(cmd)
-    enviar_mensagem_webhook("[RUN] Treino finalizado")    
+    for i, (lr, bs) in enumerate(combinacoes):
+        sufix = ''
+        if model=='large':
+            sufix = '_large'
+
+
+        outputs = {'sup_trad':[f"result/sup_bertimbau{sufix}_dataset_trad_lr{lr}_bs{bs}"],
+                   'sup_real':[f"result/sup_bertimbau{sufix}_dataset_real_lr{lr}_bs{bs}"],
+                   'unsup':[f"result/unsup_bertimbau{sufix}_dataset_real_lr{lr}_bs{bs}"]
+                   
+                   }
+        
+        output_dir = outputs[name][0]
+
+        runs = {            
+            'sup_trad':[
+            "python", "train.py",
+            "--model_name_or_path", f"bertimbau_local{sufix}",
+            "--train_file", "data/portuguese_nli_trad/pt_nli_for_simcse.csv",
+            "--output_dir", output_dir,
+            "--num_train_epochs", "3",
+            "--per_device_train_batch_size", str(bs),
+            "--learning_rate", str(lr),
+            "--max_seq_length", "32",
+            "--evaluation_strategy", "steps",
+            "--metric_for_best_model", "stsb_spearman",
+            "--load_best_model_at_end",
+            "--eval_steps", "250",
+            "--pooler_type", "cls",
+            "--overwrite_output_dir",
+            "--temp", "0.05",
+            "--do_train",
+            "--do_eval",
+            "--fp16"],
+
+            'sup_real':[
+            "python", "train.py",
+            "--model_name_or_path", f"bertimbau_local{sufix}",
+            "--train_file", "data/portuguese_nli_real/pt_nli_for_simcse_real.csv",
+            "--output_dir", output_dir,
+            "--num_train_epochs", "3",
+            "--per_device_train_batch_size", str(bs),
+            "--learning_rate", str(lr),
+            "--max_seq_length", "32",
+            "--evaluation_strategy", "steps",
+            "--metric_for_best_model", "stsb_spearman",
+            "--load_best_model_at_end",
+            "--eval_steps", "250",
+            "--pooler_type", "cls",
+            "--overwrite_output_dir",
+            "--temp", "0.05",
+            "--do_train",
+            "--do_eval",
+            "--fp16"],
+            
+            'unsup':[
+            "python", "train.py",
+            "--model_name_or_path", f"bertimbau_local{sufix}",
+            "--train_file", "data/portuguese_wiki1m_real/pt_wiki1m_for_simcse_real.txt",
+            "--output_dir", output_dir,
+            "--num_train_epochs", "1",
+            "--per_device_train_batch_size", str(bs),
+            "--learning_rate", str(lr),
+            "--max_seq_length", "32",
+            "--evaluation_strategy", "steps",
+            "--metric_for_best_model", "stsb_spearman",
+            "--load_best_model_at_end",
+            "--eval_steps", "250",
+            "--pooler_type", "cls",
+            "--mlp_only_train",
+            "--overwrite_output_dir",
+            "--temp", "0.05",
+            "--do_train",
+            "--do_eval",
+            "--fp16"
+            ] 
+            }
+
+        results_file = os.path.join(output_dir, "train_results.txt")
+
+        # Verifica se o resultado já existe
+        if os.path.exists(results_file):
+            print(f"[SKIP] Já existe: {results_file}")
+            enviar_mensagem_webhook(f"[SKIP] Já existe: {results_file}")
+            continue  # Pula para a próxima combinação
+
+        print(f"[RUN] Treinando com lr={lr}, bs={bs}")
+        enviar_mensagem_webhook(f"[RUN] Treinando com lr={lr}, bs={bs}")
+       
+        subprocess.run(runs[name])
+        enviar_mensagem_webhook("[RUN] Treino finalizado")
+
+
+if __name__ == "__main__":
+    if len(sys.argv) != 3:
+        print("Uso: python seu_script.py <tipo_treino> <modelo>")
+        print("Exemplo: python seu_script.py sup_trad large")
+        sys.exit(1)
+
+    train_grid(sys.argv[1], sys.argv[2])

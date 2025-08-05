@@ -4,6 +4,10 @@ import shutil
 
 model_name = "neuralmind/bert-base-portuguese-cased"
 local_dir = "./bertimbau_local"
+
+model_name = "neuralmind/bert-large-portuguese-cased"
+local_dir = "./bertimbau_local_large"
+
 os.makedirs(local_dir, exist_ok=True)
 
 files = list_repo_files(model_name)
