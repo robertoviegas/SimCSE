@@ -125,7 +125,7 @@ def main():
 
     # Executar 5 vezes
     all_results = []
-    for i in range(5):
+    for i in range(1):
         logging.info(f"Rodando avaliação {i+1}/5 ...")
         scores = run_eval(args, model, tokenizer, device)
         all_results.append([f"{s:.2f}" for s in scores])
