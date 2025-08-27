@@ -136,7 +136,8 @@ def main():
                       'STSBenchmark', 'SICKRelatedness', 'Avg.']
     for row in all_results:
         tb.add_row(row)
-    print("\nResultados finais (5 execuções):")
+    print(f"Modelo carregado: {args.model_name_or_path}")
+    print("\nResultados finais (1 execuções):")
     print(tb)
 
 
