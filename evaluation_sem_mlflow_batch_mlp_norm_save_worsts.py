@@ -124,6 +124,7 @@ def run_eval(args, model, tokenizer, device):
     scores.append(avg)
     return scores, results
 
+
 def salvar_piores_exemplos(tasks, top_k=5, args=None):
     exemplos = []
     os.makedirs("outputs", exist_ok=True)
@@ -134,7 +135,7 @@ def salvar_piores_exemplos(tasks, top_k=5, args=None):
         folder = TASK_TO_FOLDER[task]
         task_dir = os.path.join(PATH_TO_DATA, folder)
 
-        # Listar arquivos input/gs que correspondem
+        # Listar arquivos input/gs correspondentes
         input_files = [f for f in os.listdir(task_dir) if f.startswith("STS.input")]
         gs_files = [f for f in os.listdir(task_dir) if f.startswith("STS.gs")]
 
@@ -156,11 +157,16 @@ def salvar_piores_exemplos(tasks, top_k=5, args=None):
             labels = []
             with open(gs_path, "r", encoding="utf-8") as f:
                 for line in f:
-                    try:
-                        labels.append(float(line.strip()))
-                    except:
-                        continue
+                    line = line.strip()
+                    if line == "":
+                        labels.append(0.0)  # placeholder para linha vazia
+                    else:
+                        try:
+                            labels.append(float(line))
+                        except:
+                            labels.append(0.0)
 
+            # Manter alinhamento das linhas
             for s1, s2, gold in zip(sentences1, sentences2, labels):
                 emb1 = next((p["embedding"] for p in pares_avaliados if p["sentence"] == s1), None)
                 emb2 = next((p["embedding"] for p in pares_avaliados if p["sentence"] == s2), None)
@@ -190,6 +196,7 @@ def salvar_piores_exemplos(tasks, top_k=5, args=None):
             f.write("-"*60 + "\n")
 
     logging.info(f"Piores exemplos salvos em {saida}")
+
 
 def main():
     parser = argparse.ArgumentParser()
@@ -222,6 +229,7 @@ def main():
 
     # Salvar os piores exemplos com gold labels
     salvar_piores_exemplos(list(TASK_TO_FOLDER.keys()), top_k=5, args=args)
+
 
 if __name__ == "__main__":
     main()
