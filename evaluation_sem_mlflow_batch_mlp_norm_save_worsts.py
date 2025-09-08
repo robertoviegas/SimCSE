@@ -13,7 +13,7 @@ logging.basicConfig(format='%(asctime)s : %(message)s', level=logging.INFO)
 
 # Set PATHs
 PATH_TO_SENTEVAL = './SentEval'
-PATH_TO_DATA = './SentEval/data/downstream'
+PATH_TO_DATA = './SentEval/data'
 
 # Import SentEval
 sys.path.insert(0, PATH_TO_SENTEVAL)
@@ -24,14 +24,15 @@ pares_avaliados = []
 
 # Mapeamento de task → pasta real
 TASK_TO_FOLDER = {
-    'STS12': 'STS12-en-test',
-    'STS13': 'STS13-en-test',
-    'STS14': 'STS14-en-test',
-    'STS15': 'STS15-en-test',
-    'STS16': 'STS16-en-test',
-    'STSBenchmark': 'STSBenchmark',
-    'SICKRelatedness': 'SICK'
+    'STS12': 'downstream/STS/STS12-en-test',
+    'STS13': 'downstream/STS/STS13-en-test',
+    'STS14': 'downstream/STS/STS14-en-test',
+    'STS15': 'downstream/STS/STS15-en-test',
+    'STS16': 'downstream/STS/STS16-en-test',
+    'STSBenchmark': 'downstream/STS/STSBenchmark',
+    'SICKRelatedness': 'downstream/SICK'
 }
+
 
 def run_eval(args, model, tokenizer, device):
     tasks = list(TASK_TO_FOLDER.keys())
