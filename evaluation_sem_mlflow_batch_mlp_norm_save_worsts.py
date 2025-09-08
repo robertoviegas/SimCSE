@@ -33,7 +33,6 @@ TASK_TO_FOLDER = {
     'SICKRelatedness': 'downstream/SICK'
 }
 
-
 def run_eval(args, model, tokenizer, device):
     tasks = list(TASK_TO_FOLDER.keys())
 
@@ -124,7 +123,6 @@ def run_eval(args, model, tokenizer, device):
     scores.append(avg)
     return scores, results
 
-
 def salvar_piores_exemplos(tasks, top_k=5, args=None):
     exemplos = []
     os.makedirs("outputs", exist_ok=True)
@@ -135,12 +133,18 @@ def salvar_piores_exemplos(tasks, top_k=5, args=None):
         folder = TASK_TO_FOLDER[task]
         task_dir = os.path.join(PATH_TO_DATA, folder)
 
-        # Listar arquivos input/gs correspondentes
         input_files = [f for f in os.listdir(task_dir) if f.startswith("STS.input")]
         gs_files = [f for f in os.listdir(task_dir) if f.startswith("STS.gs")]
 
-        # Mapear pares input <-> gs
-        for in_file, gs_file in zip(sorted(input_files), sorted(gs_files)):
+        # Criar dicionário: sufixo → gs_file
+        gs_dict = {f[len("STS.gs."):]: f for f in gs_files}
+
+        for in_file in input_files:
+            suffix = in_file[len("STS.input."):]
+            gs_file = gs_dict.get(suffix)
+            if gs_file is None:
+                continue  # não achou correspondente
+
             in_path = os.path.join(task_dir, in_file)
             gs_path = os.path.join(task_dir, gs_file)
 
@@ -158,15 +162,11 @@ def salvar_piores_exemplos(tasks, top_k=5, args=None):
             with open(gs_path, "r", encoding="utf-8") as f:
                 for line in f:
                     line = line.strip()
-                    if line == "":
-                        labels.append(0.0)  # placeholder para linha vazia
-                    else:
-                        try:
-                            labels.append(float(line))
-                        except:
-                            labels.append(0.0)
+                    try:
+                        labels.append(float(line))
+                    except:
+                        labels.append(0.0)  # linhas vazias ou inválidas → 0
 
-            # Manter alinhamento das linhas
             for s1, s2, gold in zip(sentences1, sentences2, labels):
                 emb1 = next((p["embedding"] for p in pares_avaliados if p["sentence"] == s1), None)
                 emb2 = next((p["embedding"] for p in pares_avaliados if p["sentence"] == s2), None)
@@ -197,7 +197,6 @@ def salvar_piores_exemplos(tasks, top_k=5, args=None):
 
     logging.info(f"Piores exemplos salvos em {saida}")
 
-
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--model_name_or_path", type=str, required=True,
@@ -218,7 +217,6 @@ def main():
     logging.info(f"Rodando avaliação ...")
     scores, results = run_eval(args, model, tokenizer, device)
 
-    # Montar tabela final
     tb = PrettyTable()
     tb.field_names = ['STS12', 'STS13', 'STS14', 'STS15', 'STS16',
                       'STSBenchmark', 'SICKRelatedness', 'Avg.']
@@ -227,9 +225,7 @@ def main():
     print("\nResultados finais:")
     print(tb)
 
-    # Salvar os piores exemplos com gold labels
     salvar_piores_exemplos(list(TASK_TO_FOLDER.keys()), top_k=5, args=args)
-
 
 if __name__ == "__main__":
     main()
