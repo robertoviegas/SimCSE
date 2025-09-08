@@ -13,7 +13,7 @@ logging.basicConfig(format='%(asctime)s : %(message)s', level=logging.INFO)
 
 # Set PATHs
 PATH_TO_SENTEVAL = './SentEval'
-PATH_TO_DATA = './SentEval/data/downstream/STS'
+PATH_TO_DATA = './SentEval/data/downstream'
 
 # Import SentEval
 sys.path.insert(0, PATH_TO_SENTEVAL)
