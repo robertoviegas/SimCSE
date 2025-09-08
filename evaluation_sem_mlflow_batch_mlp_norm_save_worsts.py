@@ -11,9 +11,9 @@ from transformers import AutoModel, AutoTokenizer
 # Set up logger
 logging.basicConfig(format='%(asctime)s : %(message)s', level=logging.INFO)
 
-# Set PATHs
+# PATHs
 PATH_TO_SENTEVAL = './SentEval'
-PATH_TO_DATA = './SentEval/data/downstream/STS'  # caminho atualizado
+PATH_TO_DATA = './SentEval/data/downstream/STS'
 
 # Import SentEval
 sys.path.insert(0, PATH_TO_SENTEVAL)
@@ -23,7 +23,7 @@ import senteval
 pares_avaliados = []
 
 def run_eval(args, model, tokenizer, device):
-    tasks = ['STS12', 'STS13', 'STS14', 'STS15', 'STS16',
+    tasks = ['STS12-en-test', 'STS13-en-test', 'STS14-en-test', 'STS15-en-test', 'STS16-en-test',
              'STSBenchmark', 'SICKRelatedness']
 
     if args.mode in ['dev', 'fasttest']:
@@ -70,13 +70,15 @@ def run_eval(args, model, tokenizer, device):
             elif args.pooler == "avg_first_last":
                 first_hidden = outputs.hidden_states[1]
                 last_hidden = outputs.hidden_states[-1]
-                emb = ((first_hidden + last_hidden) / 2.0 * batch_enc['attention_mask'].unsqueeze(-1)).sum(1) / \
-                      batch_enc['attention_mask'].sum(-1).unsqueeze(-1)
+                emb = ((first_hidden + last_hidden) / 2.0 *
+                       batch_enc['attention_mask'].unsqueeze(-1)).sum(1) / \
+                       batch_enc['attention_mask'].sum(-1).unsqueeze(-1)
             elif args.pooler == "avg_top2":
                 second_last = outputs.hidden_states[-2]
                 last_hidden = outputs.hidden_states[-1]
-                emb = ((last_hidden + second_last) / 2.0 * batch_enc['attention_mask'].unsqueeze(-1)).sum(1) / \
-                      batch_enc['attention_mask'].sum(-1).unsqueeze(-1)
+                emb = ((last_hidden + second_last) / 2.0 *
+                       batch_enc['attention_mask'].unsqueeze(-1)).sum(1) / \
+                       batch_enc['attention_mask'].sum(-1).unsqueeze(-1)
             else:
                 raise NotImplementedError
 
@@ -101,16 +103,16 @@ def run_eval(args, model, tokenizer, device):
     scores = []
     for task in tasks:
         if task in results:
-            if task in ['STS12', 'STS13', 'STS14', 'STS15', 'STS16']:
+            if task.startswith('STS12') or task.startswith('STS13') or \
+               task.startswith('STS14') or task.startswith('STS15') or task.startswith('STS16'):
                 scores.append(results[task]['all']['spearman']['all'] * 100)
-            else:
+            elif task in ['STSBenchmark', 'SICKRelatedness']:
                 scores.append(results[task]['test']['spearman'].correlation * 100)
         else:
             scores.append(0.0)
     avg = sum(scores) / len(scores)
     scores.append(avg)
     return scores, results
-
 
 def salvar_piores_exemplos(tasks, top_k=5, args=None):
     exemplos = []
@@ -121,39 +123,20 @@ def salvar_piores_exemplos(tasks, top_k=5, args=None):
 
     for task in tasks:
         task_dir = os.path.join(PATH_TO_DATA, task)
-        if not os.path.exists(task_dir):
-            continue
+        input_files = [f for f in os.listdir(task_dir) if f.startswith("STS.input.")]
+        gs_files = [f for f in os.listdir(task_dir) if f.startswith("STS.gs.")]
 
-        files = os.listdir(task_dir)
-        input_files = [f for f in files if f.startswith("STS.input.")]
-        gs_files = [f for f in files if f.startswith("STS.gs.")]
-
-        # Mapear sufixos
-        gs_map = {f.split("STS.gs.")[1]: f for f in gs_files}
-
-        for input_file in input_files:
-            sufixo = input_file.split("STS.input.")[1]
-            gs_file = gs_map.get(sufixo)
-            if gs_file is None:
-                logging.warning(f"Arquivo GS não encontrado para {input_file}, pulando...")
-                continue
-
-            input_path = os.path.join(task_dir, input_file)
-            gs_path = os.path.join(task_dir, gs_file)
-
-            # Ler pares de frases
+        for input_file, gs_file in zip(sorted(input_files), sorted(gs_files)):
             sentences1, sentences2 = [], []
-            with open(input_path, "r", encoding="utf-8") as f:
+            with open(os.path.join(task_dir, input_file), "r", encoding="utf-8") as f:
                 for line in f:
                     s1, s2 = line.strip().split("\t")
                     sentences1.append(s1)
                     sentences2.append(s2)
 
-            # Ler gold labels
-            with open(gs_path, "r", encoding="utf-8") as f:
+            with open(os.path.join(task_dir, gs_file), "r", encoding="utf-8") as f:
                 labels = [float(x.strip()) for x in f]
 
-            # Calcular similaridade do modelo
             for s1, s2, gold in zip(sentences1, sentences2, labels):
                 emb1 = next((p["embedding"] for p in pares_avaliados if p["sentence"] == s1), None)
                 emb2 = next((p["embedding"] for p in pares_avaliados if p["sentence"] == s2), None)
@@ -183,7 +166,6 @@ def salvar_piores_exemplos(tasks, top_k=5, args=None):
             f.write("-"*60 + "\n")
 
     logging.info(f"Piores exemplos salvos em {saida}")
-
 
 def main():
     parser = argparse.ArgumentParser()
@@ -215,8 +197,7 @@ def main():
     print(tb)
 
     # Salvar os piores exemplos com gold labels
-    salvar_piores_exemplos(['STS12','STS13','STS14','STS15','STS16','STSBenchmark','SICKRelatedness'], top_k=5, args=args)
-
+    salvar_piores_exemplos(['STS12-en-test','STS13-en-test','STS14-en-test','STS15-en-test','STS16-en-test','STSBenchmark'], top_k=5, args=args)
 
 if __name__ == "__main__":
     main()
