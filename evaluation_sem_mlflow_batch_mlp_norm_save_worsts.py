@@ -19,85 +19,87 @@ PATH_TO_DATA = './SentEval/data'
 sys.path.insert(0, PATH_TO_SENTEVAL)
 import senteval
 
+# Lista global para armazenar pares avaliados
+pares_avaliados = []
 
 def run_eval(args, model, tokenizer, device):
-    # Set up the tasks (apenas STS)
     tasks = ['STS12', 'STS13', 'STS14', 'STS15', 'STS16',
              'STSBenchmark', 'SICKRelatedness']
 
-    # Set params for SentEval
     if args.mode in ['dev', 'fasttest']:
         params = {'task_path': PATH_TO_DATA, 'usepytorch': True, 'kfold': 5}
         params['classifier'] = {'nhid': 0, 'optim': 'rmsprop', 'batch_size': 128,
-                                         'tenacity': 3, 'epoch_size': 2}
-    else:  # test
+                                'tenacity': 3, 'epoch_size': 2}
+    else:
         params = {'task_path': PATH_TO_DATA, 'usepytorch': True, 'kfold': 10}
         params['classifier'] = {'nhid': 0, 'optim': 'adam', 'batch_size': 64,
-                                         'tenacity': 5, 'epoch_size': 4}
+                                'tenacity': 5, 'epoch_size': 4}
 
-    # SentEval prepare and batcher
     def prepare(params, samples):
         return
 
     def batcher(params, batch, max_length=None):
+        global pares_avaliados
         if len(batch) >= 1 and len(batch[0]) >= 1 and isinstance(batch[0][0], bytes):
             batch = [[word.decode('utf-8') for word in s] for s in batch]
 
         sentences = [' '.join(s) for s in batch]
-
-        batch = tokenizer.batch_encode_plus(
+        batch_enc = tokenizer.batch_encode_plus(
             sentences,
             return_tensors='pt',
             padding=True,
             max_length=128,
             truncation=True
         )
-
-        for k in batch:
-            batch[k] = batch[k].to(device)
+        for k in batch_enc:
+            batch_enc[k] = batch_enc[k].to(device)
 
         with torch.no_grad():
-            outputs = model(**batch, output_hidden_states=True, return_dict=True)
+            outputs = model(**batch_enc, output_hidden_states=True, return_dict=True)
 
-            # Pooling
             if args.pooler == 'cls':
                 if hasattr(model, 'pooler'):
-                    emb = model.pooler(outputs.last_hidden_state)   # CLS + MLP treinado
+                    emb = model.pooler(outputs.last_hidden_state)
                 else:
-                    emb = outputs.pooler_output                    # fallback (sem MLP)
+                    emb = outputs.pooler_output
             elif args.pooler == 'cls_before_pooler':
                 emb = outputs.last_hidden_state[:, 0]
             elif args.pooler == "avg":
-                emb = ((outputs.last_hidden_state * batch['attention_mask'].unsqueeze(-1)).sum(1) /
-                        batch['attention_mask'].sum(-1).unsqueeze(-1))
+                emb = ((outputs.last_hidden_state * batch_enc['attention_mask'].unsqueeze(-1)).sum(1) /
+                        batch_enc['attention_mask'].sum(-1).unsqueeze(-1))
             elif args.pooler == "avg_first_last":
                 first_hidden = outputs.hidden_states[1]
                 last_hidden = outputs.hidden_states[-1]
                 emb = ((first_hidden + last_hidden) / 2.0 *
-                       batch['attention_mask'].unsqueeze(-1)).sum(1) / \
-                       batch['attention_mask'].sum(-1).unsqueeze(-1)
+                       batch_enc['attention_mask'].unsqueeze(-1)).sum(1) / \
+                       batch_enc['attention_mask'].sum(-1).unsqueeze(-1)
             elif args.pooler == "avg_top2":
                 second_last = outputs.hidden_states[-2]
                 last_hidden = outputs.hidden_states[-1]
                 emb = ((last_hidden + second_last) / 2.0 *
-                       batch['attention_mask'].unsqueeze(-1)).sum(1) / \
-                       batch['attention_mask'].sum(-1).unsqueeze(-1)
+                       batch_enc['attention_mask'].unsqueeze(-1)).sum(1) / \
+                       batch_enc['attention_mask'].sum(-1).unsqueeze(-1)
             else:
                 raise NotImplementedError
 
-            # Normalização L2 (essencial no SimCSE)
             emb = F.normalize(emb, p=2, dim=1)
+
+        # Salvar embeddings e frases
+        for i, sent in enumerate(sentences):
+            pares_avaliados.append({
+                "sentence": sent,
+                "embedding": emb[i].cpu().numpy()
+            })
 
         return emb.cpu()
 
-    # Rodar todas as tasks
     results = {}
     for task in tasks:
         se = senteval.engine.SE(params, batcher, prepare)
         result = se.eval(task)
         results[task] = result
 
-    # Coletar scores agregados
+    # Scores agregados
     scores = []
     for task in tasks:
         if task in results:
@@ -112,41 +114,51 @@ def run_eval(args, model, tokenizer, device):
     return scores, results
 
 
-def salvar_piores_exemplos(results, top_k=5, saida="worst_sts_examples.txt"):
-    """Extrai os piores pares das STS tasks e salva em um txt"""
+def salvar_piores_exemplos(tasks, top_k=5, args=None):
     exemplos = []
 
-    for task, result in results.items():
-        # Algumas tasks têm resultados em 'all', outras em 'test'
-        if "test" in result:
-            y_true = np.array(result["test"]["y"])
-            y_pred = np.array(result["test"]["x"])
-            sents = result["test"]["sentences"]
-        else:
-            y_true = np.array(result["all"]["y"])
-            y_pred = np.array(result["all"]["x"])
-            sents = result["all"]["sentences"]
+    # Criar pasta de saída
+    os.makedirs("outputs", exist_ok=True)
+    saida = os.path.join("outputs", f"worst_sts_examples_{os.path.basename(args.model_name_or_path).replace('/', '_')}.txt")
 
-        # Similaridade prevista via produto escalar
-        sim_pred = [np.dot(x[0], x[1]) for x in y_pred]
+    for task in tasks:
+        input_file = os.path.join(PATH_TO_DATA, task, f"STS.input.test.txt")
+        gs_file = os.path.join(PATH_TO_DATA, task, f"STS.gs.test.txt")
 
-        # Diferença absoluta
-        diffs = np.abs(y_true - sim_pred)
+        if not os.path.exists(input_file) or not os.path.exists(gs_file):
+            continue
 
-        for i, d in enumerate(diffs):
+        # Ler pares de frases
+        sentences1, sentences2 = [], []
+        with open(input_file, "r", encoding="utf-8") as f:
+            for line in f:
+                s1, s2 = line.strip().split("\t")
+                sentences1.append(s1)
+                sentences2.append(s2)
+
+        # Ler gold labels
+        with open(gs_file, "r", encoding="utf-8") as f:
+            labels = [float(x.strip()) for x in f]
+
+        # Calcular similaridade do modelo
+        for s1, s2, gold in zip(sentences1, sentences2, labels):
+            emb1 = next((p["embedding"] for p in pares_avaliados if p["sentence"]==s1), None)
+            emb2 = next((p["embedding"] for p in pares_avaliados if p["sentence"]==s2), None)
+            if emb1 is None or emb2 is None:
+                continue
+            sim_pred = float(np.dot(emb1, emb2))
+            diff = abs(gold - sim_pred)
             exemplos.append({
                 "task": task,
-                "s1": sents[i][0],
-                "s2": sents[i][1],
-                "gold": y_true[i],
-                "pred": sim_pred[i],
-                "diff": d
+                "s1": s1,
+                "s2": s2,
+                "gold": gold,
+                "pred": sim_pred,
+                "diff": diff
             })
 
-    # Ordenar piores casos
     piores = sorted(exemplos, key=lambda x: x["diff"], reverse=True)[:top_k]
 
-    # Salvar em TXT
     with open(saida, "w", encoding="utf-8") as f:
         for w in piores:
             f.write(f"Task: {w['task']}\n")
@@ -172,30 +184,25 @@ def main():
                         default='test')
     args = parser.parse_args()
 
-    # Load model/tokenizer once
     model = AutoModel.from_pretrained(args.model_name_or_path)
     tokenizer = AutoTokenizer.from_pretrained(args.model_name_or_path)
     device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
     model = model.to(device)
 
-    # Executar avaliação
-    all_results = []
     logging.info(f"Rodando avaliação ...")
     scores, results = run_eval(args, model, tokenizer, device)
-    all_results.append([f"{s:.2f}" for s in scores])
 
     # Montar tabela final
     tb = PrettyTable()
     tb.field_names = ['STS12', 'STS13', 'STS14', 'STS15', 'STS16',
                       'STSBenchmark', 'SICKRelatedness', 'Avg.']
-    for row in all_results:
-        tb.add_row(row)
+    tb.add_row([f"{s:.2f}" for s in scores])
     print(f"Modelo carregado: {args.model_name_or_path}")
     print("\nResultados finais:")
     print(tb)
 
-    # Salvar os piores exemplos
-    salvar_piores_exemplos(results, top_k=5)
+    # Salvar os piores exemplos com gold labels
+    salvar_piores_exemplos(['STS12','STS13','STS14','STS15','STS16','STSBenchmark','SICKRelatedness'], top_k=5, args=args)
 
 
 if __name__ == "__main__":
