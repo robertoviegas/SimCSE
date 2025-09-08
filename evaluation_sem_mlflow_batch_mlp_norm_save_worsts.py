@@ -11,7 +11,7 @@ from transformers import AutoModel, AutoTokenizer
 # Set up logger
 logging.basicConfig(format='%(asctime)s : %(message)s', level=logging.INFO)
 
-# PATHs
+# Set PATHs
 PATH_TO_SENTEVAL = './SentEval'
 PATH_TO_DATA = './SentEval/data/downstream/STS'
 
@@ -22,9 +22,19 @@ import senteval
 # Lista global para armazenar pares avaliados
 pares_avaliados = []
 
+# Mapeamento de task → pasta real
+TASK_TO_FOLDER = {
+    'STS12': 'STS12-en-test',
+    'STS13': 'STS13-en-test',
+    'STS14': 'STS14-en-test',
+    'STS15': 'STS15-en-test',
+    'STS16': 'STS16-en-test',
+    'STSBenchmark': 'STSBenchmark',
+    'SICKRelatedness': 'SICK'
+}
+
 def run_eval(args, model, tokenizer, device):
-    tasks = ['STS12-en-test', 'STS13-en-test', 'STS14-en-test', 'STS15-en-test', 'STS16-en-test',
-             'STSBenchmark', 'SICKRelatedness']
+    tasks = list(TASK_TO_FOLDER.keys())
 
     if args.mode in ['dev', 'fasttest']:
         params = {'task_path': PATH_TO_DATA, 'usepytorch': True, 'kfold': 5}
@@ -103,10 +113,9 @@ def run_eval(args, model, tokenizer, device):
     scores = []
     for task in tasks:
         if task in results:
-            if task.startswith('STS12') or task.startswith('STS13') or \
-               task.startswith('STS14') or task.startswith('STS15') or task.startswith('STS16'):
+            if task in ['STS12', 'STS13', 'STS14', 'STS15', 'STS16']:
                 scores.append(results[task]['all']['spearman']['all'] * 100)
-            elif task in ['STSBenchmark', 'SICKRelatedness']:
+            else:
                 scores.append(results[task]['test']['spearman'].correlation * 100)
         else:
             scores.append(0.0)
@@ -116,26 +125,40 @@ def run_eval(args, model, tokenizer, device):
 
 def salvar_piores_exemplos(tasks, top_k=5, args=None):
     exemplos = []
-
-    # Criar pasta de saída
     os.makedirs("outputs", exist_ok=True)
-    saida = os.path.join("outputs", f"worst_sts_examples_{os.path.basename(args.model_name_or_path).replace('/', '_')}.txt")
+    saida = os.path.join("outputs",
+                         f"worst_sts_examples_{os.path.basename(args.model_name_or_path).replace('/', '_')}.txt")
 
     for task in tasks:
-        task_dir = os.path.join(PATH_TO_DATA, task)
-        input_files = [f for f in os.listdir(task_dir) if f.startswith("STS.input.")]
-        gs_files = [f for f in os.listdir(task_dir) if f.startswith("STS.gs.")]
+        folder = TASK_TO_FOLDER[task]
+        task_dir = os.path.join(PATH_TO_DATA, folder)
 
-        for input_file, gs_file in zip(sorted(input_files), sorted(gs_files)):
+        # Listar arquivos input/gs que correspondem
+        input_files = [f for f in os.listdir(task_dir) if f.startswith("STS.input")]
+        gs_files = [f for f in os.listdir(task_dir) if f.startswith("STS.gs")]
+
+        # Mapear pares input <-> gs
+        for in_file, gs_file in zip(sorted(input_files), sorted(gs_files)):
+            in_path = os.path.join(task_dir, in_file)
+            gs_path = os.path.join(task_dir, gs_file)
+
             sentences1, sentences2 = [], []
-            with open(os.path.join(task_dir, input_file), "r", encoding="utf-8") as f:
+            with open(in_path, "r", encoding="utf-8") as f:
                 for line in f:
-                    s1, s2 = line.strip().split("\t")
+                    parts = line.strip().split("\t")
+                    if len(parts) != 2:
+                        continue
+                    s1, s2 = parts
                     sentences1.append(s1)
                     sentences2.append(s2)
 
-            with open(os.path.join(task_dir, gs_file), "r", encoding="utf-8") as f:
-                labels = [float(x.strip()) for x in f]
+            labels = []
+            with open(gs_path, "r", encoding="utf-8") as f:
+                for line in f:
+                    try:
+                        labels.append(float(line.strip()))
+                    except:
+                        continue
 
             for s1, s2, gold in zip(sentences1, sentences2, labels):
                 emb1 = next((p["embedding"] for p in pares_avaliados if p["sentence"] == s1), None)
@@ -197,7 +220,7 @@ def main():
     print(tb)
 
     # Salvar os piores exemplos com gold labels
-    salvar_piores_exemplos(['STS12-en-test','STS13-en-test','STS14-en-test','STS15-en-test','STS16-en-test','STSBenchmark'], top_k=5, args=args)
+    salvar_piores_exemplos(list(TASK_TO_FOLDER.keys()), top_k=5, args=args)
 
 if __name__ == "__main__":
     main()
