@@ -13,7 +13,7 @@ logging.basicConfig(format='%(asctime)s : %(message)s', level=logging.INFO)
 
 # Set PATHs
 PATH_TO_SENTEVAL = './SentEval'
-PATH_TO_DATA = './SentEval/data'
+PATH_TO_DATA = './SentEval/data/downstream/STS'  # caminho atualizado
 
 # Import SentEval
 sys.path.insert(0, PATH_TO_SENTEVAL)
@@ -66,19 +66,17 @@ def run_eval(args, model, tokenizer, device):
                 emb = outputs.last_hidden_state[:, 0]
             elif args.pooler == "avg":
                 emb = ((outputs.last_hidden_state * batch_enc['attention_mask'].unsqueeze(-1)).sum(1) /
-                        batch_enc['attention_mask'].sum(-1).unsqueeze(-1))
+                       batch_enc['attention_mask'].sum(-1).unsqueeze(-1))
             elif args.pooler == "avg_first_last":
                 first_hidden = outputs.hidden_states[1]
                 last_hidden = outputs.hidden_states[-1]
-                emb = ((first_hidden + last_hidden) / 2.0 *
-                       batch_enc['attention_mask'].unsqueeze(-1)).sum(1) / \
-                       batch_enc['attention_mask'].sum(-1).unsqueeze(-1)
+                emb = ((first_hidden + last_hidden) / 2.0 * batch_enc['attention_mask'].unsqueeze(-1)).sum(1) / \
+                      batch_enc['attention_mask'].sum(-1).unsqueeze(-1)
             elif args.pooler == "avg_top2":
                 second_last = outputs.hidden_states[-2]
                 last_hidden = outputs.hidden_states[-1]
-                emb = ((last_hidden + second_last) / 2.0 *
-                       batch_enc['attention_mask'].unsqueeze(-1)).sum(1) / \
-                       batch_enc['attention_mask'].sum(-1).unsqueeze(-1)
+                emb = ((last_hidden + second_last) / 2.0 * batch_enc['attention_mask'].unsqueeze(-1)).sum(1) / \
+                      batch_enc['attention_mask'].sum(-1).unsqueeze(-1)
             else:
                 raise NotImplementedError
 
@@ -122,40 +120,55 @@ def salvar_piores_exemplos(tasks, top_k=5, args=None):
     saida = os.path.join("outputs", f"worst_sts_examples_{os.path.basename(args.model_name_or_path).replace('/', '_')}.txt")
 
     for task in tasks:
-        input_file = os.path.join(PATH_TO_DATA, task, f"STS.input.test.txt")
-        gs_file = os.path.join(PATH_TO_DATA, task, f"STS.gs.test.txt")
-
-        if not os.path.exists(input_file) or not os.path.exists(gs_file):
+        task_dir = os.path.join(PATH_TO_DATA, task)
+        if not os.path.exists(task_dir):
             continue
 
-        # Ler pares de frases
-        sentences1, sentences2 = [], []
-        with open(input_file, "r", encoding="utf-8") as f:
-            for line in f:
-                s1, s2 = line.strip().split("\t")
-                sentences1.append(s1)
-                sentences2.append(s2)
+        files = os.listdir(task_dir)
+        input_files = [f for f in files if f.startswith("STS.input.")]
+        gs_files = [f for f in files if f.startswith("STS.gs.")]
 
-        # Ler gold labels
-        with open(gs_file, "r", encoding="utf-8") as f:
-            labels = [float(x.strip()) for x in f]
+        # Mapear sufixos
+        gs_map = {f.split("STS.gs.")[1]: f for f in gs_files}
 
-        # Calcular similaridade do modelo
-        for s1, s2, gold in zip(sentences1, sentences2, labels):
-            emb1 = next((p["embedding"] for p in pares_avaliados if p["sentence"]==s1), None)
-            emb2 = next((p["embedding"] for p in pares_avaliados if p["sentence"]==s2), None)
-            if emb1 is None or emb2 is None:
+        for input_file in input_files:
+            sufixo = input_file.split("STS.input.")[1]
+            gs_file = gs_map.get(sufixo)
+            if gs_file is None:
+                logging.warning(f"Arquivo GS não encontrado para {input_file}, pulando...")
                 continue
-            sim_pred = float(np.dot(emb1, emb2))
-            diff = abs(gold - sim_pred)
-            exemplos.append({
-                "task": task,
-                "s1": s1,
-                "s2": s2,
-                "gold": gold,
-                "pred": sim_pred,
-                "diff": diff
-            })
+
+            input_path = os.path.join(task_dir, input_file)
+            gs_path = os.path.join(task_dir, gs_file)
+
+            # Ler pares de frases
+            sentences1, sentences2 = [], []
+            with open(input_path, "r", encoding="utf-8") as f:
+                for line in f:
+                    s1, s2 = line.strip().split("\t")
+                    sentences1.append(s1)
+                    sentences2.append(s2)
+
+            # Ler gold labels
+            with open(gs_path, "r", encoding="utf-8") as f:
+                labels = [float(x.strip()) for x in f]
+
+            # Calcular similaridade do modelo
+            for s1, s2, gold in zip(sentences1, sentences2, labels):
+                emb1 = next((p["embedding"] for p in pares_avaliados if p["sentence"] == s1), None)
+                emb2 = next((p["embedding"] for p in pares_avaliados if p["sentence"] == s2), None)
+                if emb1 is None or emb2 is None:
+                    continue
+                sim_pred = float(np.dot(emb1, emb2))
+                diff = abs(gold - sim_pred)
+                exemplos.append({
+                    "task": task,
+                    "s1": s1,
+                    "s2": s2,
+                    "gold": gold,
+                    "pred": sim_pred,
+                    "diff": diff
+                })
 
     piores = sorted(exemplos, key=lambda x: x["diff"], reverse=True)[:top_k]
 
