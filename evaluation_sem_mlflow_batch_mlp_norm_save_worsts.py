@@ -225,7 +225,7 @@ def main():
     print("\nResultados finais:")
     print(tb)
 
-    salvar_piores_exemplos(list(TASK_TO_FOLDER.keys()), top_k=5, args=args)
+    salvar_piores_exemplos(list(TASK_TO_FOLDER.keys()), top_k=100, args=args)
 
 if __name__ == "__main__":
     main()
